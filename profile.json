@@ -1,0 +1,86 @@
+{
+  "owner": "Siddartha Reddy Chinthala",
+  "tagline": "OPT-friendly SWE / AI / Data Engineering roles, auto-matched to my resume.",
+  "experience_years_min": 0,
+  "experience_years_max": 3,
+  "us_only": true,
+  "us_location_hints": [
+    "united states", "usa", "u.s.", "remote - us", "remote, us", "remote (us",
+    "alabama","alaska","arizona","arkansas","california","colorado","connecticut",
+    "delaware","florida","georgia","hawaii","idaho","illinois","indiana","iowa",
+    "kansas","kentucky","louisiana","maine","maryland","massachusetts","michigan",
+    "minnesota","mississippi","missouri","montana","nebraska","nevada","new hampshire",
+    "new jersey","new mexico","new york","north carolina","north dakota","ohio",
+    "oklahoma","oregon","pennsylvania","rhode island","south carolina","south dakota",
+    "tennessee","texas","utah","vermont","virginia","washington","west virginia",
+    "wisconsin","wyoming",
+    ", ny", ", ca", ", tx", ", wa", ", il", ", ma", ", co", ", ga", ", fl",
+    ", nc", ", va", ", az", ", oh", ", pa", ", mi", ", nj", ", ut", ", mn",
+    ", md", ", dc", ", us", "- us", "remote us", "remote - us", "us-remote",
+    "new york", "san francisco", "seattle", "austin", "boston", "chicago",
+    "los angeles", "atlanta", "denver", "bay area", "mountain view", "menlo park",
+    "palo alto", "sunnyvale", "san jose", "cupertino", "redmond", "bellevue"
+  ],
+  "us_location_block": [
+    "canada","toronto","vancouver","ontario","london","united kingdom","uk",
+    "ireland","dublin","india","bangalore","bengaluru","hyderabad","pune",
+    "germany","munich","berlin","france","paris","spain","madrid","barcelona",
+    "netherlands","amsterdam","singapore","australia","sydney","melbourne",
+    "japan","tokyo","brazil","mexico","poland","portugal","lisbon","israel",
+    "tel aviv","emea","apac","latam","switzerland","zurich","sweden","stockholm",
+    "china","beijing","shanghai","shenzhen","hong kong","korea","seoul",
+    "philippines","manila","indonesia","jakarta","vietnam","thailand","bangkok",
+    "argentina","colombia","chile","costa rica","peru","romania","bucharest",
+    "czech","prague","austria","vienna","belgium","denmark","norway","finland",
+    "new zealand","south africa","nigeria","egypt","turkey","istanbul","greece",
+    "serbia","belgrade","croatia","ukraine","bulgaria","hungary","budapest",
+    "slovakia","estonia","tallinn","lithuania","latvia","luxembourg","malta",
+    "uae","dubai","abu dhabi","qatar","saudi","taiwan","taipei","malaysia",
+    "remote - emea","remote emea","remote apac","abroad","worldwide"
+  ],
+  "roles_include": [
+    "software engineer", "software developer", "sde", "swe",
+    "full stack", "fullstack", "full-stack",
+    "ai engineer", "ml engineer", "machine learning", "applied ai",
+    "data engineer", "backend engineer", "backend developer",
+    "frontend engineer", "platform engineer", "applications developer",
+    "member of technical staff", "associate software"
+  ],
+  "roles_exclude": [
+    "senior", "sr.", "staff", "principal", "lead", "manager", "director",
+    "architect", "head of", "vp", "vice president", "intern", "internship",
+    "phd", "research scientist", "fellow", "president"
+  ],
+  "exp_exclude_patterns": [
+    "5+ years", "6+ years", "7+ years", "8+ years", "10+ years",
+    "minimum of 5", "minimum of 6", "minimum of 7", "minimum of 8",
+    "at least 5 years", "at least 6 years", "at least 7 years",
+    "5-7 years", "5 to 7", "6-8 years", "7-10 years"
+  ],
+  "clearance_exclude": [
+    "security clearance", "active clearance", "active secret", "secret clearance",
+    "top secret", "ts/sci", "ts sci", "sci clearance", "polygraph", "poly clearance",
+    "ci poly", "full scope poly", "dod clearance", "doe clearance", "q clearance",
+    "public trust clearance", "must hold a clearance", "ability to obtain a clearance",
+    "eligible for a security clearance", "u.s. government security clearance",
+    "government clearance", "clearance required", "clearable", "fed ramp clearance"
+  ],
+  "no_sponsor_flags": [
+    "u.s. citizen", "us citizen", "must be a citizen",
+    "security clearance", "active clearance", "ts/sci", "secret clearance",
+    "no sponsorship", "not provide sponsorship", "unable to sponsor",
+    "without sponsorship", "do not offer sponsorship",
+    "citizenship is required", "green card required"
+  ],
+  "skills": [
+    "python", "javascript", "typescript", "react", "java", "sql", "go", "golang",
+    "fastapi", "spring boot", "node", "node.js", "node.js", "rest", "api",
+    "postgresql", "postgres", "mysql", "mongodb", "nosql", "redis", "supabase",
+    "aws", "lambda", "ec2", "s3", "rds", "gcp", "bigquery", "docker", "kubernetes",
+    "ci/cd", "github actions", "terraform",
+    "claude", "openai", "llm", "langchain", "langgraph", "rag", "mcp",
+    "gen ai", "generative ai", "agent", "agentic", "vertex ai", "gemini",
+    "etl", "dbt", "airflow", "pandas", "numpy", "scikit-learn", "data pipeline",
+    "microservices", "system design", "html", "css", "streamlit"
+  ]
+}

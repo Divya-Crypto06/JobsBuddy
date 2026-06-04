@@ -4,11 +4,11 @@
 
 Auto-updated job board for **international students on OPT** — **Software / AI / Data Engineering** roles at companies with a **known H1B sponsorship history**. New jobs are added to the top every day.
 
-**Last updated:** 2026-06-04 15:31 UTC  •  **Total jobs:** 222  •  **Open now:** 222  •  **🆕 Added today:** 222
+**Last updated:** 2026-06-04 15:38 UTC  •  **Total jobs:** 219  •  **Open now:** 219  •  **🆕 Added today:** 219
 
 **Legend:** ✅ Sponsors = recent H1B filing history • 🆕 = added today • 🔒 = no longer listed (kept for history) • Match % = fit vs. this profile. No security-clearance or non-US roles.
 
-## 🗓️ June 04, 2026 — 222 jobs
+## 🗓️ June 04, 2026 — 219 jobs
 
 | | Company | Role | Location | Visa | Match | Status | Apply |
 |--|--|--|--|--|--|--|--|
@@ -31,7 +31,6 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Pinterest | Software Engineer II, Backend, tvScientific | San Francisco, CA, US | ✅ Sponsors (High) | **84%** | Open | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782552) |
 | 🆕 | Pinterest | Software Engineer II, Simulation, tvScientific | San Francisco, CA, US | ✅ Sponsors (High) | **84%** | Open | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7642265) |
 | 🆕 | Stripe | Software Engineer, Balance Abstraction | Seattle, WA | ✅ Sponsors (High) | **76%** | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7908923) |
-| 🆕 | Databricks | Software Engineer - Backend | Belgrade, Serbia | ✅ Sponsors (High) | **76%** | Open | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002) |
 | 🆕 | Databricks | Sr Software Engineer- Customer Experience Intelligence (CXI) | Mountain View, Californi | ✅ Sponsors (High) | **76%** | Open | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002) |
 | 🆕 | Robinhood | Software Engineer | Menlo Park, CA | ✅ Sponsors (High) | **76%** | Open | [Apply](https://boards.greenhouse.io/robinhood/jobs/7975550?t=gh_src=&gh_jid=7975550) |
 | 🆕 | Affirm | Analyst I, Full Stack (Core Analytics) | Remote US | ✅ Sponsors (High) | **76%** | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7726627003) |
@@ -46,7 +45,6 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | DoorDash | Software Engineer, iOS (All Teams) | Sunnyvale, CA | ✅ Sponsors (High) | **68%** | Open | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630454) |
 | 🆕 | Palantir | Software Engineer - Apollo Systems | New York, NY  +1 more | ✅ Sponsors (High) | **68%** | Open | [Apply](https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4) |
 | 🆕 | Databricks | Software Engineer - GenAI inference  | San Francisco, Californi | ✅ Sponsors (High) | **60%** | Open | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002) |
-| 🆕 | Databricks | Software Engineering New Grad (2026) | Belgrade, Serbia | ✅ Sponsors (High) | **60%** | Open | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=7640776002) |
 | 🆕 | Robinhood | Backend Software Engineer, Credit Cards & Banking | Bellevue, WA | ✅ Sponsors (High) | **60%** | Open | [Apply](https://boards.greenhouse.io/robinhood/jobs/7754143?t=gh_src=&gh_jid=7754143) |
 | 🆕 | Airbnb | iOS Software Engineer, Airbnb - New Grad | San Francisco, CA, Seatt | ✅ Sponsors (High) | **60%** | Open | [Apply](https://careers.airbnb.com/positions/7859317?gh_jid=7859317) |
 | 🆕 | Dropbox | Infrastructure Software Engineer | Remote - US: Select loca | ✅ Sponsors (High) | **60%** | Open | [Apply](https://jobs.dropbox.com/listing/6330390?gh_jid=6330390) |
@@ -54,7 +52,6 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Stripe | Full Stack Engineer, Developer Experience & Product Platform | N/A | ✅ Sponsors (High) | **52%** | Open | [Apply](https://stripe.com/jobs/search?gh_jid=6567104) |
 | 🆕 | Stripe | Full Stack Engineer, Money as a Service | N/A | ✅ Sponsors (High) | **52%** | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7325118) |
 | 🆕 | Stripe | Full Stack Engineer, Web Presence and Platform | N/A | ✅ Sponsors (High) | **52%** | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7436086) |
-| 🆕 | Databricks | Software Engineer - Distributed Data Systems | Belgrade, Serbia | ✅ Sponsors (High) | **52%** | Open | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002) |
 | 🆕 | Robinhood | Software Engineer, Cloud Engineering | Ljubljana, Slovenia | ✅ Sponsors (High) | **52%** | Open | [Apply](https://boards.greenhouse.io/robinhood/jobs/7589432?t=gh_src=&gh_jid=7589432) |
 | 🆕 | Affirm | Software Engineer, Early Career | San Francisco, Californi | ✅ Sponsors (High) | **52%** | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 | 🆕 | Affirm | Software Engineering Apprentice, Full-Stack | Remote US | ✅ Sponsors (High) | **52%** | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7647925003) |
@@ -77,6 +74,7 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Palantir | Backend Software Engineer - Application Development | New York, NY | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/ab7e3425-81d5-4705-a7b5-cd60c8a45cdb) |
 | 🆕 | Palantir | Backend Software Engineer - Defense | New York, NY  +2 more | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c) |
 | 🆕 | Palantir | Forward Deployed AI Engineer | New York, NY | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488) |
+| 🆕 | Palantir | Forward Deployed Software Engineer | New York, NY | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0) |
 | 🆕 | Palantir | Forward Deployed Software Engineer - Warp Speed | New York, NY | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18) |
 | 🆕 | Palantir | Software Engineer - Hosted Model Infrastructure | New York, NY  +2 more | ✅ Sponsors (High) | **36%** | Open | [Apply](https://jobs.lever.co/palantir/4df4cca5-e361-498b-806d-05f21638c93a) |
 | 🆕 | Palantir | Forward Deployed Software Engineer - Intel | Washington, D.C. | ✅ Sponsors (High) | **28%** | Open | [Apply](https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f) |
@@ -86,7 +84,6 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Palantir | Software Engineer - Edge | Washington, D.C. | ✅ Sponsors (High) | **28%** | Open | [Apply](https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720) |
 | 🆕 | Palantir | Software Engineer - Frontend Developer Productivity | New York, NY | ✅ Sponsors (High) | **28%** | Open | [Apply](https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540) |
 | 🆕 | Adobe | React/Full Stack UI Engineer | Noida | ✅ Sponsors (High) | **28%** | Open | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/React-Full-Stack-UI-Engineer_R167409-1) |
-| 🆕 | Palantir | Forward Deployed Software Engineer | Abu Dhabi, United Arab E  +3 | ✅ Sponsors (High) | **20%** | Open | [Apply](https://jobs.lever.co/palantir/8148182c-6127-4689-b615-7815a94173bb) |
 | 🆕 | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems | Washington, D.C. | ✅ Sponsors (High) | **20%** | Open | [Apply](https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b) |
 | 🆕 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2 | Palo Alto, CA  +1 more | ✅ Sponsors (High) | **20%** | Open | [Apply](https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430) |
 | 🆕 | Palantir | Forward Deployed Software Engineer - Tactical Edge | Washington, D.C. | ✅ Sponsors (High) | **20%** | Open | [Apply](https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43) |
@@ -116,7 +113,6 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Notion | Software Engineer, Trust | San Francisco, Californi | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://jobs.ashbyhq.com/notion/66236b7e-2905-4a93-84a5-ed036a1a6581) |
 | 🆕 | MongoDB | Software Engineer 3 | Gurugram | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7908785) |
 | 🆕 | MongoDB | Software Engineer, Data Migration | California | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7523834) |
-| 🆕 | Twilio | Software Engineer | Remote - Estonia  +1 more | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7647708) |
 | 🆕 | Twilio | Software Engineer (L2) | Remote - US | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7188174) |
 | 🆕 | Twilio | Software Engineer (L2) Segment Team | Remote - US | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7767263) |
 | 🆕 | Twilio | Software Engineer - Video | Remote - US | ✅ Sponsors (Med) | **100%** | Open | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7661919) |
@@ -176,6 +172,7 @@ Auto-updated job board for **international students on OPT** — **Software / AI
 | 🆕 | Ramp | Software Engineer, Engineering Platform | New York, NY (HQ) | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1) |
 | 🆕 | MongoDB | Software Engineer, Code Generation | British Columbia | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7311708) |
 | 🆕 | MongoDB | Software Engineer, Developer Productivity | New York City | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://www.mongodb.com/careers/job/?gh_jid=7851388) |
+| 🆕 | Twilio | Software Engineer | Remote - US | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7605743) |
 | 🆕 | OpenAI | Software Engineer, RL Training Infra | San Francisco | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://jobs.ashbyhq.com/openai/13995549-e8cc-498f-9eaa-1869067ac35b) |
 | 🆕 | OpenAI | Software Engineer, Data Acquisition  | San Francisco | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://jobs.ashbyhq.com/openai/41d9d129-2e58-4ad3-be81-2e5096f4da4d) |
 | 🆕 | OpenAI | Software Engineer, Observability | San Francisco | ✅ Sponsors (Med) | **84%** | Open | [Apply](https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842) |
