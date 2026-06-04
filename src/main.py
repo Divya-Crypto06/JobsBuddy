@@ -17,6 +17,7 @@ from scrape import scrape_all
 from filter import filter_jobs
 from sponsors import load_sponsors, tag_sponsors
 from match import score_all
+from freshness import tag_freshness
 from render import render_readme
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -72,8 +73,9 @@ def main():
     print("③ Tagging visa sponsors...")
     jobs = tag_sponsors(jobs, load_sponsors())
 
-    print("④ Scoring match vs. resume...")
+    print("④ Scoring match + tagging freshness...")
     jobs = score_all(jobs, profile)
+    jobs = tag_freshness(jobs)
 
     before = len(jobs)
     jobs = dedupe(jobs)
@@ -92,6 +94,8 @@ def main():
             archive[k]["url"] = j["url"]
             archive[k]["location"] = j["location"]
             archive[k]["open"] = True
+            archive[k]["age_days"] = j.get("age_days")
+            archive[k]["fresh"] = j.get("fresh", False)
         else:
             j["first_seen"] = today
             j["last_seen"] = today

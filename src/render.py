@@ -91,8 +91,9 @@ def render_readme(jobs, profile, today):
     L.append(f"<sub>🔄 Last updated: **{now}** • Total roles tracked: **{total}** • "
              f"Open now: **{open_now}** • 🆕 Added today: **{new_today}**</sub>")
     L.append("")
-    L.append("**Legend:** ✅ Sponsors = recent H1B filing history • 🆕 = added today • "
-             "🔒 = no longer listed (kept for history) • Match % = how strong a fit the role is.")
+    L.append("**Legend:** 🔥 NEW = added in the latest update (older jobs lose this automatically) • "
+             "✅ Sponsors = recent H1B filing history • 🔒 = no longer listed • "
+             "Posted = how long ago the company posted it • Match % = how strong a fit the role is.")
     L.append("")
     L.append("---")
     L.append("")
@@ -102,17 +103,18 @@ def render_readme(jobs, profile, today):
         nice = _pretty_date(day)
         L.append(f"## 🗓️ {nice} — {len(group)} jobs")
         L.append("")
-        L.append("| | Company | Role | Location | Visa | Match | Added | Status | Apply |")
-        L.append("|--|--|--|--|--|--|--|--|--|")
+        L.append("| | Company | Role | Location | Visa | Match | Posted | Added | Status | Apply |")
+        L.append("|--|--|--|--|--|--|--|--|--|--|")
         for j in group:
-            flag = "🆕" if j.get("first_seen") == today else ""
+            # 🔥 ONLY on jobs added in the latest update; older ones lose it automatically
+            flags = "🔥 NEW" if j.get("first_seen") == today else ""
             title = (j.get("title", "")).replace("|", "/")
             loc = (j.get("location") or "—").replace("|", "/")[:28]
             status = "Open" if j.get("open", True) else "🔒 Closed"
             added = _pretty_date(j.get("first_seen", "")) if j.get("first_seen") else "—"
-            L.append(f"| {flag} | {j.get('company','')} | {title} | {loc} | "
-                     f"{_visa_cell(j)} | **{j.get('match_score', 0)}%** | {added} | {status} | "
-                     f"[Apply]({j.get('url','')}) |")
+            L.append(f"| {flags} | {j.get('company','')} | {title} | {loc} | "
+                     f"{_visa_cell(j)} | **{j.get('match_score', 0)}%** | {_posted_cell(j)} | "
+                     f"{added} | {status} | [Apply]({j.get('url','')}) |")
         L.append("")
 
     L.append("<sub>Built with a free Python scraper + GitHub Actions — no paid APIs. "
@@ -121,6 +123,19 @@ def render_readme(jobs, profile, today):
              "(Greenhouse, Lever, Ashby, Workday).</sub>")
     L.append("")
     return "\n".join(L)
+
+
+def _posted_cell(j):
+    # the company's own posting age (plain text — no fire, to avoid confusion
+    # with the 🔥 NEW marker which means "added to this board in the latest update")
+    age = j.get("age_days")
+    if age is None:
+        return "—"
+    if age <= 0:
+        return "today"
+    if age <= 30:
+        return f"{age}d ago"
+    return f"{age // 30}mo ago"
 
 
 def _pretty_date(d):
