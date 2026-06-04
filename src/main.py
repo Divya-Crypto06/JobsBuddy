@@ -17,7 +17,7 @@ from scrape import scrape_all
 from filter import filter_jobs, role_ok, experience_ok, needs_clearance, location_ok
 from sponsors import load_sponsors, tag_sponsors
 from match import score_all
-from freshness import tag_freshness
+from freshness import tag_freshness, age_in_days
 from render import render_readme
 from render_html import render_html
 
@@ -36,6 +36,12 @@ def job_key(j):
     # location-independent: one role = one stable archive entry
     raw = f"{j['company']}|{j['title']}".lower().strip()
     return hashlib.md5(raw.encode()).hexdigest()[:12]
+
+
+def _fresh_enough(age, max_age, strict):
+    if age is None:
+        return not strict          # strict mode drops jobs we can't date
+    return age <= max_age
 
 
 def dedupe(jobs):
@@ -77,6 +83,15 @@ def main():
     print("④ Scoring match + tagging freshness...")
     jobs = score_all(jobs, profile)
     jobs = tag_freshness(jobs)
+
+    # drop jobs posted more than N days ago (too many applicants already)
+    max_age = profile.get("max_posted_age_days")
+    strict = profile.get("require_known_date", False)
+    if max_age is not None:
+        before_age = len(jobs)
+        jobs = [j for j in jobs if _fresh_enough(j.get("age_days"), max_age, strict)]
+        print(f"   freshness: kept {len(jobs)} posted within {max_age} days "
+              f"(dropped {before_age - len(jobs)}; strict={strict})")
 
     before = len(jobs)
     jobs = dedupe(jobs)
@@ -120,7 +135,11 @@ def main():
     bad = []
     for k, j in archive.items():
         blob = f"{j.get('title','')} {j.get('description','')}"
-        if (not role_ok(j.get("title", ""), profile)
+        # recompute current posting age (jobs age out of the window over time)
+        age = age_in_days(j.get("posted_at"))
+        too_old = (max_age is not None and not _fresh_enough(age, max_age, strict))
+        if (too_old
+                or not role_ok(j.get("title", ""), profile)
                 or not experience_ok(blob, profile)
                 or needs_clearance(blob, profile)
                 or not location_ok(j.get("location", ""), profile)):
@@ -128,7 +147,7 @@ def main():
     for k in bad:
         del archive[k]
     if bad:
-        print(f"   🧹 purged {len(bad)} jobs that no longer match the filters")
+        print(f"   🧹 purged {len(bad)} jobs (stale >{max_age}d or no longer matching filters)")
 
     print("⑥ Writing README.md + index.html (website)...")
     snapshot = list(archive.values())

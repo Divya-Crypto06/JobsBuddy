@@ -3,6 +3,8 @@
   "tagline": "OPT-friendly SWE / AI / Data Engineering roles, auto-matched to my resume.",
   "experience_years_min": 0,
   "experience_years_max": 3,
+  "max_posted_age_days": 3,
+  "require_known_date": true,
   "us_only": true,
   "us_location_hints": [
     "united states", "usa", "u.s.", "remote - us", "remote, us", "remote (us",
