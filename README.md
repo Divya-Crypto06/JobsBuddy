@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/SIDDARTHAREDDY8/JobsBuddy/stargazers"><img src="https://img.shields.io/github/stars/SIDDARTHAREDDY8/JobsBuddy?style=for-the-badge&logo=github&color=gold" alt="Stars"></a>
 <img src="https://img.shields.io/badge/updated-every%206%20hours-brightgreen?style=for-the-badge" alt="Auto-updated">
-<img src="https://img.shields.io/badge/open%20jobs-101-blue?style=for-the-badge" alt="Open jobs">
+<img src="https://img.shields.io/badge/open%20jobs-102-blue?style=for-the-badge" alt="Open jobs">
 <img src="https://img.shields.io/badge/cost-%240%20forever-success?style=for-the-badge" alt="Free">
 </p>
 
@@ -38,18 +38,19 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 3. 📋 Scroll the table below — newest jobs are at the top.
 4. 🛂 Look for the **✅ Sponsors** tag, then hit **Apply**.
 
-<sub>🔄 Last updated: **2026-06-05 02:32 PM ET** • Total roles tracked: **129** • Open now: **101** • 🆕 Added today: **6**</sub>
+<sub>🔄 Last updated: **2026-06-05 02:47 PM ET** • Total roles tracked: **130** • Open now: **102** • 🆕 Added today: **7**</sub>
 
 **Legend:** 🔥 NEW = added in the latest update (older jobs lose this automatically) • ✅ Sponsors = recent H1B filing history • 🔒 = no longer listed • Posted = how long ago the company posted it • Match % = how strong a fit the role is.
 
 ---
 
-## 🗓️ June 05, 2026 — 6 jobs
+## 🗓️ June 05, 2026 — 7 jobs
 
 | | Company | Role | Location | Visa | Match | Posted | Added | Status | Apply |
 |--|--|--|--|--|--|--|--|--|--|
 | 🔥 NEW | Block | Software Engineer, Finance Applications | Bay Area, CA, United Sta | ✅ Sponsors (High) | **100%** | today | June 05, 2026 | Open | [Apply](http://block.xyz/careers/jobs/4888459008?gh_jid=4888459008) |
 | 🔥 NEW | Stripe | Software Engineer, Balance Abstraction | Seattle, WA | ✅ Sponsors (High) | **76%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7908923) |
+| 🔥 NEW | Stripe | Backend Engineer, Payments and Risk | US | ✅ Sponsors (High) | **72%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7232592) |
 | 🔥 NEW | Stripe | Full Stack Engineer, Web Presence and Platform | N/A | ✅ Sponsors (High) | **52%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7436086) |
 | 🔥 NEW | Stripe | Full Stack Engineer, Payments Experiences | N/A | ✅ Sponsors (High) | **28%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7895284) |
 | 🔥 NEW | Nextdoor | Software Engineer - iOS | US Remote | ✅ Sponsors (Med) | **68%** | today | June 05, 2026 | Open | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=7540015) |
@@ -156,10 +157,10 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 |  | Datadog | Software Engineer II, Enterprise Engineering | New York, New York, USA | ✅ Sponsors (High) | **76%** | today | June 03, 2026 | 🔒 Closed | [Apply](https://careers.datadoghq.com/detail/7980350/?gh_jid=7980350) |
 |  | Robinhood | Machine Learning Engineer | Bellevue, WA | ✅ Sponsors (High) | **72%** | 1d ago | June 03, 2026 | Open | [Apply](https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680) |
 |  | DoorDash | Software Engineer, iOS (All Teams) | Sunnyvale, CA | ✅ Sponsors (High) | **68%** | 1d ago | June 03, 2026 | Open | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630454) |
-|  | Stripe | Software Engineer | New York, NY  +2 more | ✅ Sponsors (High) | **60%** | today | June 03, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7926587) |
+|  | Stripe | Software Engineer | New York, NY  +2 more | ✅ Sponsors (High) | **60%** | today | June 03, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7895344) |
 |  | Dropbox | Infrastructure Software Engineer | Remote - US: Select loca | ✅ Sponsors (High) | **60%** | today | June 03, 2026 | Open | [Apply](https://jobs.dropbox.com/listing/6330390?gh_jid=6330390) |
 |  | Pinterest | Security Software Engineer II, Detection and Response | San Francisco, CA, US | ✅ Sponsors (High) | **60%** | today | June 03, 2026 | Open | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7770914) |
-|  | Affirm | Software Engineer, Early Career | San Francisco, Californi | ✅ Sponsors (High) | **52%** | 1d ago | June 03, 2026 | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
+|  | Affirm | Software Engineer, Early Career | San Francisco, Californi | ✅ Sponsors (High) | **52%** | today | June 03, 2026 | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7485068003) |
 |  | Affirm | Software Engineering Apprentice, Full-Stack | Remote US | ✅ Sponsors (High) | **52%** | 1d ago | June 03, 2026 | Open | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7647925003) |
 |  | Pinterest | Security Software Engineer II, Corporate Security | San Francisco, CA, US | ✅ Sponsors (High) | **52%** | today | June 03, 2026 | Open | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7494666) |
 |  | Pinterest | Security Software Engineer II, Security Operations | Chicago, IL, US | ✅ Sponsors (High) | **52%** | today | June 03, 2026 | Open | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7816431) |
