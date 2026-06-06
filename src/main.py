@@ -111,6 +111,7 @@ def main():
             archive[k]["url"] = j["url"]
             archive[k]["location"] = j["location"]
             archive[k]["description"] = j.get("description", "")[:3000]  # refresh (trimmed)
+            archive[k]["posted_at"] = j.get("posted_at", archive[k].get("posted_at", ""))
             archive[k]["open"] = True
             archive[k]["age_days"] = j.get("age_days")
             archive[k]["fresh"] = j.get("fresh", False)
@@ -152,6 +153,15 @@ def main():
         del archive[k]
     if bad:
         print(f"   🧹 purged {len(bad)} jobs (stale >{max_age}d or no longer matching filters)")
+
+    print("⑤b Verifying Apply links are live...")
+    from verify import verify_links
+    dead = verify_links(list(archive.values()))
+    for j in dead:
+        k = job_key(j)
+        archive.pop(k, None)
+    if dead:
+        print(f"   🔗 removed {len(dead)} jobs with dead (404) Apply links")
 
     print("⑥ Writing README.md + index.html (website)...")
     snapshot = list(archive.values())

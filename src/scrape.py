@@ -33,7 +33,9 @@ def scrape_greenhouse(slug, company):
             "location": loc,
             "url": j.get("absolute_url", ""),
             "description": _strip_html(j.get("content", "")),
-            "posted_at": j.get("updated_at", "") or j.get("first_published", ""),
+            # use first_published (REAL posting date), NOT updated_at (last edit) —
+            # otherwise months-old jobs that got re-touched look "fresh"
+            "posted_at": j.get("first_published", "") or j.get("updated_at", ""),
             "source": "greenhouse",
         })
     return out
