@@ -172,6 +172,25 @@ def main():
     with open(os.path.join(HERE, "data", "jobs.json"), "w") as f:
         json.dump(archive, f, indent=2)
 
+    # ⑦ final self-audit: confirm NOTHING on the board violates the filters
+    leaks = []
+    for j in archive.values():
+        blob = f"{j.get('title','')} {j.get('description','')}"
+        locblob = f"{j.get('location','')} {j.get('url','')}"
+        age = age_in_days(j.get("posted_at"))
+        if (not role_ok(j.get("title", ""), profile)
+                or not experience_ok(blob, profile)
+                or not location_ok(locblob, profile)
+                or needs_clearance(blob, profile)
+                or (max_age is not None and age is not None and age > max_age)):
+            leaks.append(f"{j.get('company')} - {j.get('title')}")
+    if leaks:
+        print(f"⚠️  AUDIT WARNING: {len(leaks)} job(s) on the board violate filters:")
+        for l in leaks[:10]:
+            print(f"      - {l}")
+    else:
+        print("⑦ Audit: ✅ all jobs pass role + experience + location + clearance + freshness checks")
+
     print(f"\n✅ Done. {new_count} new today, {len(archive)} jobs total on the board.")
 
 

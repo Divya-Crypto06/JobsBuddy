@@ -9,15 +9,16 @@ import re
 
 MAX_YEARS = 3   # keep roles requiring up to this many years; drop 4+
 
-# Patterns that capture the REQUIRED years number, in any common phrasing:
-#   "4+ years", "4 - 6 years", "minimum of 4 years", "at least 4 years",
-#   "4 years of experience", "4 yrs experience"
+# Patterns that capture the REQUIRED years number, in many real-world phrasings:
+#   "4+ years", "4+ working", "4+ yoe", "4 - 6 years", "minimum of 4 years",
+#   "at least 4 years", "4 years of experience", "4 yrs", "6+ of experience"
+_EXP_WORDS = r"(?:years?|yrs?|yoe|year['’]?s?|working|of\s+experience|of\s+professional|of\s+industry)"
 _YEARS_PATTERNS = [
-    re.compile(r"(\d{1,2})\s*\+\s*years?"),                                  # 4+ years
-    re.compile(r"(\d{1,2})\s*(?:-|–|to)\s*\d{1,2}\s*years?"),                # 4-6 years (take min)
-    re.compile(r"(?:minimum|min\.?|at least|at min)[^\d]{0,12}(\d{1,2})\s*years?"),
-    re.compile(r"(\d{1,2})\s*(?:\+)?\s*years?\s+of\s+(?:industry\s+|professional\s+|relevant\s+|software\s+)?experience"),
-    re.compile(r"(\d{1,2})\s*yrs?\b"),                                       # 4 yrs
+    re.compile(r"(\d{1,2})\s*\+\s*" + _EXP_WORDS),                           # 6+ years / 6+ working / 6+ yoe
+    re.compile(r"(\d{1,2})\s*(?:-|–|to)\s*\d{1,2}\s*" + _EXP_WORDS),         # 4-6 years (take min)
+    re.compile(r"(?:minimum|min\.?|at least|at min)[^\d]{0,14}(\d{1,2})\s*" + _EXP_WORDS),
+    re.compile(r"(\d{1,2})\s*\+?\s*years?\s+of\s+(?:industry\s+|professional\s+|relevant\s+|software\s+|hands[- ]on\s+)?experience"),
+    re.compile(r"(\d{1,2})\s*\+?\s*yrs?\b"),                                 # 4 yrs / 4+ yrs
 ]
 
 
