@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/SIDDARTHAREDDY8/JobsBuddy/stargazers"><img src="https://img.shields.io/github/stars/SIDDARTHAREDDY8/JobsBuddy?style=for-the-badge&logo=github&color=gold" alt="Stars"></a>
 <img src="https://img.shields.io/badge/updated-every%206%20hours-brightgreen?style=for-the-badge" alt="Auto-updated">
-<img src="https://img.shields.io/badge/open%20jobs-103-blue?style=for-the-badge" alt="Open jobs">
+<img src="https://img.shields.io/badge/open%20jobs-106-blue?style=for-the-badge" alt="Open jobs">
 <img src="https://img.shields.io/badge/cost-%240%20forever-success?style=for-the-badge" alt="Free">
 </p>
 
@@ -38,13 +38,13 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 3. 📋 Scroll the table below — newest jobs are at the top.
 4. 🛂 Look for the **✅ Sponsors** tag, then hit **Apply**.
 
-<sub>🔄 Last updated: **2026-06-05 08:42 PM ET** • Total roles tracked: **131** • Open now: **103** • 🆕 Added today: **8**</sub>
+<sub>🔄 Last updated: **2026-06-05 08:59 PM ET** • Total roles tracked: **134** • Open now: **106** • 🆕 Added today: **11**</sub>
 
 **Legend:** 🔥 NEW = added in the latest update (older jobs lose this automatically) • ✅ Sponsors = recent H1B filing history • 🔒 = no longer listed • Posted = how long ago the company posted it • Match % = how strong a fit the role is.
 
 ---
 
-## 🗓️ June 05, 2026 — 8 jobs
+## 🗓️ June 05, 2026 — 11 jobs
 
 | | Company | Role | Location | Visa | Match | Posted | Added | Status | Apply |
 |--|--|--|--|--|--|--|--|--|--|
@@ -54,6 +54,9 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Stripe | Full Stack Engineer, Web Presence and Platform | N/A | ✅ Sponsors (High) | **52%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7436086) |
 | 🔥 NEW | Stripe | Full Stack Engineer, Payments Experiences | N/A | ✅ Sponsors (High) | **28%** | today | June 05, 2026 | Open | [Apply](https://stripe.com/jobs/search?gh_jid=7895284) |
 | 🔥 NEW | Nextdoor | Software Engineer - iOS | US Remote | ✅ Sponsors (Med) | **68%** | today | June 05, 2026 | Open | [Apply](https://about.nextdoor.com/careers-list/?gh_jid=7540015) |
+| 🔥 NEW | Chime | Software Engineer, Instant Loans | San Francisco, CA, USA | ✅ Sponsors (Med) | **60%** | today | June 05, 2026 | Open | [Apply](https://boards.greenhouse.io/chime/jobs/8433840002?gh_jid=8433840002) |
+| 🔥 NEW | Chime | Software Engineer, MyPay | San Francisco, CA, USA | ✅ Sponsors (Med) | **60%** | today | June 05, 2026 | Open | [Apply](https://boards.greenhouse.io/chime/jobs/8499450002?gh_jid=8499450002) |
+| 🔥 NEW | Chime | Full-Stack Engineer, Multiplayer | San Francisco, CA, USA | ✅ Sponsors (Med) | **56%** | today | June 05, 2026 | Open | [Apply](https://boards.greenhouse.io/chime/jobs/8457578002?gh_jid=8457578002) |
 | 🔥 NEW | Watershed | Software engineer, developer tooling | San Francisco | ✅ Sponsors (Low) | **92%** | today | June 05, 2026 | Open | [Apply](https://jobs.ashbyhq.com/watershed/f0f5ca5c-fcf0-44ef-9566-1a46ca4a8a75) |
 | 🔥 NEW | Decagon | Platform Engineer, Security | San Francisco | ✅ Sponsors (Low) | **48%** | today | June 05, 2026 | Open | [Apply](https://jobs.ashbyhq.com/decagon/3a68de82-c874-4cd2-b639-17948748e212) |
 
@@ -137,7 +140,7 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 |  | OpenAI | Software Engineer, Full Stack - Cybersecurity Products | San Francisco | ✅ Sponsors (Med) | **68%** | 1d ago | June 04, 2026 | Open | [Apply](https://jobs.ashbyhq.com/openai/88654e7f-4e23-4e75-8e54-18c10d09b093) |
 |  | Vercel | Software Engineer, CDN Security | Remote - United States | ✅ Sponsors (Med) | **68%** | 4d ago | June 04, 2026 | Open | [Apply](https://job-boards.greenhouse.io/vercel/jobs/5473266004) |
 |  | Mixpanel | Software Engineer, Data Foundation | San Francisco, US (Hybri | ✅ Sponsors (Med) | **68%** | 3d ago | June 04, 2026 | Open | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7943560) |
-|  | Chime | Software Engineer, Deposits & Insights | San Francisco, CA, USA | ✅ Sponsors (Med) | **60%** | 2d ago | June 04, 2026 | Open | [Apply](https://boards.greenhouse.io/chime/jobs/8523547002?gh_jid=8523547002) |
+|  | Chime | Software Engineer, Deposits & Insights | San Francisco, CA, USA | ✅ Sponsors (Med) | **60%** | today | June 04, 2026 | Open | [Apply](https://boards.greenhouse.io/chime/jobs/8523547002?gh_jid=8523547002) |
 |  | Cribl | Sr Software Engineer, Search Federation | Remote - United States | ✅ Sponsors (Low) | **100%** | today | June 04, 2026 | Open | [Apply](https://cribl.io/job-detail/?gh_jid=5855181004) |
 |  | Cribl | Software Engineer, Core Platform | Remote - United States | ✅ Sponsors (Low) | **84%** | 1d ago | June 04, 2026 | Open | [Apply](https://cribl.io/job-detail/?gh_jid=5844014004) |
 |  | Substack | Full Stack Software Engineer - Enterprise | New York | ✅ Sponsors (Low) | **84%** | 4d ago | June 04, 2026 | Open | [Apply](https://jobs.ashbyhq.com/substack/6c70c3bb-e722-4689-bc9d-cc44136358b5) |
