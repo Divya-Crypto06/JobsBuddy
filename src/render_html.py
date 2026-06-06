@@ -19,7 +19,8 @@ def _esc(s):
 
 def _within_day_sort(j):
     tier_rank = {"high": 3, "medium": 2, "low": 1}.get(j.get("sponsor_tier"), 0)
-    return (j.get("match_score", 0), j.get("sponsors_visa", False), tier_rank)
+    # confirmed visa sponsors first, then tier, then match score
+    return (j.get("sponsors_visa", False), tier_rank, j.get("match_score", 0))
 
 
 def _posted(j):
