@@ -14,7 +14,8 @@ from zoneinfo import ZoneInfo
 ET = ZoneInfo("America/New_York")
 
 from scrape import scrape_all
-from filter import filter_jobs, role_ok, experience_ok, needs_clearance, location_ok
+from filter import (filter_jobs, role_ok, experience_ok, needs_clearance,
+                    location_ok, blocks_visa)
 from sponsors import load_sponsors, tag_sponsors
 from match import score_all
 from freshness import tag_freshness, age_in_days
@@ -144,6 +145,7 @@ def main():
                 or not role_ok(j.get("title", ""), profile)
                 or not experience_ok(blob, profile)
                 or needs_clearance(blob, profile)
+                or blocks_visa(blob, profile)
                 or not location_ok(f"{j.get('location','')} {j.get('url','')}", profile)):
             bad.append(k)
     for k in bad:
@@ -184,6 +186,7 @@ def main():
                 or not experience_ok(blob, profile)
                 or not location_ok(locblob, profile)
                 or needs_clearance(blob, profile)
+                or blocks_visa(blob, profile)
                 or (max_age is not None and age is not None and age > max_age)):
             leaks.append(f"{j.get('company')} - {j.get('title')}")
     if leaks:

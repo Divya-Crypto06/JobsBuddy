@@ -80,6 +80,22 @@
     "eligible for a security clearance", "u.s. government security clearance",
     "government clearance", "clearance required", "clearable", "fed ramp clearance"
   ],
+  "visa_block_phrases": [
+    "citizenship is required", "citizenship required", "u.s. citizenship is required",
+    "us citizenship is required", "u.s. citizenship required", "us citizenship required",
+    "requires u.s. citizenship", "requires us citizenship", "require u.s. citizenship",
+    "require us citizenship", "must be a u.s. citizen", "must be a us citizen",
+    "must be a united states citizen", "must be a citizen", "must be u.s. citizen",
+    "u.s. citizens only", "us citizens only", "u.s. citizen is required",
+    "active u.s. citizenship", "sole u.s. citizenship", "ability to obtain u.s. citizenship",
+    "not provide sponsorship", "unable to sponsor", "no sponsorship", "without sponsorship",
+    "do not offer sponsorship", "not offer sponsorship", "not able to sponsor",
+    "does not sponsor", "will not sponsor", "no visa sponsorship", "cannot sponsor",
+    "sponsorship is not available", "not eligible for sponsorship",
+    "not provide visa sponsorship", "unable to provide sponsorship",
+    "not provide immigration sponsorship", "are not able to provide sponsorship",
+    "we do not sponsor", "not sponsor applicants", "no employer sponsorship"
+  ],
   "no_sponsor_flags": [
     "u.s. citizen", "us citizen", "must be a citizen",
     "security clearance", "active clearance", "ts/sci", "secret clearance",

@@ -85,15 +85,21 @@ def scrape_ashby(slug, company):
     return out
 
 
+import re as _re
+_WD_TITLE_HINT = _re.compile(r"engineer|developer|programmer|software|\bsde\b|\bswe\b|"
+                             r"data |machine learning|\bml\b|\bai\b|scientist|full stack|"
+                             r"front.?end|back.?end|devops|sre|cloud|platform")
+
+
 # ---------- Workday ----------
-def scrape_workday(slug, company, fetch_detail=True, max_detail=80):
+def scrape_workday(slug, company, fetch_detail=True, max_detail=40):
     # slug format: "tenant|dc|site"  e.g. "nvidia|wd5|NVIDIAExternalCareerSite"
     tenant, dc, site = slug.split("|")
     base = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     cxs = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
     host = f"https://{tenant}.{dc}.myworkdayjobs.com/en-US/{site}"
     out, offset = [], 0
-    for _ in range(5):  # up to 5 pages (100 jobs) per company
+    for _ in range(3):  # up to 3 pages (60 jobs) per company
         body = json.dumps({"limit": 20, "offset": offset, "searchText": ""}).encode()
         req = urllib.request.Request(base, data=body,
                                      headers={"User-Agent": UA, "Content-Type": "application/json",
@@ -108,8 +114,10 @@ def scrape_workday(slug, company, fetch_detail=True, max_detail=80):
             desc = j.get("title", "")
             loc = j.get("locationsText", "")
             posted = j.get("postedOn", "")
-            # fetch the full job detail (real location + description + experience reqs)
-            if fetch_detail and len(out) < max_detail and path:
+            # only fetch the (slow) detail page for plausibly-relevant titles —
+            # keeps 1800+ Workday companies from exploding the run time
+            relevant = _WD_TITLE_HINT.search(j.get("title", "").lower())
+            if fetch_detail and relevant and len(out) < max_detail and path:
                 info = _workday_detail(cxs + path)
                 if info:
                     desc = info.get("description", desc)
@@ -251,7 +259,7 @@ def _scrape_one(c):
         return (c, [], type(e).__name__)
 
 
-def scrape_all(companies, workers=12):
+def scrape_all(companies, workers=20):
     """Scrape all companies concurrently (fast at 1000+ companies)."""
     from concurrent.futures import ThreadPoolExecutor, as_completed
     jobs, ok, failed = [], 0, 0

@@ -84,6 +84,11 @@ def needs_clearance(text, profile):
     return _has_any(text.lower(), profile.get("clearance_exclude", []))
 
 
+def blocks_visa(text, profile):
+    # True if the posting requires US citizenship or explicitly won't sponsor -> DROP
+    return _has_any(text.lower(), profile.get("visa_block_phrases", []))
+
+
 STRONG_US = ["united states", "usa", "u.s.", ", us", "- us", "remote us",
              "remote - us", "us-remote", "remote, us"]
 
@@ -111,6 +116,8 @@ def filter_jobs(jobs, profile):
             continue
         if needs_clearance(blob, profile):
             continue   # drop security-clearance roles entirely
+        if blocks_visa(blob, profile):
+            continue   # drop citizenship-required / no-sponsorship roles
         if not location_ok(f"{j.get('location','')} {j.get('url','')}", profile):
             continue
         j["opt_friendly"] = sponsorship_friendly(blob, profile)
