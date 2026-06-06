@@ -13,6 +13,35 @@ import urllib.error
 UA = "opt-friendly-jobs/1.0 (+https://github.com/SIDDARTHAREDDY8)"
 TIMEOUT = 20
 
+# ISO-3166 country codes -> full name, so the location filter (which matches
+# full country names) catches foreign jobs. ATS like SmartRecruiters/Recruitee
+# return the country as a 2-letter code (e.g. "vn"), which would otherwise slip
+# past a name-based block list.
+ISO_COUNTRY = {
+    "us": "United States", "usa": "United States",
+    "vn": "Vietnam", "in": "India", "ca": "Canada", "gb": "United Kingdom",
+    "uk": "United Kingdom", "fr": "France", "de": "Germany", "es": "Spain",
+    "it": "Italy", "nl": "Netherlands", "be": "Belgium", "ch": "Switzerland",
+    "at": "Austria", "ie": "Ireland", "pt": "Portugal", "se": "Sweden",
+    "no": "Norway", "dk": "Denmark", "fi": "Finland", "pl": "Poland",
+    "cz": "Czechia", "ro": "Romania", "hu": "Hungary", "gr": "Greece",
+    "ua": "Ukraine", "ru": "Russia", "tr": "Turkey", "il": "Israel",
+    "ae": "United Arab Emirates", "sa": "Saudi Arabia", "qa": "Qatar",
+    "eg": "Egypt", "za": "South Africa", "ng": "Nigeria", "ke": "Kenya",
+    "jp": "Japan", "cn": "China", "kr": "South Korea", "tw": "Taiwan",
+    "hk": "Hong Kong", "sg": "Singapore", "my": "Malaysia", "th": "Thailand",
+    "ph": "Philippines", "id": "Indonesia", "au": "Australia", "nz": "New Zealand",
+    "br": "Brazil", "mx": "Mexico", "ar": "Argentina", "cl": "Chile",
+    "co": "Colombia", "pe": "Peru", "cr": "Costa Rica", "lk": "Sri Lanka",
+    "bd": "Bangladesh", "pk": "Pakistan", "np": "Nepal", "bg": "Bulgaria",
+    "hr": "Croatia", "rs": "Serbia", "si": "Slovenia", "sk": "Slovakia",
+    "ee": "Estonia", "lt": "Lithuania", "lv": "Latvia", "lu": "Luxembourg",
+}
+
+
+def _country_name(code):
+    return ISO_COUNTRY.get((code or "").strip().lower(), code)
+
 
 def _get_json(url):
     req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
@@ -169,7 +198,7 @@ def scrape_smartrecruiters(slug, company, max_detail=60):
         for p in content:
             loc = p.get("location", {}) or {}
             locstr = ", ".join(x for x in [loc.get("city", ""), loc.get("region", ""),
-                                           loc.get("country", "")] if x)
+                                           _country_name(loc.get("country", ""))] if x)
             desc = p.get("name", "")
             if len(out) < max_detail:
                 try:
@@ -217,7 +246,7 @@ def scrape_recruitee(slug, company):
     data = _get_json(url)
     out = []
     for o in data.get("offers", []):
-        locstr = ", ".join(x for x in [o.get("city", ""), o.get("country_code", "")] if x)
+        locstr = ", ".join(x for x in [o.get("city", ""), _country_name(o.get("country_code", ""))] if x)
         out.append({
             "company": company, "title": o.get("title", ""),
             "location": o.get("location", "") or locstr,

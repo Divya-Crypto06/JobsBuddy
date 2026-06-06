@@ -110,6 +110,18 @@ def blocks_visa(text, profile):
 STRONG_US = ["united states", "usa", "u.s.", ", us", "- us", "remote us",
              "remote - us", "us-remote", "remote, us"]
 
+# foreign ISO country codes safe to block as a trailing location token —
+# EXCLUDES codes that collide with US state abbreviations
+# (ca=California, in=Indiana, de=Delaware, co=Colorado, ar=Arkansas,
+#  id=Idaho, ma=Mass., md=Maryland, or=Oregon, pa=Penn., etc.)
+FOREIGN_CC = {
+    "vn", "fr", "gb", "uk", "ie", "nl", "be", "lu", "es", "pt", "it", "ch",
+    "at", "dk", "se", "no", "fi", "pl", "cz", "sk", "hu", "ro", "bg", "gr",
+    "hr", "rs", "si", "ee", "lt", "lv", "tr", "ua", "ru", "jp", "cn", "kr",
+    "tw", "hk", "sg", "my", "th", "ph", "au", "nz", "br", "mx", "cl", "pe",
+    "ae", "qa", "il", "eg", "za", "ng", "ke", "lk", "bd", "pk", "np", "ph",
+}
+
 
 def location_ok(location, profile):
     if not profile.get("us_only"):
@@ -117,11 +129,26 @@ def location_ok(location, profile):
     loc = (location or "").lower()
     if not loc:
         return True  # unknown location -> keep, don't over-filter
-    # block-list wins decisively, UNLESS the posting explicitly says US too
-    if _has_any(loc, profile.get("us_location_block", [])):
+    # trailing 2-letter country code (e.g. "Hà Nội, vn") -> foreign.
+    # take the location's last comma-segment, first whitespace token (a URL may
+    # be appended after the location, so strip anything after the first token)
+    seg = loc.split("http")[0].replace(";", ",").split(",")[-1].strip()
+    last = seg.split()[0] if seg.split() else ""
+    if last in FOREIGN_CC and not _has_any(loc, STRONG_US):
+        return False
+    # block-list wins decisively, UNLESS the posting explicitly says US too.
+    # match country/city names at WORD BOUNDARIES so "india" != "indianapolis"
+    if _has_word(loc, profile.get("us_location_block", [])):
         return _has_any(loc, STRONG_US)
     # not a known foreign location -> keep (US hint, remote, or unclear)
     return True
+
+
+def _has_word(text, terms):
+    for t in terms:
+        if re.search(r"\b" + re.escape(t.strip()) + r"\b", text):
+            return True
+    return False
 
 
 def filter_jobs(jobs, profile):
