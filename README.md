@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://github.com/SIDDARTHAREDDY8/JobsBuddy/stargazers"><img src="https://img.shields.io/github/stars/SIDDARTHAREDDY8/JobsBuddy?style=for-the-badge&logo=github&color=gold" alt="Stars"></a>
 <img src="https://img.shields.io/badge/updated-every%206%20hours-brightgreen?style=for-the-badge" alt="Auto-updated">
-<img src="https://img.shields.io/badge/open%20jobs-1731-blue?style=for-the-badge" alt="Open jobs">
+<img src="https://img.shields.io/badge/open%20jobs-1715-blue?style=for-the-badge" alt="Open jobs">
 <img src="https://img.shields.io/badge/cost-%240%20forever-success?style=for-the-badge" alt="Free">
 </p>
 
@@ -38,13 +38,13 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 3. 📋 Scroll the table below — newest jobs are at the top.
 4. 🛂 Look for the **✅ Sponsors** tag, then hit **Apply**.
 
-<sub>🔄 Last updated: **2026-06-06 01:16 AM ET** • Total roles tracked: **1800** • Open now: **1731** • 🆕 Added today: **1674**</sub>
+<sub>🔄 Last updated: **2026-06-06 01:50 AM ET** • Total roles tracked: **1784** • Open now: **1715** • 🆕 Added today: **1658**</sub>
 
 **Legend:** 🔥 NEW = added in the latest update (older jobs lose this automatically) • ✅ Sponsors = recent H1B filing history • 🔒 = no longer listed • Posted = how long ago the company posted it • Match % = how strong a fit the role is.
 
 ---
 
-## 🗓️ June 06, 2026 — 1674 jobs
+## 🗓️ June 06, 2026 — 1658 jobs
 
 | | Company | Role | Location | Visa | Match | Posted | Added | Status | Apply |
 |--|--|--|--|--|--|--|--|--|--|
@@ -63,7 +63,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Capital Group | Machine Learning Engineer II | Seattle | ✅ Sponsors (High) · 150 H1B filings | **88%** | 1d ago | June 06, 2026 | Open | [Apply](https://capgroup.wd1.myworkdayjobs.com/en-US/capitalgroupcareers/job/Seattle/Machine-Learning-Engineer-II_JR6608) |
 | 🔥 NEW | ServiceNow | Software Engineer, Developer Experience — Moveworks | Mountain View, Californi | ✅ Sponsors (High) · 116 H1B filings | **84%** | 2d ago | June 06, 2026 | Open | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000130098534) |
 | 🔥 NEW | OakNorth Bank | Platform Engineer- Developer experience | Gurugram | ✅ Sponsors (High) | **80%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/oaknorth.ai/848e7b65-db96-4596-b52a-40d50829fafe) |
-| 🔥 NEW | Toshiba Global Commerce | Mobile Developer | Durham, NC | ✅ Sponsors (High) | **80%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5075377007) |
 | 🔥 NEW | RELX | Quality Test Engineer III | Philadelphia, PA | ✅ Sponsors (High) · 52 H1B filings | **80%** | 1d ago | June 06, 2026 | Open | [Apply](https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Quality-Test-Engineer-III_R108901-1) |
 | 🔥 NEW | Accenture | Data Science Practitioner | Arlington, VA | ✅ Sponsors (High) · 592 H1B filings | **76%** | 1d ago | June 06, 2026 | Open | [Apply](https://boards.greenhouse.io/accenturefederalservices/jobs/4684348006?gh_jid=4684348006) |
 | 🔥 NEW | State Street | Software Engineer, Officer | Burlington Massachusetts | ✅ Sponsors (High) · 98 H1B filings | **76%** | 1d ago | June 06, 2026 | Open | [Apply](https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer--Officer_R-791743) |
@@ -89,10 +88,8 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | E-Space | Spacecraft Radiation Effects Engineer | Saratoga, CA | ✅ Sponsors (High) | **56%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/espace/b089c61f-633e-4363-a106-9460e9e26c91) |
 | 🔥 NEW | The Home Depot | Cybersecurity Engineer / Application Security (Remote) | GEORGIA - VIRTUAL - GA01 | ✅ Sponsors (High) · 70 H1B filings | **56%** | 1d ago | June 06, 2026 | Open | [Apply](https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Cybersecurity-Engineer---Application-Security--Remote-_Req178365-1) |
 | 🔥 NEW | ServiceNow | Machine Learning Engineer, Agentic Product - Moveworks | Mountain View, CALIFORNI | ✅ Sponsors (High) · 116 H1B filings | **56%** | today | June 06, 2026 | Open | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000130554339) |
-| 🔥 NEW | Toshiba Global Commerce | Associate Software Engineer | Frisco, TX | ✅ Sponsors (High) | **52%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5103776007) |
 | 🔥 NEW | Toast | Business Development Representative - Retail | Chicago, IL  +7 more | ✅ Sponsors (High) | **52%** | today | June 06, 2026 | Open | [Apply](https://careers.toasttab.com/jobs?gh_jid=7985313) |
 | 🔥 NEW | Toyota Research Institute | ML Research Engineer, Interpretable AI for End-to-End Automated Driving | Los Altos, CA | ✅ Sponsors (High) | **52%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/tri/84dfcb59-8368-481c-acdb-50df883eadd4) |
-| 🔥 NEW | Humana | Medicaid Business Intelligence Engineer | Remote Nationwide | ✅ Sponsors (High) · 80 H1B filings | **52%** | 1d ago | June 06, 2026 | Open | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/humana_external_career_site/job/Remote-Nationwide/Medicaid-Business-Intelligence-Engineer_R-417029) |
 | 🔥 NEW | University of Pennsylvania | Graduate Affairs Academic Advisor - Penn Engineering | School Eng & Applied Sci | ✅ Sponsors (High) · 140 H1B filings | **52%** | 2d ago | June 06, 2026 | Open | [Apply](https://upenn.wd1.myworkdayjobs.com/en-US/careers-at-penn/job/School-Eng--Applied-Sciece---107-Towne/Graduate-Affairs-Academic-Advisor---Penn-Engineering_JR00120043) |
 | 🔥 NEW | Western Digital | Data Engineer | George Town, Penang, my | ✅ Sponsors (High) · 76 H1B filings | **52%** | 4d ago | June 06, 2026 | Open | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000129643819) |
 | 🔥 NEW | E-Space | SoC Platform Engineer | Saratoga, CA | ✅ Sponsors (High) | **48%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/espace/c687b07c-2f4f-4ca2-8ea0-06ad313b9ae8) |
@@ -111,7 +108,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Robinhood | Business Development Partner | Chicago, IL | ✅ Sponsors (High) · 68 H1B filings | **40%** | 7d ago | June 06, 2026 | Open | [Apply](https://boards.greenhouse.io/robinhood/jobs/7942764?t=gh_src=&gh_jid=7942764) |
 | 🔥 NEW | E-Space | Digital Design Engineer | Saratoga, CA | ✅ Sponsors (High) | **40%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/espace/690e923d-a9cc-475d-b2fd-1dbdef759e27) |
 | 🔥 NEW | E-Space | PCB Design Engineer – Altium / Schematic & Layout | Saratoga, CA | ✅ Sponsors (High) | **40%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/espace/a7f4e03f-339f-45d6-b4d3-7c03b38f7ac5) |
-| 🔥 NEW | Comcast | Engineer 2, DevOps | PA - West Chester, 1354  | ✅ Sponsors (High) · 162 H1B filings | **40%** | 1d ago | June 06, 2026 | Open | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Engineer-2--DevOps_R434774-1) |
 | 🔥 NEW | Analog Devices | Design Evaluation Engineer | US, MA, Wilmington | ✅ Sponsors (High) · 53 H1B filings | **40%** | 3d ago | June 06, 2026 | Open | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Design-Evaluation-Engineer_R262731) |
 | 🔥 NEW | Micron Technology | Node Development Product Engineer – DPAG | Boise, ID - Main Site | ✅ Sponsors (High) · 80 H1B filings | **40%** | 1d ago | June 06, 2026 | Open | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Node-Development-Product-Engineer---DPAG_JR102736) |
 | 🔥 NEW | Micron Technology | Layout Engineer, DEG | Boise, ID - Main Site | ✅ Sponsors (High) · 80 H1B filings | **40%** | 1d ago | June 06, 2026 | Open | [Apply](https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Layout-Engineer--DEG_JR103399) |
@@ -176,7 +172,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | LPL Financial Holdings | AVP, Software Engineering | New York | ✅ Sponsors (Med) · 40 H1B filings | **100%** | 2d ago | June 06, 2026 | Open | [Apply](https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/New-York/AVP--Software-Engineering_R-050747) |
 | 🔥 NEW | Thomson Reuters | Software Engineer - AI (Legal) – CoCounsel Forward Deployed Engineering | United States of America | ✅ Sponsors (Med) · 10 H1B filings | **100%** | 2d ago | June 06, 2026 | Open | [Apply](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Frisco-Texas/Software-Engineer---AI--Legal----CoCounsel-Forward-Deployed-Engineering_JREQ200166-1) |
 | 🔥 NEW | Broadridge | Professional Software Engineer - AI Driven Engineering  (Hybrid - Newark, NJ, NYC or Edgewood, NY) | Edgewood, NY | ✅ Sponsors (Med) · 20 H1B filings | **100%** | 1d ago | June 06, 2026 | Open | [Apply](https://broadridge.wd5.myworkdayjobs.com/en-US/careers/job/Edgewood-NY/Professional-Software-Engineer---AI-Driven-Engineering---Hybrid---Newark--NJ--NYC-or-Edgewood--NY-_JR1082988-1) |
-| 🔥 NEW | Vanguard | Data Engineer, Specialist | Malvern, PA | ✅ Sponsors (Med) · 48 H1B filings | **100%** | 1d ago | June 06, 2026 | Open | [Apply](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Data-Engineer--Specialist_177349) |
 | 🔥 NEW | Williams Lea | Software Engineer | Warszawa | ✅ Sponsors (Med) | **100%** | 3d ago | June 06, 2026 | Open | [Apply](https://wlt.wd3.myworkdayjobs.com/en-US/wl_careers/job/Warszawa/Software-Engineer_R261000415) |
 | 🔥 NEW | Guardian Life | Software Engineer | Bethlehem | ✅ Sponsors (Med) · 14 H1B filings | **100%** | 2d ago | June 06, 2026 | Open | [Apply](https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/Bethlehem/Software-Engineer_R000109169) |
 | 🔥 NEW | SS&C | Software Engineer | Boston MA - One Post Off | ✅ Sponsors (Med) · 15 H1B filings | **100%** | 7d ago | June 06, 2026 | Open | [Apply](https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Boston-MA---One-Post-Office-Square/Software-Engineer_R38205) |
@@ -780,11 +775,9 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Workato | Software Engineer - Developer Products (AI) | San Francisco, Californi | — unknown | **92%** | 2d ago | June 06, 2026 | Open | [Apply](https://www.workato.com/careers?gh_jid=8112909002#open-roles) |
 | 🔥 NEW | AltaML | Intermediate Full Stack Software Engineer | Calgary | — unknown | **92%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/altaml/74efba24-9733-4308-903a-9757a80684ba) |
 | 🔥 NEW | BambooHR | Software Engineer II, Frontend | Utah / Hybrid | — unknown | **92%** | today | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/bamboohr17/jobs/5973034004) |
-| 🔥 NEW | Tekton | Software Developer | Grand Rapids, MI | — unknown | **92%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/tekton/fe1dfe1c-1519-4eda-97bb-03794d65bf1b) |
 | 🔥 NEW | AXS | Software Engineer | Charlotte, NC | — unknown | **92%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/axs/jobs/8566918002) |
 | 🔥 NEW | AI Intern to the CEO | Full-Stack Software Engineer | Boston, Massachusetts | — unknown | **92%** | 3d ago | June 06, 2026 | Open | [Apply](https://jobs.ashbyhq.com/cyvl/966d3ee9-3747-4841-b27c-b8b7f83d6b7f) |
 | 🔥 NEW | Very Good Security | Software Engineer, Systems integrations | United States | — unknown | **92%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/verygoodsecurity/3c278049-a47f-4d9a-8514-57791cf3e240) |
-| 🔥 NEW | Avride | Software Engineer – Simulation Backend | Austin, TX | — unknown | **92%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4013074009) |
 | 🔥 NEW | Octopus Energy | Software Engineer | Valencia (ES) | — unknown | **92%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/octoenergy/724ca0be-d002-430c-9b71-e905e3e14e0d) |
 | 🔥 NEW | EnergyHub | Software Engineer II, Battery | Remote - United States | — unknown | **92%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/energyhub/jobs/8414375002) |
 | 🔥 NEW | Farfetch | Software Engineer - Back End | Porto | — unknown | **92%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/farfetch/3aa69044-5ad4-4323-ad4d-33a714aef3f7) |
@@ -803,7 +796,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Whoop | Software Engineer I (Frontend, Growth) | Boston, MA | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/whoop/27101f2d-abc5-4cf3-aa86-f164e66ecdd8) |
 | 🔥 NEW | Whoop | Software Engineer II (Fullstack, Business Systems) | Boston, MA | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/whoop/b0750248-a45f-48c9-aff0-68414abe5d3f) |
 | 🔥 NEW | Rocket Lab USA | Software Engineer II - MES | Albuquerque, NM  +1 more | ⚠️ May not sponsor | **84%** | 1d ago | June 06, 2026 | 🔒 Closed | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7738610003) |
-| 🔥 NEW | Commerce Architects | Software Engineer (1-3 Years Experience) | Spokane, WA | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec) |
 | 🔥 NEW | DRW | Software Engineer - Risk | Chicago, New York | — unknown | **84%** | 1d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/drweng/jobs/7942728) |
 | 🔥 NEW | Lightship RV | Software Engineer, UI/UX | Broomfield, CO  +1 more | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/lightship/b9612499-1296-4cc8-9b98-1abc602816c8) |
 | 🔥 NEW | Secureframe | Software Engineer | New York, NY | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/secureframe/a55bbed2-c0f0-40b6-89c0-70b7e90365d8) |
@@ -818,7 +810,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Samba TV | Data Scientist - (Knowledge Graph & Identity) | San Francisco, Californi | — unknown | **84%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/sambatv/7810c712-4c27-4161-9c1b-96353a210421) |
 | 🔥 NEW | Galaxy | Security Engineer (Data Centers) | Remote | — unknown | **84%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5984556004) |
 | 🔥 NEW | Agile Defense | Full-Stack Engineer (Java / Spring Boot) | Remote | — unknown | **80%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/agile-defense/8b4c889a-dff8-4e2b-9d65-270055ae1ba4) |
-| 🔥 NEW | Pinwheel | Backend Engineer, Integrations Platform | New York, NY | — unknown | **80%** | 4d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/pinwheelapi/jobs/7758477003) |
 | 🔥 NEW | Xsolla | Backend Developer | Remote USA | — unknown | **80%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/xsolla/9d30391b-c2c9-4ac0-8e6a-ca23656f19db) |
 | 🔥 NEW | Xsolla | Full-Stack Engineer | Montreal | — unknown | **80%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/xsolla/7e04fe74-d35f-48a4-b839-9f97c39e0a3d) |
 | 🔥 NEW | Revefi | Backend Engineer - Seattle | Seattle, WA | — unknown | **80%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/revefi/6eddfb74-7ad4-4fcb-bcfa-6ebb435dc9ab) |
@@ -1170,7 +1161,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Speechify | Go-to-Market Engineer - Saint Paul, MN, USA | Saint Paul, MN, USA | — unknown | **44%** | 6d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/speechify/jobs/6004027004) |
 | 🔥 NEW | Anchorage | Member of Technical Staff, Domain (Backend Engineer) | United States | — unknown | **44%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/anchorage/5898d01d-a4a5-44e5-8d20-2f6710dc2035) |
 | 🔥 NEW | 10Beauty | Software QA Engineer | Burlington, Massachusett | — unknown | **44%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/10beauty/jobs/5138504007) |
-| 🔥 NEW | Avride | Autonomous Vehicle Metrics and Evaluation Data Scientist - Analytics | Austin, TX | — unknown | **44%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4012771009) |
 | 🔥 NEW | Altos Labs | Machine Learning Engineer/Machine Learning Scientist , Multi Modality | San Diego, CA | — unknown | **40%** | 1d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/altoslabs/jobs/5709084004) |
 | 🔥 NEW | PlayStation | SDET Programmer | United States, Santa Mon | — unknown | **40%** | 1d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/naughtydog/jobs/5790604004) |
 | 🔥 NEW | Field AI | 3D Machine Learning Engineer | Irvine, CA | — unknown | **40%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/field-ai/b600a2ab-cff1-4b8f-9940-4bd851c05e37) |
@@ -1309,7 +1299,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Addepar | Frontend Software Engineer | Remote, USA | — unknown | **36%** | 1d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/addepar1/jobs/8526593002) |
 | 🔥 NEW | Interactive Brokers Group | Software Developer - C++ | Greenwich, CT | — unknown | **36%** | today | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/ibkr/jobs/4809436002) |
 | 🔥 NEW | Layup Parts | Software Engineer (Computational Geometry) | Huntington Beach | ⚠️ May not sponsor | **36%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/layup/b2ab778f-63bb-482c-83ab-19961b7fe6b5) |
-| 🔥 NEW | Avride | Embedded Software Engineer – Real-Time Systems for Autonomous Robots | Austin, TX | — unknown | **36%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4015848009) |
 | 🔥 NEW | Avride | Software Engineer – Localization and Mapping | Austin, TX | — unknown | **36%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4013235009) |
 | 🔥 NEW | Octopus Energy | CRM Software Engineer | Valencia (ES) | — unknown | **36%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/octoenergy/5de63611-5d08-451a-a8c4-4047ac5d1008) |
 | 🔥 NEW | Galatea Associates | Financial Software Engineer | Somerville, MA | — unknown | **36%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/galatea-associates/ea475dfe-2e0b-4e6b-8dd7-88e4e85f9dcb) |
@@ -1481,7 +1470,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Field AI | Software Engineer, Verification and Validation (Perception) | Irvine, CA | — unknown | **28%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/field-ai/e4504581-90cc-45a0-8084-f04f8145c75d) |
 | 🔥 NEW | Apex | Full Stack Developer, Business Systems | Los Angeles | — unknown | **28%** | today | June 06, 2026 | Open | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/e0dcbd0f-ef84-4412-baee-d327a90ff8d3) |
 | 🔥 NEW | Apex | Software Engineer, Engineering Systems | Los Angeles | — unknown | **28%** | today | June 06, 2026 | Open | [Apply](https://jobs.ashbyhq.com/apex-technology-inc/b14b559f-f540-4762-b327-af9a9f12e364) |
-| 🔥 NEW | Avride | C++ Software Engineer, Motion Planning | Austin, TX | — unknown | **28%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4013017009) |
 | 🔥 NEW | xAI | Member of Technical Staff - Model Training | Austin, TX | — unknown | **28%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/xai/jobs/5086324007) |
 | 🔥 NEW | xAI | Member of Technical Staff - Post-Training and RL | Palo Alto, CA | — unknown | **28%** | 2d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/xai/jobs/5114737007) |
 | 🔥 NEW | TSMG | B1 Licensed Aircraft Engineer | Atlanta, GA  +10 more | — unknown | **28%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/tsmg/007f6ea2-7fb5-401d-ba70-6a941792199a) |
@@ -1555,10 +1543,7 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Larian Studios | Engine Programmer / Programmeur moteur | Quebec | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/larian/a6fcb51e-72d8-46f1-973f-96f976d62ac2) |
 | 🔥 NEW | Larian Studios | Junior Engine Programmer | Kuala Lumpur | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/larian/445d0e02-e194-49ba-9e18-82f9821389c8) |
 | 🔥 NEW | Larian Studios | Tools Programmer / Programmeur d'outils | Quebec | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/larian/b3771f14-5c45-42f6-9e1f-60f955a69853) |
-| 🔥 NEW | Tekton | Product Developer | Grand Rapids, MI | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/tekton/b4debf77-63a8-4282-b5f0-54ad5c3e4a53) |
 | 🔥 NEW | SoloPulse | Systems Engineer - R&D | Peachtree Corners, GA | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/solopulseco/1847aeec-f19d-46ee-812b-be16c8505753) |
-| 🔥 NEW | Avride | Quality Assurance Engineer – AV Behavior Simulation Testing | Austin, TX | — unknown | **24%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4017800009) |
-| 🔥 NEW | Avride | Site Infrastructure Engineer (Networking & Compute) | Austin, TX | — unknown | **24%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/avride/jobs/4215813009) |
 | 🔥 NEW | BrightAI | Computer Vision Engineer | Palo Alto, California | — unknown | **24%** | 3d ago | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/brightai/jobs/6002012004) |
 | 🔥 NEW | Fluxergy | R&D Associate - Consumable Development | Irvine, California | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/fluxergy-2/1e8828fd-1219-4d82-b562-ae34f2d53fb0) |
 | 🔥 NEW | Gauntlet | DeFi Business Development Representative | New York City / San Fran | — unknown | **24%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/gauntlet/a589f34b-8f0d-41e8-9ef8-075e63780dc3) |
@@ -1659,7 +1644,6 @@ If this saves you even one wasted application, **drop a ⭐ on the repo** — it
 | 🔥 NEW | Mach9 | ML Engineer | San Francisco | — unknown | **8%** | 2d ago | June 06, 2026 | Open | [Apply](https://jobs.ashbyhq.com/mach9/51061973-9726-4e8e-bba4-4bfa9e3ef004) |
 | 🔥 NEW | WindBorne Systems | Machine Learning Research Engineer | RWC HQ | — unknown | **8%** | 1d ago | June 06, 2026 | Open | [Apply](https://jobs.ashbyhq.com/windborne-systems/77a631c9-9818-4bdd-9e46-0cca6c889189) |
 | 🔥 NEW | WeRide | Perception Engineer – ML/CV and Algorithms | San Jose, CA | — unknown | **8%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/weride/628b7118-d946-47a2-a03b-ac034622d908) |
-| 🔥 NEW | Celonis | Business Development Representative (SaaS Sales) | Raleigh, US, North Carol | — unknown | **8%** | today | June 06, 2026 | Open | [Apply](https://job-boards.greenhouse.io/celonis/jobs/7627728003?gh_jid=7627728003) |
 | 🔥 NEW | AHEAD | Engineering Technician | 1200 Technology Way, Lib | — unknown | **8%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/thinkahead/1c03fbcc-bfbb-4602-a91a-44e6827a100d) |
 | 🔥 NEW | Penumbra Inc | Business Development Specialist | Guadalajara  +1 more | — unknown | **8%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/penumbrainc/34ff3882-603f-48e3-8981-a6bb8eba58d7) |
 | 🔥 NEW | Latitude | Advanced Engineering Technician | Quincy, MA | — unknown | **8%** | date unknown | June 06, 2026 | Open | [Apply](https://jobs.lever.co/latitudeinc/d9afd70b-776f-47c8-be1e-cb18db87aa06) |

@@ -84,9 +84,27 @@ def needs_clearance(text, profile):
     return _has_any(text.lower(), profile.get("clearance_exclude", []))
 
 
+# Catch "[negation] ... sponsor" in ANY phrasing (not a fixed phrase list):
+#   "does not provide immigration-related sponsorship", "will not sponsor",
+#   "unable to provide sponsorship", "not eligible for sponsorship",
+#   "do not apply ... if you need ... sponsorship"
+_VISA_BLOCK_RE = [
+    re.compile(r"\b(?:do|does|did|will|would|can|could|are|is|to|we)\s+not\b[^.!?]{0,55}\bsponsor"),
+    re.compile(r"\b(?:cannot|can ?not|unable to|won'?t|not able to|not eligible for|"
+               r"not be able to|ineligible for|no longer)\b[^.!?]{0,40}\bsponsor"),
+    re.compile(r"\bdo not apply\b[^.!?]{0,110}\bsponsor"),
+    re.compile(r"\bwithout\b[^.!?]{0,20}\bsponsor"),
+    re.compile(r"\bno\b[^.!?]{0,18}\b(?:visa|immigration|employment|work|h-?1b)\b[^.!?]{0,18}\bsponsor"),
+    re.compile(r"\bsponsor\w*\b[^.!?]{0,20}\b(?:is|are|will)\s+not\b"),  # "sponsorship is not available"
+]
+
+
 def blocks_visa(text, profile):
     # True if the posting requires US citizenship or explicitly won't sponsor -> DROP
-    return _has_any(text.lower(), profile.get("visa_block_phrases", []))
+    t = text.lower()
+    if _has_any(t, profile.get("visa_block_phrases", [])):
+        return True
+    return any(p.search(t) for p in _VISA_BLOCK_RE)
 
 
 STRONG_US = ["united states", "usa", "u.s.", ", us", "- us", "remote us",
