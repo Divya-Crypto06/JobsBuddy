@@ -26,8 +26,10 @@ def _has_any(text, needles):
     return any(n in text for n in needles)
 
 
-# core software/AI/data role indicators (the FAMILY, not one specific name)
-_ROLE_CORE = re.compile(r"\b(engineer|engineering|developer|development|programmer|"
+# core software/AI/data role indicators (the FAMILY, not one specific name).
+# NOTE: use "developer" not "development" — "development" matches sales roles like
+# "Business Development" / "Sales Development Representative".
+_ROLE_CORE = re.compile(r"\b(engineer|engineering|developer|programmer|"
                         r"sde|swe|sre|coder)\b")
 _ROLE_CORE_PHRASES = ["data scientist", "applied scientist", "machine learning",
                       "data science", "site reliability"]

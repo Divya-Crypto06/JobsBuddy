@@ -445,7 +445,12 @@
     "test technician",
     "lab technician",
     "biology",
-    "chemist"
+    "chemist",
+    "representative",
+    "business development",
+    "sales development",
+    "bdr",
+    "sdr"
   ],
   "exp_exclude_patterns": [
     "5+ years",
