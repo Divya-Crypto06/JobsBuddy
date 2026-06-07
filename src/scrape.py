@@ -121,52 +121,63 @@ import re as _re
 _WD_TITLE_HINT = _re.compile(r"engineer|developer|programmer|software|\bsde\b|\bswe\b|"
                              r"data |machine learning|\bml\b|\bai\b|scientist|full stack|"
                              r"front.?end|back.?end|devops|sre|cloud|platform")
+# search terms to surface relevant roles in large Workday job boards
+_WD_SEARCH_TERMS = ["software engineer", "software developer", "data engineer",
+                    "machine learning", "ai engineer", "full stack developer",
+                    "backend", "frontend"]
 
 
 # ---------- Workday ----------
-def scrape_workday(slug, company, fetch_detail=True, max_detail=40):
+def scrape_workday(slug, company, fetch_detail=True, max_detail=70):
     # slug format: "tenant|dc|site"  e.g. "nvidia|wd5|NVIDIAExternalCareerSite"
     tenant, dc, site = slug.split("|")
     base = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
     cxs = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}"
     host = f"https://{tenant}.{dc}.myworkdayjobs.com/en-US/{site}"
-    out, offset = [], 0
-    for _ in range(3):  # up to 3 pages (60 jobs) per company
-        body = json.dumps({"limit": 20, "offset": offset, "searchText": ""}).encode()
-        req = urllib.request.Request(base, data=body,
-                                     headers={"User-Agent": UA, "Content-Type": "application/json",
-                                              "Accept": "application/json"})
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-            data = json.loads(r.read().decode("utf-8", "replace"))
-        postings = data.get("jobPostings", [])
-        if not postings:
-            break
-        for j in postings:
-            path = j.get("externalPath", "")
-            desc = j.get("title", "")
-            loc = j.get("locationsText", "")
-            posted = j.get("postedOn", "")
-            # only fetch the (slow) detail page for plausibly-relevant titles —
-            # keeps 1800+ Workday companies from exploding the run time
-            relevant = _WD_TITLE_HINT.search(j.get("title", "").lower())
-            if fetch_detail and relevant and len(out) < max_detail and path:
-                info = _workday_detail(cxs + path)
-                if info:
-                    desc = info.get("description", desc)
-                    loc = info.get("location", loc) or loc
-                    posted = info.get("posted", posted) or posted
-            out.append({
-                "company": company,
-                "title": j.get("title", ""),
-                "location": loc,
-                "url": host + path,
-                "description": desc,
-                "posted_at": posted,
-                "source": "workday",
-            })
-        offset += 20
-        if offset >= data.get("total", 0):
-            break
+
+    # Big companies (banks/enterprises) have 100s-1000s of jobs. Fetching only the
+    # first 60 in default order misses most software roles. Instead, SEARCH by
+    # keyword so we find relevant roles wherever they are in a huge job board.
+    out, seen, detail_count = [], set(), 0
+    for term in _WD_SEARCH_TERMS:
+        offset = 0
+        for _ in range(2):  # up to 40 results per search term
+            body = json.dumps({"limit": 20, "offset": offset, "searchText": term}).encode()
+            try:
+                req = urllib.request.Request(base, data=body,
+                    headers={"User-Agent": UA, "Content-Type": "application/json",
+                             "Accept": "application/json"})
+                with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
+                    data = json.loads(r.read().decode("utf-8", "replace"))
+            except Exception:
+                break
+            postings = data.get("jobPostings", [])
+            if not postings:
+                break
+            for j in postings:
+                path = j.get("externalPath", "")
+                if not path or path in seen:
+                    continue
+                seen.add(path)
+                desc = j.get("title", "")
+                loc = j.get("locationsText", "")
+                posted = j.get("postedOn", "")
+                relevant = _WD_TITLE_HINT.search(j.get("title", "").lower())
+                if fetch_detail and relevant and detail_count < max_detail:
+                    info = _workday_detail(cxs + path)
+                    if info:
+                        desc = info.get("description", desc)
+                        loc = info.get("location", loc) or loc
+                        posted = info.get("posted", posted) or posted
+                        detail_count += 1
+                out.append({
+                    "company": company, "title": j.get("title", ""),
+                    "location": loc, "url": host + path,
+                    "description": desc, "posted_at": posted, "source": "workday",
+                })
+            offset += 20
+            if offset >= data.get("total", 0):
+                break
     return out
 
 
