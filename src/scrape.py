@@ -92,7 +92,8 @@ def scrape_lever(slug, company):
             "location": cats.get("location", ""),
             "url": j.get("hostedUrl", ""),
             "description": _strip_html(full),
-            "posted_at": "",
+            # Lever gives createdAt as epoch milliseconds (age_in_days parses it)
+            "posted_at": str(j.get("createdAt", "")) if j.get("createdAt") else "",
             "source": "lever",
         })
     return out
