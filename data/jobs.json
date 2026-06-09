@@ -4250,7 +4250,7 @@
       "kubernetes",
       "html"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
@@ -10022,7 +10022,7 @@
       "postgres",
       "aws"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
@@ -13411,9 +13411,9 @@
     "company": "Sony Interactive Entertainment",
     "title": "Software Development Engineer in Test II",
     "location": "United States, Aliso Vie  +1 more",
-    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6007259004",
+    "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6015446004",
     "description": "<div class=\"content-intro\"><p><strong>Why Sony Interactive Entertainment?</strong></p> <p>Sony Interactive Entertainment isn\u2019t just the Best Place to Play \u2014 it\u2019s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. As a subsidiary of Sony Group Corporation, we\u2019re part of a proud legacy of innovation and excellence. SIE is a dynamic technology company, delivering cutting-edge hardware and network services to more than 100 million people and an entertainment leader, home to some of the most beloved and recognizable intellectual properties (IP) in the world. Our role at SIE is to create and nurture the experiences under the PlayStation brand, a name synonymous with entertainment excellence and creativity.</p></div><p><span style=\"color: #000000;\">PlayStation isn\u2019t just the Best Place to Play, it\u2019s also the Best Place to Work. Today, we\u2019re recognized as a global leader in interactive and digital entertainment, producing the PlayStation family of products and services including PlayStation\u00ae5, PlayStation\u00ae4, PlayStation\u00aeVR, PlayStation\u00aePlus, PlayStation App, cloud and streaming experiences, and acclaimed PlayStation software titles from PlayStation Studios.</span></p> <p><span style=\"color: #000000;\">At PlayStation, we are passionate about building high-quality experiences used by millions of players worldwide. We are looking for a motivated and hands-on Software Development Engineer in Test II (SDET II) to support quality engineering initiatives across our Subscription ecosystem.</span></p> <p><span style=\"color: #000000;\">This role is ideal for someone who enjoys solving quality engineering challenges across web, mobile, console, and connected device platforms while contributing to scalable automation and modern testing practices</span></p> <h3><span style=\"color: #000000;\">Role Overview:</span></h3> <p><span style=\"color: #000000;\">As an SDET II for Subscription Services, you will work closely with Staff and Senior SDETs, Software Engineers, Product Managers, and QE teams to help deliver high-quality subscription and streaming experiences across multiple platforms.</span></p> <p><span style=\"color: #000000;\">You will contribute to automation frameworks, end-to-end testing, CI/CD pipelines, and quality engineering initiatives supporting customer-facing subscription products and services.</span></p> <p><span style=\"color: #000000;\">You will help support testing and automation efforts across:</span></p> <ul> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Subscription and commerce platforms</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Streaming and cloud gaming services</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Gaming console ecosystems</span></li> <li style=\"color: #000000 !important;\"><span style=\"color: #000000;\">Multi-device connected experiences</span></li> </ul> <h3><span style=\"color: #000000;\"",
-    "posted_at": "2026-06-05T14:14:11-04:00",
+    "posted_at": "2026-06-05T14:14:12-04:00",
     "source": "greenhouse",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -17624,7 +17624,7 @@
       "api",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
@@ -20117,7 +20117,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "6be4a6efc852": {
     "company": "Sierra Nevada Coporation",
@@ -20604,7 +20604,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "60ce47c19f0c": {
     "company": "KLA",
@@ -20712,7 +20712,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "600972a35ac0": {
     "company": "ASML",
@@ -21084,7 +21084,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "61f43ae40203": {
     "company": "Dexcom",
@@ -21191,7 +21191,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "2f98b302e29b": {
     "company": "Ardian",
@@ -21293,11 +21293,11 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-07",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "9cd38ce3e6e1": {
     "company": "Sierra Space",
@@ -21725,11 +21725,11 @@
       "aws",
       "rds"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "becfb827fbbf": {
     "company": "Arizona State University",
@@ -21764,8 +21764,8 @@
     "title": "Software Engineer II - AI Tooling Platform",
     "location": "Seattle, WA",
     "url": "https://quickenloans.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Seattle-WA/Software-Engineer-II---AI-Tooling-Platform_R-083231",
-    "description": "Software Engineer II - AI Tooling Platform",
-    "posted_at": "Posted 7 Days Ago",
+    "description": "As a Software Engineer on the Platform Engineering team, you are at the core of how Redfin builds and delivers software. Our team is responsible for the entire lifecycle of a service\u2014from the initial scaffolding and microservices framework to the automated flows that move code through our system. We build the intelligent systems and high-leverage tooling that sit above our infrastructure, ensuring our teams can ship features with minimal friction and maximum velocity. We are taking on new areas of focus to build a unified, scalable AI platform for the entire organization. This includes building the infrastructure to leverage AI at scale: an internal AI gateway, a plugin marketplace, and core AI skills. We are looking for an engineer with a strong systems background who can operationalize these tools, ensuring they are secure, cost-effective, and deeply integrated into our existing workflows. About the Role Maintain & Modernize Developer Flows: Own and evolve the core systems that Redfin engineers use daily, including our Spring-based microservices framework, service scaffolding, and code delivery pipelines. Architect the AI Platform Layer: Build and scale the \"plumbing\" for AI adoption, including an internal gateway to manage various providers and a plugin marketplace for custom workflows. Operationalize AI Tooling: Lead the technical implementation of cost governance, security guardrails, and usage monitoring for all AI tools integrated into the Redfin ecosystem. Integrate Intelligence into the Lifecycle: Identify and implement ways to bake AI-driven tools into existing developer workflows, automating repetitive tasks and accelerating the path to production. Shepherd Engineering AI Adoption: Partner with engineering teams to help them onboard and use AI tools safely. You\u2019ll serve as the technical guide to ensure their workflows are efficient, secure, and sustainable within our platform. About You Strong Systems Background: You have a deep understanding of Java or a similar strongly-typed language (Spring/Spring Boot experience is a major plus). Practical AI Tooling Knowledge: You have experience integrating AI tools or APIs into your projects (professional or personal). You are familiar with the technical side of making these tools work, such as managing API calls, understanding rate limits, and the basic security considerations of using third-party AI services. Systems & Tooling Background: A track record of building frameworks, CLI tools, or automated workflows that support large-scale engineering operations. Operational Excellence: You have experience managing the \"care and feeding\" of technical platforms\u2014focusing on reliability, cost optimization, and performance. Reliability Mindset: You take pride in the long-term health of the tools you build. You enjoy solving complex problems in existing codebases just as much as building new features. Marketplace & Gateway Design: Experience building internal developer portals, service catalogs, or API",
+    "posted_at": "2026-06-02",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -21982,10 +21982,10 @@
   "8a4ac1152525": {
     "company": "Cisco",
     "title": "Software Engineering Technical Leader",
-    "location": "Milpitas, California, US",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2010407-1",
+    "location": "Milpitas, California, US  +1 more",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004012",
     "description": "Software Engineering Technical Leader",
-    "posted_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -22001,7 +22001,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-09",
@@ -22333,7 +22333,7 @@
     "title": "Software Engineer, Agentic Systems - Moveworks",
     "location": "Mountain View, CALIFORNI",
     "url": "https://jobs.smartrecruiters.com/ServiceNow/744000130257420",
-    "description": "The Role We're building the runtime infrastructure that powers Moveworks' AI agents \u2014 the systems that orchestrate, execute, and deliver agent responses to millions of enterprise users in real time. This is not an ML role. This is a distributed systems engineering role at the heart of the agentic AI wave. Our AI agents can plan, execute multi-step workflows, call tools, wait on human input, and resume \u2014 all while maintaining correctness, observability, and low latency. The systems that make this possible are what you'll build and own. What you get to do in this role: Agent orchestration engine \u2014 A state machine that manages long-running agent sessions, coordinating planning, execution, and user interaction across multiple LLM calls and tool invocations Distributed session management \u2014 Lease-based ownership using DynamoDB conditional writes, heartbeat protocols, and crash recovery via checkpointing Event-driven message pipeline \u2014 SQS FIFO queues for ordered delivery, Kafka consumers for event processing, and real-time streaming via gRPC and Socket.IO Structured concurrency \u2014 Python asyncio TaskGroups running multiple concurrent tasks per session (message polling, lease heartbeats, output publishing, orchestrator execution) with fail-fast semantics and graceful cancellation Observability infrastructure \u2014 OpenTelemetry instrumentation, distributed trace context propagation across async boundaries, custom span lifecycle management for sessions that span minutes Caching and state layers \u2014 Redis, DynamoDB KV stores with per-org/per-bot scoping, batch read optimization, and hot-reload configuration To be successful in this role you have: You should have deep experience in at least 3 of these areas: Distributed systems: consistency models, idempotency, exactly-once delivery, distributed locking/leasing Concurrent/async programming: Python asyncio, Go goroutines, structured concurrency, cancellation handling Event-driven architectures: message queues (SQS, Kafka), pub/sub, backpressure, delivery guarantees Database systems for infrastructure: DynamoDB (conditional writes, transactions), Redis (connection pooling, pub/sub) Observability: OpenTelemetry, distributed tracing, span context propagation, Prometheus metrics gRPC/protobuf: streaming RPCs, service interface design, error handling patterns Required: 2+ years building production backend/infrastructure systems Strong in Python or Go (ideally both) Experience designing and operating systems that handle real traffic at scale Comfort with ambiguity \u2014 these are novel problems without textbook solutions ",
+    "description": "Software Engineer, Agentic Systems - Moveworks",
     "posted_at": "2026-06-04T16:22:01.414Z",
     "source": "smartrecruiters",
     "opt_friendly": true,
@@ -22410,7 +22410,7 @@
     "title": "Commissioning Engineer",
     "location": "Tampa, FL, United States",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000130853764",
-    "description": "AECOM is seeking a highly motivated Commissioning Engineer to join our team in Tampa, FL . This entry-level position is ideal for recent graduates with a degree in Mechanical Engineering or Construction Engineering , particularly those with an interest in HVAC systems and mechanical building systems . As a Commissioning Engineer , you will play a critical role in ensuring that building systems\u2014such as HVAC, mechanical, electrical, plumbing, and life safety systems\u2014are designed, installed, and functioning as intended. This position offers a unique blend of office-based work and onsite fieldwork , providing exposure to both technical design reviews and hands-on system testing. Job Summary Building commissioning is a systematic process that ensures all building systems perform interactively and efficiently according to the design intent and operational needs. As a Commissioning Engineer , you will collaborate with design and construction professionals, clients, trade contractors, and facility managers to deliver high-quality, energy-efficient buildings. This role provides an excellent opportunity to gain hands-on experience in mechanical and HVAC systems , develop a deep understanding of building operations, and grow your career within a global leader in infrastructure consulting. Key Responsibilities include but are not limited to the following: Building Commissioning Activities Conduct commissioning reviews of construction documents, to ensure compliance with design intent and project requirements. Develop and execute pre-functional checklists and functional test procedures for HVAC, mechanical, and other building systems. Perform construction and installation observations , ensuring systems are installed per design specifications and industry standards. Evaluate the performance of HVAC and building control/SCADA systems, ensuring they meet operational and energy efficiency goals. Assist in troubleshooting and resolving issues related to mechanical and HVAC systems during commissioning and post-occupancy phases. Project Coordination & Communication Assist in the development, coordination, and execution of commissioning activities during the design, construction, testing/training, and warranty phases. Attend and actively participate in project coordination meetings with clients, contractors, and design teams. Record and distribute meeting minutes for commissioning coordination sessions. Provide detailed construction observation reports when working onsite. Minimum Requirements: BA/BS + None or demonstrated equivalency of experience and/or education. Preferred Qualifications: Problem-Solving Skills: Ability to analyze and resolve technical challenges effectively. Leadership: Capable of leading meetings and discussions with project stakeholders. ",
+    "description": "Commissioning Engineer",
     "posted_at": "2026-06-08T17:04:22.318Z",
     "source": "smartrecruiters",
     "opt_friendly": true,
@@ -23180,7 +23180,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "880a5f75dbee": {
     "company": "Adobe",
@@ -23520,7 +23520,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "dc3f5462ce51": {
     "company": "PayPal",
@@ -23562,7 +23562,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "14bf554b2e34": {
     "company": "General Motors",
@@ -23652,7 +23652,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "b27c304f5eee": {
     "company": "Johnson & Johnson",
@@ -23678,7 +23678,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "a2cedc7ef2b5": {
     "company": "RELX",
@@ -23980,7 +23980,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "3da199c800ea": {
     "company": "Micron Technology",
@@ -24178,8 +24178,8 @@
     "title": "Software Engineer-7982",
     "location": "VA - Reston, 11951 Freed",
     "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-7982_R437286",
-    "description": "FreeWheel, a Comcast company, provides comprehensive ad platforms for publishers, advertisers, and media buyers. Powered by premium video content, robust data, and advanced technology, we\u2019re making it easier for buyers and sellers to transact across all screens, data types, and sales channels. As a global company, we have offices in nine countries and can insert advertisements around the world. Job Summary Job Description DUTIES: Contribute to team responsible for designing and developing new software and web applications; develop backend software using Go; develop frontend software using React, JavaScript, HTML, CSS, and Typescript; perform Unit and Integration Testing using gomock, Cypress, and Playwright framework; develop software using MySQL, Redis, AWS, and Agile development methodologies; build CI/CD pipelines using Jenkins and Docker; support applications under development and customize current applications; assist with the software update process for existing applications, and roll-outs of software releases; analyze, test, and assist with the integration of new applications; document all development activity; research, write, and edit documentation and technical requirements, including software designs, evaluation plans, test results, technical manuals, and formal recommendations and reports; monitor and evaluate competitive applications and products; review literature, patents, and current practices relevant to the solution of assigned projects; collaborate with project stakeholders to identify product and technical requirements; conduct analysis to determine integration needs; and work with the Quality Assurance team to determine if applications fit specification and technical requirements. Position is eligible to work remotely one or more days per week, per company policy. REQUIREMENTS: Bachelor \u2019 s degree, or foreign equivalent, in Computer Science, Engineering, or related technical field, and two (2) years of experience developing backend software using Go; developing frontend software using JavaScript, HTML, and CSS; developing software using MySQL, Redis, AWS, and Agile development methodologies; building CI/CD pipelines using Jenkins and Docker; performing Unit and Integration Testing using gomock and Playwright framework; and using React and Typescript Disclaimer: This information has been designed to indicate the general nature and level of work performed by employees in this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications. Skills JavaScript, Redis, TypeScript We believe that benefits should connect you to the support you need when it matters most, and should help you care for those who matter most. That's why we provide an array of options, expert guidance and always-on tools that are personalized to meet the needs of your reality\u2014to help support you physically, financially and emotionally through the big milestones and in your everyday life.",
-    "posted_at": "2026-06-03",
+    "description": "Software Engineer-7982",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -24235,7 +24235,7 @@
     "location": "VA - Reston, 11951 Freed",
     "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Engineer-3--Software-Development---Engineering---Full-Stack-Development-0218_R437492",
     "description": "Engineer 3, Software Development & Engineering \u2013 Full Stack Development-0218",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -24251,19 +24251,19 @@
       "rest",
       "api"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "432e7c37ace7": {
     "company": "Comcast",
     "title": "Engineer 4, Software Development & Engineering - SDET-1091",
     "location": "PA - Philadelphia, 1800 ",
     "url": "https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-4--Software-Development---Engineering---SDET-1091_R437570",
-    "description": "Engineer 4, Software Development & Engineering - SDET-1091",
-    "posted_at": "Posted 5 Days Ago",
+    "description": "Make your mark at Comcast -- a Fortune 30 global media and technology company. From the connectivity and platforms we provide, to the content and experiences we create, we reach hundreds of millions of customers, viewers, and guests worldwide. Become part of our award-winning technology team that turns big ideas into cutting-edge products, platforms, and solutions that our customers love. We create space to innovate, and we recognize, reward, and invest in your ideas, while ensuring you can proudly bring your authentic self to the workplace. Join us. You\u2019ll do the best work of your career right here at Comcast. (In most cases, Comcast prefers to have employees on-site collaborating unless the team has been designated as virtual due to the nature of their work. If a position is listed with both office locations and virtual offerings, Comcast may be willing to consider candidates who live greater than 100 miles from the office for the remote option.) Job Summary Job Description DUTIES: Provide technical leadership in validating product quality by analyzing and testing the quality of the code base; develop automation frameworks and applications using Java, JavaScript, and NodeJS; writing automated tests using Cypress; develop automated API testing for RESTful APIs using Postman or REST Assured; automate build, test and deployment processes using Jenkins pipelines; automate testing builds using Concourse; use Agile Methodologies including Scrum or Kanban; use SQL to query databases, verify data integrity, and perform database operations in automation scripts; perform test automation for Behavior Driven Development (BDD) using Cucumber; perform version control using GitHub; write, debug, and deploy software applications using Visual Studio IDE; use Generative AI (GenAI) algorithms to generate test cases, generate structured and un-structured test data, detect anomalies, and execute autonomous tests; write code that will be executed in an automated and repeatable fashion which will reduce manual testing efforts and increase code quality and consistency; develop and maintain code that validates front-end, middleware and database systems, using the latest tools and programming languages; provide input into various software development lifecycle stages; partner with software engineers to write efficient automation code using coding standards and best practices; report test execution results to senior leadership; repair complex broken automation scripts and performs peer reviews of automation codebase; act as a key contributor in a complex and crucial environment; write and edit complex, automated test code, using the same standards as a Software Engineer, allowing repeatable, reliable testing solutions to test the wide functionality of products and software in accordance with specifications and technical requirements, maintaining automation codebase in a version control system, which include creating complex SQL queries for validation of databases and wri",
+    "posted_at": "2026-06-03",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -24279,11 +24279,11 @@
       "node",
       "node.js"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "e48aafa916d8": {
     "company": "Genuine Parts Company",
@@ -24526,7 +24526,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "af58d4d26b8c": {
     "company": "Mastercard",
@@ -24547,7 +24547,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "6d382e8f028e": {
     "company": "Thermo Fisher Scientific",
@@ -24642,8 +24642,8 @@
     "title": "NXE First Line Support Production Engineer - Chuck/SS (CWW Days)",
     "location": "Wilton, CT, USA",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Wilton-CT-USA/NXE-First-line-support-production-engineer-Chuck-SS-CWWD_J-00337975",
-    "description": "Who are we ? ASML US, LP brings together the most creative minds in science and technology to develop lithography machines that are key to producing faster, cheaper, more energy-efficient microchips. We design, develop, integrate, market and service these advanced machines, which enable our customers - the world\u2019s leading chipmakers \u2013 to reduce the size and increase the functionality of their microchips, which in turn leads to smaller, more powerful consumer electronics. Our headquarters are in Veldhoven, the Netherlands, and we have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ and San Jose, CA. The First Line Support Production Engineer is responsible for providing first-line troubleshooting support to ensure uninterrupted production output. This role requires hands-on troubleshooting of production issues, escalating issues when necessary, and driving continuous improvement through documentation, analysis, and collaboration. The Production Engineer First Line Support has an understanding of product SPC (Statistical Process Control), manages disturbance notifications, and works with the internal teams to support Material (MN) and Disturbance (DN) review boards, ensuring optimal product flow and minimal disruptions. This position will be CWW D1 or D2 D1-Sunday, Monday, Tuesday every other Saturday 6:00am-6:00pm D2-Wednesday, Thursday, Friday every other Saturday-6:00am-6:00pm Core Responsibilities First-Line Troubleshooting & Problem-Solving Spends 75% of time in the Cleanroom supporting production processes and leading troubleshooting actions Provide real-time troubleshooting support for production issues to minimize downtime and optimize output. Document all disturbances and resolutions accurately for future learning. Escalate issues to senior FLS when resolution cannot be achieved independently. Capture learnings from troubleshooting efforts and use them to write & enhance OCAPs (Out of Control Action Plans). Execute \u2018As New\u2019 based on input and documentation from D&E/Module PE to ensure product quality meets defined standards. Perform \u2018cherry picks\u2019 to select and evaluate specific parts for quality and process validation. Escalation Management & Technical Documentation Create ETPs (Engineering Test Plans), task lists, and DOs (Disturbance Orders) related to escalation management, tooling maintenance, and troubleshooting. Advancing problem resolution through detailed investigation of recurring issues. SPC Tracking Support and maintain SPC tracking for tooling and products, ensuring data-driven process control. Disturbance Notification Analysis, Material Notifications & Process Improvement Perform pre-DRB activities as directed by Technical Lead or equivalent. Support, maintain, and execute by participation in the DRB/MRB (Disturbance Review Board/Material Review Board) process. Create and manage E-Scraps for scrap parts to ensure traceability and accountability. Participate in continuous improve",
-    "posted_at": "2026-06-02",
+    "description": "NXE First Line Support Production Engineer - Chuck/SS (CWW Days)",
+    "posted_at": "Posted 7 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -24679,7 +24679,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "5204928126bf": {
     "company": "Crowdstrike",
@@ -24749,7 +24749,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "1c83df7a6e8f": {
     "company": "Fiserv",
@@ -24812,7 +24812,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "82675e79f920": {
     "company": "Schweitzer Engineering Laboratories",
@@ -24896,7 +24896,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "13619bea21c9": {
     "company": "Schweitzer Engineering Laboratories",
@@ -25066,7 +25066,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "83a54c2eef08": {
     "company": "KLA Corporation",
@@ -25087,7 +25087,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "65928dbd31a8": {
     "company": "KLA Corporation",
@@ -25137,9 +25137,9 @@
     "company": "Bank of America",
     "title": "Software Engineer III - Equities Technology",
     "location": "Jersey City",
-    "url": "https://ghr.wd1.myworkdayjobs.com/en-US/us-emplsv/job/Jersey-City/Software-Engineer-III---Equities-Technology_26019310-1",
-    "description": "Job Description: At Bank of America, we are guided by a common purpose to help make financial lives better through the power of every connection. We do this by driving Responsible Growth and delivering for our clients, teammates, communities and shareholders every day. Being a Great Place to Work and providing a culture of caring is core to how we drive Responsible Growth. We are intentional about fostering an inclusive workplace where every teammate has the opportunity to succeed, build a career and contribute to our shared success. This includes attracting and developing exceptional talent, recognizing and rewarding performance, and supporting our teammates\u2019 physical, emotional, and financial wellness through affordable, competitive and flexible benefits. We value the unique perspectives individuals bring from all backgrounds and career paths - whether shaped by military service, community college education, or a wide range of work and life experiences. These journeys foster resilience, leadership and innovation, strengthening our workforce and positively impact the communities we serve. Bank of America is committed to an in-office culture that supports collaboration, engagement, and career development. Our approach includes clear in-office expectations, while providing an appropriate level of flexibility based on role-specific responsibilities and business needs. At Bank of America, you can build a successful career with opportunities to learn, grow, and make an impact. Join us! Job Description: This job is responsible for developing and delivering complex requirements to accomplish business goals. Key responsibilities of the job include ensuring that software is developed to meet functional, non-functional and compliance requirements, and solutions are well designed with maintainability/ease of integration and testing built-in from the outset. Job expectations include a strong knowledge of development and testing practices common to the industry and design and architectural patterns. Job Profile Summary: We are looking for a motivated and thoughtful professional to support Equity\u2011wide AI initiatives and help gradually expand the use of AI across the Equities Technology organization . This role is well suited for someone who is organized, collaborative, curious, and passionate about AI , and who enjoys understanding problems, coordinating efforts, and contributing ideas and working solutions. The person in this role will help identify where AI can be useful, organize and prioritize efforts, work closely with business and technology teams, and contribute to proof\u2011of\u2011concepts (POCs) that demonstrate value. This role success comes from partnership, steady execution, and thoughtful follow\u2011through . Responsibilities: Codes solutions and unit test to deliver a requirement/story per the defined acceptance criteria and compliance requirements Designs, develops, and modifies architecture components, application interfaces, and solution enablers while e",
-    "posted_at": "2026-06-05",
+    "url": "https://ghr.wd1.myworkdayjobs.com/en-US/Lateral-US/job/Jersey-City/Software-Engineer-III---Equities-Technology_26019310",
+    "description": "Software Engineer III - Equities Technology",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -25490,8 +25490,8 @@
     "title": "Engineer 2, Combination Product, Product Engineering",
     "location": "USA CA Temecula",
     "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-CA-Temecula/Engineer-2--Combination-Product--Product-Engineering_R-547740",
-    "description": "Engineer 2, Combination Product, Product Engineering",
-    "posted_at": "Posted 5 Days Ago",
+    "description": "&#xa;&#xa; We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health\u2122 is our Purpose, and it\u2019s no small feat. It takes the imagination and passion of all of us\u2014from design and engineering to the manufacturing and marketing of our billions of MedTech products per year\u2014to look at the impossible and find transformative solutions that turn dreams into possibilities. &#xa;&#xa; Job Description We are the makers of possible. BD is one of the largest global medical technology companies in the world. Advancing the world of health \u2122 is our Purpose, and it\u2019s no small feat. It takes the imagination and passion of all of us\u2014from design and engineering to the manufacturing and marketing of our billions of MedTech products per year\u2014to look at the impossible and find transformative solutions that turn dreams into possibilities. We believe that the human element, across our global teams, is what allows us to continually evolve. Join us and discover an environment in which you\u2019ll be supported to learn, grow and become your best self. Become a maker of possible with us. Job Description Summary: Develop and validate testing methodologies. Write test method protocols and corresponding reports, as well as create new test methods. Provide guidance and develop strategies for test methodologies that comply with current ISO and ASTM standards. Lead and support technical initiatives related to combination product testing services, methodologies, and instrumentation. Qualifications: Master\u2019s degree in Engineering (any) or related field of study and two (2) years of experience in the job offered or related occupation in which the required experience was gained. In lieu of a Master\u2019s degree in Engineering (any) or related field of study and two (2) years of experience, the employer will also accept a Bachelor\u2019s degree in Engineering (any) or related field of study and five (5) years of experience in the job offered or related occupation in which the required experience was gained. Must have demonstrated experience with: Combination Product Testing; authoring protocols and reports; Test Method Development; data statistical analysis; Quality Control and Mitigation; ISO-11608 and ISO 11040 standards; SolidWorks; Minitab; and working in a cGMP laboratory. Salary offered for the position is: $127,317.00 - $133,500.00/year. Primary Work Location: 27979 Diaz Rd., Temecula, CA 92590 Additional Locations: N/A Work Shift: Not Specified To apply, submit a resume to https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA, OR mail resume to Becton, Dickinson and Company, Attn: BDHR \u2013 CS, 3750 Torrey View Ct, San Diego, CA 92130, OR submit a resume to https://www.caljobs.ca.gov/vosnet/Default.aspx. Must reference Job Title & Job Code: R-547740 . EOE. #DNPBD For certain roles at BD, employment is contingent upon the Company\u2019s receipt of sufficient proof that you are fully vaccinated against C",
+    "posted_at": "2026-06-04",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -25525,7 +25525,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "d15543c8eb2d": {
     "company": "Zoom",
@@ -25546,7 +25546,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "6d11a48db179": {
     "company": "Zoom",
@@ -25637,7 +25637,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "7f60e53f414a": {
     "company": "Fidelity Investments",
@@ -25666,7 +25666,7 @@
     "location": "USA - Georgia - Alpharet",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Georgia---Alpharetta---30005/Technology-Solution-Delivery-Consultant_J00176744",
     "description": "Data Engineer",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -25675,11 +25675,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "607b003fd9d5": {
     "company": "Equifax",
@@ -25762,7 +25762,7 @@
     "location": "CAN01: Carrier-Syracuse,",
     "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Test-Engineer_30206727",
     "description": "Test Engineer",
-    "posted_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 7 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -25771,11 +25771,11 @@
     "sponsor_cert": null,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "a6c2513f640b": {
     "company": "eBay",
@@ -25813,11 +25813,11 @@
     "sponsor_cert": 84.6,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "fba32cd049e2": {
     "company": "University of Miami",
@@ -25916,7 +25916,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "cb83bb37f0b6": {
     "company": "Bank of America",
@@ -25965,7 +25965,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "f9b8219a09d3": {
     "company": "Bank of America",
@@ -25993,8 +25993,8 @@
     "title": "AI Machine Learning Scientist",
     "location": "IN-INDIANAPOLIS, 220 VIR",
     "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/AI-Machine-Learning-Scientist_JR195098",
-    "description": "AI Machine Learning Scientist",
-    "posted_at": "Posted 4 Days Ago",
+    "description": "Anticipated End Date: 2026-07-15 Position Title: AI Machine Learning Scientist Job Description: AI Machine Learning Scientist Location : Ideal candidates will be able to report to our Pulse Point location at 220 Virginia Avenue, Indianapolis, IN 46204. This role enables associates to work virtually full-time with the exception of required in-person training sessions, providing maximum flexibility and autonomy. This approach promotes productivity, supports work-life integration, and ensures essential face-to-face onboarding and skill development. Please note that per our policy on hybrid/virtual work, candidates not within a reasonable commuting distance from the posting location(s) will not be considered for employment, unless an accommodation is granted as required by law. Work Hours: Monday to Friday, 8:00 am to 5:00 pm The AI Machine Learning Scientist is responsible for developing experimental and analytic plans for machine learning algorithms and data modeling processes, establish strong baselines, and accurately determine causal relationships. How You Will Make an Impact: Leverage Artificial Intelligence (AI) scientific and statistical methods to assist with product creation, development, and improvement. Engage with product teams and business stakeholders to align on project objectives and ensure AI models meet business goals. Lead initiatives for developing Machine Learning (ML), Natural Language Processing (NLP), and Large Language Models (LLM) LLM models. Play a critical role in steering the strategic direction for ML, NLP, LLM, and algorithm development within the company\u2019s AI/ML team, collaborating with distinguished experts in AI/ML modeling, ML engineering, data science, and data engineering. Define and articulate roadmaps for AI/ML model development, acting as a key figure in AI-driven transformation to deliver value internally and to customers. Design and develop customized ML, GenAI, NLP, and LLM models for both batch and stream processing-based AI/ML pipelines. This includes handling data ingestion, preprocessing, search and retrieval, Retrieval Augmented Generation (RAG), and ensuring that complete solutions meet all technical and business requirements, as well as Service Level Agreement (SLA) specifications. Work closely with MLOps, machine learning engineers, and software engineers to ensure seamless integration of machine learning models into production systems. Collaborate with the MLOps team to create and maintain strong evaluation solutions and tools that assess model performance, accuracy, consistency, and reliability during development and UAT. Mentor junior team members and influence the strategic direction of our ML and data science projects. Minimum Requirements: Bachelor\u2019s degree in a highly quantitative field: Computer Science, Machine Learning, Operational Research, Analytics, Statistics, Mathematics, or a related field of study. Four (4) years of Information Technology (IT) experience, or related experience. Expe",
+    "posted_at": "2026-06-05",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -26019,9 +26019,9 @@
   "61eb0eed9430": {
     "company": "Elevance Health",
     "title": "Engineer III",
-    "location": "NY-NEW YORK, ONE PENN PL",
-    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Engineer-III_JR195101",
-    "description": "Anticipated End Date: 2026-07-15 Position Title: Engineer III Job Description: Engineer III Location : Ideal candidates will be able to report to our Pulse Point location at One Penn Plaza, 35th and 36th Floors, New York, NY 10119. This role requires associates to be in-office 1 - 2 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Please note that per our policy on hybrid/virtual work, candidates not within a reasonable commuting distance from the posting location(s) will not be considered for employment, unless an accommodation is granted as required by law. Work Hours: Monday to Friday, 8:00 am to 5:00 pm The Engineer III is responsible for delivering end-to-end system development and maintenance for complex technology systems within assigned client groups, business units, or corporate departments. How You Will Make an Impact: Develop medium to large complex customer technology platforms and architectures. Collaborate with engineers and graphic designers to analyze change requests and evaluate enhancements. Develop and perform system testing, resolve defects, and validate results. Aid in integration activities with other IT departments. Code and maintain complex information system components. Mentor team members on coding standards and perform code reviews. Build, test, and validate statistical and machine learning models. Contribute to business operation by performing basic analyses, preparing data and documenting results. Work with others to develop and define application scope and objectives and prepare functional and/or technical specifications. Maintain active relationships with internal and/or external stakeholder to develop business requirements. Analyze and evaluate detailed business and technical requirements. Minimum Requirements: Bachelor\u2019s degree in Data Science, Statistics, Biostatistics, Computer Science, Information Technology, or related field of study. Three (3) years of Information Technology (IT) experience, or related experience. Experience Requirements: Three (3) years of required Information Technology (IT) or related experience must include: Large Language Models (LLM) Natural Language Processing (NLP) Extracting and analyzing metadata and clinical data from medical charts or notes Machine Learning (ML) model development Tableau Python SAS Snowflake AWS Statistics Data engineering tools and technologies including PySpark, Hadoop, Impala, and Kubeflow Healthcare insurance industry experience Apply: https://careers.elevancehealth.com/ SALARY: $131,997 - $132,997 per year For candidates working in person or virtually in the below location(s), the salary* range for this specific position is $131,997 - $132,997 Locations: New York, NY In addition to your salary, Elevance Health offers benefits such as a comprehensiv",
+    "location": "NY-NEW YORK, ONE PENN PL  +1 more",
+    "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/Engineer-III_JR194933",
+    "description": "Anticipated End Date: 2026-07-15 Position Title: Engineer III Job Description: Engineer III Location: Ideal candidates will be able to report to our Pulse Point location at 2015 Staples Mill Road, Richmond, VA 23230. This role requires associates to be in-office 3-4 days per week, fostering collaboration and connectivity, while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Please note that per our policy on hybrid/virtual work, candidates not within a reasonable commuting distance from the posting location(s) will not be considered for employment, unless an accommodation is granted as required by law. Work Hours: Monday to Friday, 8:00 am to 5:00 pm The Engineer III is responsible for delivery of end to end system development and maintenance on complex technology systems within assigned client group, business unit or corporate department. How You Will Make an Impact: Development on medium to large complex customer technology platforms or architectures. Maintains active relationships with internal and/or external stakeholder to develop business requirements. Analyzes and classifies complex change request and identifies and documents possible system code enhancements. Demonstrates knowledge of industry trends, our products and infrastructure. Collaborates with engineers and graphic designers, analyzes and classifies complex change request and reviews and evaluates possible enhancements. Works with development team to develop and define application scope and objectives and prepare functional and/or technical specifications. Analyzes and evaluates detailed business and technical requirements. Understands the product and analytics and drive requirements that take into account stakeholders needs. Identifies problems/risks. Codes and maintains complex components of information systems. Mentors others on coding standards and performs code reviews. Reviews test cases and advises QA on adjacent code/regression impact. Develops and performs system testing and fixes defects identified during testing and re-executes unit tests to validate results. Aids in integrating activities with other IT departments for successful implementation and support of project efforts. Provides on call support and monitors the system and identifies system deficiencies. Minimum Requirements: Bachelor\u2019s degree in Information Technology, Computer Science, or related. Three (3) years in any occupation with experience on one platform, multi database, multi language or multi business application. Experience Requirements: Three (3) years in any occupation with experience on one platform, multi database, multi language or multi business application must include: Three (3) years of experience in Big data. Three (3) years of experience in data Engineering concepts. Three (3) years of experience in Apache Spark, Scala. Three (3) years of e",
     "posted_at": "2026-06-05",
     "source": "workday",
     "opt_friendly": true,
@@ -26128,11 +26128,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "95435cc8df0b": {
     "company": "MECCA",
@@ -26404,7 +26404,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "593dacffc971": {
     "company": "Broadcom Limited",
@@ -26746,15 +26746,15 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "d90167c139d1": {
     "company": "American Electric Power",
     "title": "Infrastructure Engineer",
     "location": "Columbus, OH",
     "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/Columbus-OH/Infrastructure-Engineer_R13715",
-    "description": "Job Posting End Date 06-14-2026 Please note the job posting will close on the day before the posting end date. Job Summary Part of a larger team delivering high quality Computer, Network, Storage and End-User Infrastructure technology solutions, on-going support to the business. Plan, research, evaluate, design, and engineer the enterprise's technology infrastructure. Provide technical support and troubleshooting, cost estimates, justifications, and recommendations. Produce technical documentation, support and configuration. Manage, plan, and maintain technical platforms including upgrading systems. Monitor system performance and install and configure hardware. Responsible for collaborating with other Job Families such as Project Managers, Architects, Solution Engineers, Technicians, Business Analysts to deliver consistent, reliable technology solutions that leverage AEP's technology standards, architectures and best practices. Job Description What you\u2019ll do: This position is for an infrastructure engineer in the Collaboration Services group. Primary responsibilities are as follows: Design, engineering and support of MS Teams Video Conferencing Systems 3rd level engineering & support of MS Teams, Video Conferencing technologies and other M365 services Engaging business partners on requirements, design reviews and best practices Working with vendors to implement MS Teams Video Conferencing Solutions What we\u2019re looking for: Education: Bachelor's degree in computer science, engineering, or related technical field is required. Experience: 2 years of relevant work experience is required. An equivalent combination of education and experience may be considered. Other preferences: Adhere to policies, procedures, standards, codes and regulations relevant to assignments. Continue building knowledge of infrastructure, environment, components, and facilities to enable more efficient and comprehensive responses to projects and problems. At AEP, we\u2019re more than just an energy company \u2014 we\u2019re a team of dedicated professionals committed to delivering safe, reliable, and innovative energy solutions. Guided by our mission to put the customer first, we strive to exceed expectations by listening, responding, and continuously improving the way we serve our communities. If you're passionate about making a meaningful impact and being part of a forward-thinking organization, this is the company for you! American Electric Power (On-Site) #LI-Onsite #AEPCareers Compensation Data Compensation Grade: SP20-006 Compensation Range: $74,551.00 - $93,188.50 The Physical Demand Level for this job is: S \u2013 Sedentary Work: Exerting up to 10 pounds of force occasionally (Occasionally: activity or condition exists up to 1/3 of the time) and/or a negligible amount of force frequently. (Frequently: activity or condition exists from 1/3 to 2/3 of the time) to lift, carry, push, pull or otherwise move objects, including the human body. Sedentary work involves sitting most of the time but ",
-    "posted_at": "2026-06-02",
+    "description": "Infrastructure Engineer",
+    "posted_at": "Posted 7 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -26881,11 +26881,11 @@
       "rest",
       "rds"
     ],
-    "age_days": 4,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "c8abef5a96c8": {
     "company": "Harris Williams",
@@ -27012,7 +27012,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "04f35b6638ee": {
     "company": "Comcast",
@@ -27073,7 +27073,7 @@
     "location": "Northbrook, Illinois",
     "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/Developer-Analyst_R2605907",
     "description": "Developer Analyst",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -27082,11 +27082,11 @@
     "sponsor_cert": 86.5,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-07",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "42e61eb6e80d": {
     "company": "Thomson Reuters",
@@ -27128,7 +27128,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "bf6587df3072": {
     "company": "Schweitzer Engineering Laboratories",
@@ -27443,7 +27443,7 @@
     "location": "Spring, Texas, United St",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Engineer_3162970",
     "description": "Software Engineer",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -27452,11 +27452,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "95d50f0679d4": {
     "company": "Global Payments",
@@ -27477,7 +27477,7 @@
     "fresh": false,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "1ae3409fa56a": {
     "company": "U.S. Bank",
@@ -27611,7 +27611,7 @@
     "location": "Malvern, PA",
     "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Machine-Learning-Engineer--Specialist_177787",
     "description": "Machine Learning Engineer, Specialist",
-    "posted_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 7 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -27620,11 +27620,11 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "c44c85f5194a": {
     "company": "Ameriprise Financial",
@@ -27693,7 +27693,7 @@
     "company": "Zoom",
     "title": "Software Development Engineer",
     "location": "San Jose (CA)",
-    "url": "https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19197",
+    "url": "https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Development-Engineer_R19198",
     "description": "Software Development Engineer",
     "posted_at": "",
     "source": "workday",
@@ -27734,10 +27734,10 @@
   "316b7cc9306f": {
     "company": "Zoom",
     "title": "Software Engineer",
-    "location": "Remote (IND)  +1 more",
-    "url": "https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote-IND/Software-Engineer_R18768-1",
-    "description": "What You Can Expect You\u2019ll build and scale modern applications that solve real business problems and improve user experience. You\u2019ll work across frontend, backend, APIs, cloud infrastructure, and AI-powered workflows to deliver impactful solutions quickly. You\u2019ll have opportunities to learn fast, take ownership early, and work with modern engineering practices used in high-scale environments. About the Team Our team builds scalable platforms and internal products that support engineering and business operations. We move fast, collaborate closely, and encourage continuous learning and experimentation. We value engineers who are curious, adaptable, and excited to grow in the AI-driven software engineering era. Responsibilities: Designing, developing, and maintaining frontend and backend applications. Building responsive UI components and reliable backend APIs for scalable applications. Collaborating with product managers, designers, and engineers to deliver features quickly and iteratively. Writing clean, maintainable, and testable code following engineering best practices. Debugging production issues, improving application performance, and ensuring service reliability. Working with databases, cloud platforms, and containerized environments. Leveraging AI-powered developer tools and modern workflows to improve productivity and accelerate delivery. Learning new technologies quickly and contributing across different parts of the stack as needed. What We\u2019re Looking For 0\u20133 years of software engineering experience in frontend , backend , or full-stack development. Strong fundamentals in data structures, problem solving, and software engineering concepts. Experience with JavaScript/TypeScript and modern frontend frameworks such as React, Angular, or Vue . js. Experience building backend services or APIs using Node. js , Python, Java, or similar technologies. Understanding of databases such as PostgreSQL, MySQL, MongoDB, or Redis. Familiarity with Git, debugging, testing, and basic CI/CD workflows. Basic understanding of cloud platforms, Docker, and modern deployment environments. Strong learning mindset, curiosity, and ability to adapt quickly in a fast-moving engineering environment. Passion for leveraging AI tools, automation, and modern engineering workflows to improve productivity and software quality. Exposure to Kubernetes, Kafka, distributed systems, or data engineering concepts. \u2022Contributions to personal projects, open-source work, hackathons, internships, or AI-driven applications Ways of Working Our structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In-Person is indicated in the job description/posting. Benefits As part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support wo",
-    "posted_at": "2026-06-08",
+    "location": "San Jose (CA)",
+    "url": "https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/San-Jose-CA/Software-Engineer_R19185",
+    "description": "Software Engineer",
+    "posted_at": "",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -27746,11 +27746,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 0,
-    "fresh": true,
+    "age_days": null,
+    "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "e617b7ff2214": {
     "company": "Zoom",
@@ -27814,8 +27814,8 @@
     "age_days": null,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "6d6c7524ddd6": {
     "company": "Zoom",
@@ -27844,7 +27844,7 @@
     "location": "US, Texas, Frisco",
     "url": "https://mcafee.wd1.myworkdayjobs.com/en-US/external/job/US-Texas-Frisco/Mobile-Full-Stack-Development-Engineer_JR0032566-1",
     "description": "Mobile Full Stack Development Engineer",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -27853,11 +27853,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "6151eae6e45e": {
     "company": "Equifax",
@@ -28006,7 +28006,7 @@
     "fresh": false,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "123ca8cf6e65": {
     "company": "Altera Corporation",
@@ -28035,7 +28035,7 @@
     "location": "Seattle, Washington Unit",
     "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/SDE-II_R_106336-1",
     "description": "SDE II",
-    "posted_at": "Posted 6 Days Ago",
+    "posted_at": "Posted 7 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -28044,11 +28044,11 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "c291efce4fcc": {
     "company": "Broadcom Limited",
@@ -28134,7 +28134,7 @@
       "bigquery",
       "data pipeline"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -28161,7 +28161,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -28327,7 +28327,7 @@
     "location": "University of Wisconsin ",
     "url": "https://wisconsin.wd1.myworkdayjobs.com/en-US/UW_Comprehensives/job/Platteville-WI/Data-Warehouse-Developer_JR10011913",
     "description": "Data Warehouse Developer",
-    "posted_at": "Posted Today",
+    "posted_at": "Posted Yesterday",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -28336,11 +28336,11 @@
     "sponsor_cert": 38.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "0386f5e2e555": {
     "company": "Continental",
@@ -28364,7 +28364,7 @@
       "dbt",
       "airflow"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -28804,7 +28804,7 @@
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "c0fe26e0c68a": {
     "company": "HP",
@@ -28853,7 +28853,7 @@
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "6f428b7011a2": {
     "company": "Genuine Parts Company",
@@ -29198,7 +29198,7 @@
     "title": "Associate Engineer, Technology I",
     "location": "North Chicago, IL, Unite",
     "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013516706",
-    "description": "Perform analyses and implement software, platform, or infrastructure solutions to deliver precise, reliable, and reproducible products in a timely manner, under the direction of a more senior leader. Demonstrate technical precision and should possess a good understanding of software development, automation, DevOps practices, and platform engineering environments, including one or more of infrastructure, storage, network connectivity, virtualization/cloud environments, CI/CD pipelines, and developer platforms. Responsibilities: Completely follow established technical protocols and assess results with supervision. Perform routine tasks competently. Effectively organize work. Recognize and report data or technical variances. Learn and effectively implement new methods and technologies. Consult literature and publicly available information to understand purpose of assignments. Provide input into overall project time and cost estimates. Produce and maintain required technical documentation associated with work product. Understand and adhere to corporate standards regarding applicable Corporate and Divisional Policies, including code of conduct, safety, GxP compliance, data security, and the software development lifecycle. Required: Bachelor\u2019s Degree in Computer Science Theoretical and practical knowledge to carry out job functions/ developing CI/CD pipeline Software Engineering experience Preferred: CI/CD tools like Github Actions, JFrog Experience with AI technology or agentic development ",
+    "description": "Associate Engineer, Technology I",
     "posted_at": "2026-06-08T16:36:44.386Z",
     "source": "smartrecruiters",
     "opt_friendly": true,
@@ -29226,7 +29226,7 @@
     "title": "Traction Power Engineer",
     "location": "Philadelphia, PA, United",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000130866526",
-    "description": "AECOM is seeking a motivated and enthusiastic Traction Power Engineer to join our team. This position offers a valuable opportunity to gain hands-on experience in the design, analysis of DC or AC traction power systems for railways, light rail transit (LRT), or other electrified transportation networks. The candidate will work closely with experienced engineers and contribute to real-world projects, gaining practical knowledge in a dynamic and challenging environment. Responsibilities: Assist senior engineers in the design and analysis of traction power distribution systems, including substations, overhead catenary systems (OCS), and third rail systems. Support the development of electrical schematics, wiring diagrams, and equipment layouts using CAD software (e.g., AutoCAD, MicroStation). Perform calculations related to voltage drop, current flow, and power system performance. Assist in the preparation of technical reports, specifications, and construction documents. Conduct field inspections and site visits to gather data and observe construction activities. Assist in the testing and commissioning of traction power equipment. Assist in the preparation of as-built drawings and documentation. Perform other duties as assigned by the supervisor. Collaborate with other engineering disciplines and project stakeholders Ensure compliance with relevant industry standards and codes (e.g., NESC, IEEE). Maintain accurate project records and documentation. Minimum Qualifications BA/BS + 4 years relevant experience or demonstrated equivalency of experience and/or education Understanding of electrical power systems and circuit analysis and electrical theory Familiarity with AC and DC power concepts Strong interest in railway or transit systems Ability to read and interpret technical drawings and specifications Knowledge of power system analysis software (e.g., ETAP, SKM Power Tools) Knowledge of Traction Power Load Flow Simulation Software\u2019s( e.g, Train, ETRAX, Openpowernet) Valid US Driver\u2019s License required to visit project sites, clients, and other AECOM offices. As a condition of employment, selected candidate must pass a Motor Vehicle Records review. Preferred Qualifications 6 years work experience in performing Traction Power projects Electrical Engineering Degree with a focus on Power Systems Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint) Ability to work independently and as part of a team Familiarity with AutoCAD or similar drafting software is a plus Excellent communication and interpersonal skills Professional Engineer(PE) License Strong work ethic and attention to detail Ability to learn quickly and adapt to new technologies Desire to work in a fast paced dynamic work environment ",
+    "description": "Traction Power Engineer",
     "posted_at": "2026-06-08T18:34:14.844Z",
     "source": "smartrecruiters",
     "opt_friendly": true,
@@ -29260,7 +29260,7 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -29281,7 +29281,7 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -29302,7 +29302,7 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -29992,7 +29992,7 @@
     "location": "",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ201215",
     "description": "Data Scientist",
-    "posted_at": "Posted Today",
+    "posted_at": "Posted Yesterday",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -30001,11 +30001,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "436e9e68325e": {
     "company": "M&T Bank",
@@ -30077,7 +30077,7 @@
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "95603766ddd7": {
     "company": "Fiserv",
@@ -30175,7 +30175,7 @@
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "da21c7c86abb": {
     "company": "Fidelity Investments",
@@ -30196,7 +30196,7 @@
     "fresh": false,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "4465fa9913ce": {
     "company": "Target",
@@ -30229,7 +30229,7 @@
     "location": "Louisville, CO",
     "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Dream-Chaser-Flight-Controller--Principal-Systems-Engineer-_R25234",
     "description": "Dream Chaser Flight Controller (Systems Engineer II)",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "low",
@@ -30238,19 +30238,19 @@
     "sponsor_cert": null,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-08",
-    "last_seen": "2026-06-08",
-    "open": false
+    "last_seen": "2026-06-09",
+    "open": true
   },
   "8da8757ca2cb": {
     "company": "Cadence Design Systems",
     "title": "Software Engineer II",
     "location": "SAN JOSE",
     "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R52336-1",
-    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. We are looking for a talented engineer for our mixed signal circuit simulation platform ( Spectre AMS Designer). You will work on several possible R&D projects including development of event-driven algorithms, analog circuit simulation algorithms, mixed signal circuit configuration, elaboration, simulation or debug. You will be responsible for advancing and creating state-of-the-art mixed signal circuit simulation technologies and solutions. Job Qualifications/Requirements: Minimum BS in Computer Engineering, Computer Science, Electrical Engineering, or equivalent. C/C++ software development experience in Linux environment. Strong understanding and extensive usage of data structures and algorithms. Highly technical engineer with excellent problem-solving skills. Good communication skills and ability to work in a distributed software engineering team. Preferred: MS or PhD in Computer Engineering, Computer Science, Electrical Engineering, or equivalent Experience in the use of AI/ML for EDA is a strong plus. Experience with using Cadence Spectre, Xcelium, Virtuoso, Verisium or other EDA tools Knowledge of EDA physical design algorithms, timing analysis, and multi-threading. The annual salary range for California is $101,500 to $188,500. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the salary range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more. We\u2019re doing work that matters. Help us solve what others can\u2019t.",
-    "posted_at": "2026-06-08",
+    "description": "Software Engineer II",
+    "posted_at": "Posted Yesterday",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -30319,8 +30319,8 @@
     "title": "Associate Linux Engineer - (Austin, TX)",
     "location": "USA Remote Worksite",
     "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Remote-Worksite/Associate-Linux-Engineer----Austin--TX-_J000694071",
-    "description": "Associate Engineer - Systems Location: Austin, TX ABOUT WIND RIVER Wind River is a global leader in delivering software for mission-critical intelligent systems. For more than four decades, the company has been an innovator and pioneer, powering billions of systems that require the highest levels of security, safety, and reliability. Wind River helps customers across automotive, aerospace, defense, industrial, medical, and telecommunications industries solve complex technology challenges on their journey toward the new intelligent machine economy. The company\u2019s software powers generation after generation of the safest, most secure systems in the world. Examples include playing a key role in NASA space missions such as Artemis I, the James Webb Space Telescope, and multiple Mars rovers. We\u2019ve achieved recent 5G milestones including the world\u2019s first successful 5G data session with Verizon and building one of the largest Open RAN networks in the world with Vodafone. The company has received industry recognition for its technology innovation and leadership, and for its workplace culture, including global Great Place to Work certification and being named a \u201cTop Workplace\u201d for ten consecutive years. If you want to be part of a unique culture where the lived experience is based on our cultural attributes of growth mindset, customer-focus, and diversity, equity, inclusion & belonging, come join us and help advance the future software defined world. ABOUT THE OPPORTUNITY As an Associate Engineer - Systems on our team, you will contribute to the development and maintenance of embedded Linux systems software under the guidance of senior engineers and your manager. You may be assigned to Kernel Sustaining, Board Support Packages, Feature Development, User Space Sustaining, Tool Chain, or general Systems work based on team needs and your growth interests. In your daily job you will: Complete assigned tasks including bug fixes, small features, tests, and documentation with direction from your team lead or mentor Participate in code reviews, standups, and sprint ceremonies to learn team practices and deliver quality work Use version control (Git), follow coding standards, and document your changes Build skills in Linux systems development\u2014kernel, user space, BSP, toolchain, or feature implementation\u2014depending on your team assignment HOW YOU WILL CONTRIBUTE Key skills and competencies for succeeding in this role are: Key skills and competencies for succeeding in this role are: Eagerness to learn: Willingness to grow in one or more of kernel sustaining, BSP, feature development, user space, systems, or tool chain with mentorship and training Foundational technical ability: Ability to read and write C/C++, use Git, follow build and test procedures, and debug with guidance Collaboration: Ability to work in a distributed team across US, Romania, and India, ask questions, and communicate progress and blockers clearly Kernel Sustaining Assist with applying security p",
-    "posted_at": "2026-06-08",
+    "description": "Associate Linux Engineer - (Austin, TX)",
+    "posted_at": "Posted Yesterday",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -30437,8 +30437,8 @@
     "title": "Software Engineer, Backend (Hybrid)",
     "location": "Milpitas, California, US",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Milpitas-California-US/Software-Engineer--Backend--Hybrid-_2016293",
-    "description": "Software Engineer, Backend (Hybrid)",
-    "posted_at": "Posted Yesterday",
+    "description": "The application window is expected to close on: 07/31/2026 Job posting may be removed earlier if the position is filled or if a sufficient number of applications are received . This is a hybrid role with at Cisco's San Jose office. Meet the Team Join our Backend Team to design and deliver the AI-driven backbone of Cisco Cloud Control. You\u2019ll work across multiple stacks and domains to build integrations and features that power the next generation of Cisco\u2019s global platform. Your Impact As a Backend Engineer, you will: Design and deliver both functional and non-functional backend features. Mentor and guide junior developers and promoting best practices. Drive sophisticated product integrations and AI-native solutions across Cisco\u2019s portfolio. Collaborate with frontend and infrastructure teams to ensure seamless end-to-end delivery. Build and maintain scalable, reliable, and high-performance backend services that support global enterprise users. Minimum Qualifications Bachelors + 5 years of related experience, Masters + 3 years of related experience, or equivalent related work experience 3-5 years of hands-on backend development experience. Experience with AWS and monitoring/observability tools (ELK, Splunk, Datadog). Experience with CI/CD pipelines and DevOps practices. A collaborative, solution-oriented mindset and ability to thrive in a fast-paced, dynamic environment. Preferred Qualifications Familiarity with AI pipeline and related technologies. Experience with data pipelines, highly scalable data ingestion, building 3rd party integrations (e.g. Service Now) Experience with Go, Java, or Rust. Knowledge of AI tools, frameworks, or methodologies. Passion for building scalable, reliable, and maintainable backend systems. Why Cisco? At Cisco, we\u2019re revolutionizing how data and infrastructure connect and protect organizations in the AI era \u2013 and beyond. We\u2019ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you\u2019ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you. Message to applicants applying to work in the U.S. and/or Canada: The starting salary range posted for this position is $152,500.00 to $219,200.00 and reflects the projected salary range for new hires in this position in U.S. and/or Canada locations, not including incentive compensation*, equity, or benefits. Individual pay is determined by the candidate's hiring location, market conditions, job-relat",
+    "posted_at": "2026-06-08",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -30472,7 +30472,7 @@
     "fresh": false,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "b9c17b922f76": {
     "company": "Silicon Laboratories",
@@ -30497,7 +30497,7 @@
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "6a9caf9840e5": {
     "company": "Symbotic",
@@ -30569,7 +30569,7 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-08",
     "last_seen": "2026-06-09",
@@ -30692,7 +30692,7 @@
     "title": "AI Research Engineer \u2013 Agentic AI",
     "location": "Sunnyvale, CA, United St",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131039795",
-    "description": "Responsibilities: Design, build, and evaluate agentic AI systems that can plan, reason, act, and collaborate across tools and environments, including single- and multi-agent setups for complex, long-horizon tasks. Develop robust agent harnesses and evaluation frameworks covering end-to-end testing, regression analysis, trace logging, replayability, and metrics for success, cost, latency, robustness, and safety. Implement self-improving agent loops using reflection, critique, self-debugging, and iterative optimization strategies driven by agent experience, execution traces, and automated feedback. Architect and optimize agent memory systems, including short-term and long-term memory, retrieval-augmented generation, summarization, compression, forgetting policies, and privacy-aware retention. Enable reliable deployment of agents on constrained and edge environments, focusing on model/runtime optimization, partial or offline execution, secure tool-use, and seamless edge-cloud coordination. Basic Qualifications Bachelor or master's degree in computer science or engineering Strong software engineering skills in Python Hands-on experience with LLMs and agentic systems, such as tool-using agents, planner-executor patterns, multistep reasoning pipelines, RAG systems Solid understanding of ML fundamentals and practical model usage, including prompting, evaluation, and error analysis Ability to design experiments and interpret results, including ablations, statistical thinking, clear success criteria and measurable KPIs Strong communication and documentation skills including clear write-ups, reproducible experiments, and crisp technical presentations Preferred Qualifications 3+ years experiences in industrial research. Experience with one or more of the following topics: Agent frameworks Structured generation Agent memory management Self-improving agents LLM fine-tuning & reinforcement learning Model optimization for edge Harness engineering Hands-on experience on production of AI systems ",
+    "description": "AI Research Engineer \u2013 Agentic AI",
     "posted_at": "2026-06-09T04:37:21.837Z",
     "source": "smartrecruiters",
     "opt_friendly": true,
@@ -30761,7 +30761,7 @@
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "509841057b7f": {
     "company": "Caterpillar Inc.",
@@ -30782,7 +30782,7 @@
     "fresh": false,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "e991dc65aaee": {
     "company": "Medical University of South Carolina",
@@ -30826,7 +30826,7 @@
     "fresh": false,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "b737b004e7e0": {
     "company": "Ohio State University",
@@ -30849,7 +30849,7 @@
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "c248c540232b": {
     "company": "Primerica",
@@ -30874,7 +30874,7 @@
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "f31e6118ff47": {
     "company": "Stanley Black & Decker",
@@ -30942,7 +30942,7 @@
     "fresh": false,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "5c7385c6e2fe": {
     "company": "Zoom",
@@ -30991,7 +30991,7 @@
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "413c2a617088": {
     "company": "American Electric Power",
@@ -31016,7 +31016,7 @@
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
-    "open": true
+    "open": false
   },
   "8c5a07500050": {
     "company": "American Electric Power",
@@ -31083,6 +31083,306 @@
       "node.js"
     ],
     "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "65a830bd6303": {
+    "company": "Pinterest",
+    "title": "SDET II, tvScientific",
+    "location": "San Francisco, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782544",
+    "description": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p> <p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp;<a href=\"https://www.pinterestcareers.com/our-life/pinflex/\">flexibility</a> to do your best work. Creating a career you love? It\u2019s Possible.</p> <p>At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI.</p> <p>Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process <a href=\"https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/\">here</a>.</p></div><p><strong>About tvScientific</strong></p> <p>tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.</p> <p>&nbsp;</p> <p>tvScientific is looking for a QA Engineer for its Web Platform with strong expertise in web and API testing. This role requires a balance of manual testing excellence and automation skills, with a focus on validating end-to-end user flows across frontend, backend services, and APIs.</p> <p>You will partner closely with frontend engineers, backend engineers, product managers, and designers to ensure our web platform and APIs are reliable, secure, and performant.</p> <p><strong><br>What you'll do:</strong></p> <ul> <li>Own and drive&nbsp;quality&nbsp;for web platform features, spanning UI, APIs, and backend services</li> <li>Design and execute&nbsp;manual test cases&nbsp;and&nbsp;exploratory testing&nbsp;for complex web and API workflows</li> <li>Conduct thorough regression testing when bugs are resolved.</li> <li>Build and maintain&nbsp;automated test suites&nbsp;for:</li> <li>Validate&nbsp;frontend\u2013backend integration, data consistency, and error handling</li> <li>Perform&nbsp;API contract testing",
+    "posted_at": "2026-06-09T06:07:59-04:00",
+    "source": "greenhouse",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 77,
+    "sponsor_cert": 85.7,
+    "match_score": 80,
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "java",
+      "rest",
+      "api"
+    ],
+    "age_days": 0,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "1c6ed47a5510": {
+    "company": "Spotify",
+    "title": "Data Scientist",
+    "location": "New York, NY",
+    "url": "https://jobs.lever.co/spotify/5e91f92c-7487-40c5-92d8-b335b3b52ae9",
+    "description": "The Podcast & Video Analytics team sits within Spotify\u2019s Content Analytics organisation and partners closely with Podcast, Video, Product, Engineering, and Content teams to shape the future of creator-driven experiences on Spotify. The team's mission is to empower strategic decision-making through world-class analytics, helping Spotify better understand audience behaviour, content performance, and emerging consumption trends across podcast and video formats. Operating at the intersection of data science, content strategy, and technology, the team develops scalable measurement frameworks, uncovers actionable insights, and pioneers new analytical approaches using AI and advanced modelling techniques. By translating complex data into compelling narratives and practical recommendations, the team helps ensure Spotify continues to innovate and lead in the rapidly evolving Podcast & Video landscape. What You'll do Act as a core analytics partner to Podcast & Video content teams, providing deep-dive research and insights that shape long-term, data-driven programming and product roadmaps. Identify emerging trends in podcast listening and video consumption, pinpointing opportunities in priority markets to keep Spotify\u2019s Podcast & Video strategy ahead of the curve. Transform complex data into scalable, actionable playbooks that empower global content and product teams to execute high-impact strategies. Design measurement frameworks using causal inference, experimentation, and modelling to quantify the incremental impact of Podcast & Video content and product decisions. Build and iterate on AI-powered dashboards and data visualisations that make Podcast & Video data more accessible and intuitive for stakeholders across the business. Leverage AI tooling, including LLMs and agentic coding assistants, to automate analytical workflows, accelerate insight generation, and explore new frontiers in data storytelling. Synthesise data findings into compelling narratives that drive alignment across Product, Engineering, and Content stakeholders. Gather stakeholder input to understand and translate their needs into clear data requirements and deliverables, supporting documentation, and knowledge sharing across the team. Who You Are You have a degree in a quantitative field, such as Computer Science/Engineering, Mathematics, Statistics, or Economics. You have 1+ years of relevant experience performing data analysis or data science. In particular: You are proficient in Python and SQL and an early adopter of AI coding tools such as Cursor, Claude, Codex, or GitHub Copilot. Experience building data visualisations and dashboards; familiarity with AI-assisted or code-driven charting approaches (e.g. D3.js) is a plus. Experience with A/B testing and statistical modelling. A demonstrated track record of integrating AI and LLM tools into your data science workflow, whether for analysis, automating repeatable tasks, or building intelligent data products. You are a confident commu",
+    "posted_at": "1781001702915",
+    "source": "lever",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 11,
+    "sponsor_cert": 100.0,
+    "match_score": 92,
+    "matched_skills": [
+      "python",
+      "sql",
+      "api",
+      "rds",
+      "claude",
+      "llm"
+    ],
+    "age_days": 0,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "088fc53b1aef": {
+    "company": "Hewlett Packard (HP)",
+    "title": "AI Engineer, PC Automation",
+    "location": "Austin, Texas, United St",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Expert-Systems-Engineer--Applied-AI---On-Device-Technology--Windows---PC-Automation--_3162313-1",
+    "description": "AI Engineer, PC Automation",
+    "posted_at": "Posted 5 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 24,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 5,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "523f82527d0a": {
+    "company": "HP",
+    "title": "DS & AI Engineer",
+    "location": "Fort Collins, Colorado, ",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/DS---AI-Engineer_3162854",
+    "description": "DS & AI Engineer",
+    "posted_at": "Posted 5 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 24,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 5,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "271a5f6b30a1": {
+    "company": "Worldpay",
+    "title": "Software Engineer II - Java/Spring Boot/Microservices",
+    "location": "",
+    "url": "https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/BOSTON-MASSACHUSETTS/Software-Engineer-II---Java-Spring-Boot-Microservices_JR0609681-1",
+    "description": "Software Engineer II - Java/Spring Boot/Microservices",
+    "posted_at": "",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 36,
+    "sponsor_cert": 91.7,
+    "match_score": 44,
+    "matched_skills": [
+      "java",
+      "spring boot",
+      "microservices"
+    ],
+    "age_days": null,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "26f3d8d36948": {
+    "company": "Worldpay",
+    "title": "Software Engineer - Java",
+    "location": "",
+    "url": "https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/CAMBRIDGE--UNITED-KINGDOM/Software-Engineer---Java_JR0609826-1",
+    "description": "Software Engineer - Java",
+    "posted_at": "",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 36,
+    "sponsor_cert": 91.7,
+    "match_score": 28,
+    "matched_skills": [
+      "java"
+    ],
+    "age_days": null,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "5fed62eba650": {
+    "company": "Medline",
+    "title": "Engineer Design",
+    "location": "Northfield, Illinois",
+    "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Engineer-Design_R2611414",
+    "description": "Engineer Design",
+    "posted_at": "Posted Yesterday",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 111,
+    "sponsor_cert": 86.5,
+    "match_score": 8,
+    "matched_skills": [],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "7944d3bc6bf2": {
+    "company": "Medical University of South Carolina",
+    "title": "UNIV - Systems Programmer/ Developer II - Department of PHS",
+    "location": "Charleston",
+    "url": "https://musc.wd1.myworkdayjobs.com/en-US/MUSC/job/Charleston/UNIV---Systems-Programmer--Developer-II---Department-of-PHS_R-0000048413",
+    "description": "UNIV - Systems Programmer/ Developer II - Department of PHS",
+    "posted_at": "",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 21,
+    "sponsor_cert": 100.0,
+    "match_score": 8,
+    "matched_skills": [],
+    "age_days": null,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "423328fbe958": {
+    "company": "Embry-Riddle Aeronautical University",
+    "title": "Tenured Associate Professor of Computer and/or Data Science (Remote U.S.)",
+    "location": "Remote - United States",
+    "url": "https://embryriddle.wd1.myworkdayjobs.com/en-US/External/job/Remote---United-States/Tenure-Associate-Professor-of-Computer-and-or-Data-Science--Remote-US-_R311006",
+    "description": "Tenured Associate Professor of Computer and/or Data Science (Remote U.S.)",
+    "posted_at": "",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 29,
+    "sponsor_cert": 65.5,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": null,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "9477c93294e6": {
+    "company": "Embry-Riddle Aeronautical University",
+    "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the School of Graduate Studies, Daytona Beach Campus",
+    "location": "Daytona Beach, FL",
+    "url": "https://embryriddle.wd1.myworkdayjobs.com/en-US/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Aviation-Operations-and-Machine-Learning-AI-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R311218",
+    "description": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the School of Graduate Studies, Daytona Beach Campus",
+    "posted_at": "",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 29,
+    "sponsor_cert": 65.5,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": null,
+    "fresh": false,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "a64df78673ef": {
+    "company": "Cisco",
+    "title": "Software Engineer (Hybrid)",
+    "location": "RTP, North Carolina, US",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer--Hybrid-_2011824",
+    "description": "Software Engineer (Hybrid)",
+    "posted_at": "Posted Yesterday",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 193,
+    "sponsor_cert": 99.5,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "2b0127aff878": {
+    "company": "Symbotic",
+    "title": "System Engineer",
+    "location": "USA Ottawa, KS",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Ottawa-KS/System-Engineer_R7212",
+    "description": "Who we are With its A.I.-powered robotic technology platform, Symbotic is changing the way consumer goods move through the supply chain. Intelligent software orchestrates advanced robots in a high-density, end-to-end system \u2013 reinventing warehouse automation for increased efficiency, speed and flexibility. What we need Symbotic is seeking a System Engineer to support the day-to-day reliability, availability, and performance of our automated warehouse systems in a live production environment. This role is hands-on and operational in nature, aligned closely with a Maintenance Engineer or Lead Automation Technician profile. The System Engineer focuses on troubleshooting, maintaining , and stabilizing complex electro-mechanical and automated systems to ensure safe, consistent system uptime. This role is not commissioning-focused, not controls -programming-heavy, and not customer-facing, but instead centered on system health, equipment reliability, and technical execution on site What we do The System Engineer is part of the Customer Operations organization which is responsible for leading the day-to-day operations of Symbotic\u2019s robotic material handling system. The Customer Operations organization drives operational excellence by engaging and partnering with our onsite customers to drive best-in-class quality, safety and system performance. What you\u2019ll do Monitor and maintain the health of automated systems including conveyors, lifts, robotic vehicles, motors, sensors, and PLC-controlled equipment . Perform advanced electrical, mechanical, and automation troubleshooting to resolve production-impacting issues . Diagnose failures across PLCs (Allen-Bradley), VFDs, AC/DC motors, servo motors, sensors, and control hardware . Support and execute preventive and corrective maintenance activities on automated equipment . Utilize system data, alarms, logs, and dashboards to identify fault conditions and recurring issues . Document maintenance activities, repairs, and findings using CMMS systems (e.g., Maximo) and internal tools . Act as a senior technical escalation point during system disruptions or downtime events . Partner with on-site maintenance, operations, and technical teams to restore and stabilize system performance . Provide technical guidance and on-the-job support to maintenance technicians and operators . Step in to support critical on-site technical functions as needed to maintain operational continuity . Ensure compliance with OSHA, LOTO, electrical safety, and Symbotic safety standards . What you\u2019ll need Bachelor\u2019s degree in Electrical Engineering , Computer Science, Software Engineering, Automation Engineering, or a related field, or equivalent hands-on experience . Minimum of 1 year of hands-on experience with PLCs, preferably Allen-Bradley, focused on diagnostics and troubleshooting (not heavy programming) . Minimum of 1 year of experien ce with VFDs, including diagnosing speed, torque, and drive-related issues . Minimum of 1 year of exper",
+    "posted_at": "2026-06-08",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 21,
+    "sponsor_cert": 100.0,
+    "match_score": 56,
+    "matched_skills": [
+      "python",
+      "sql",
+      "go",
+      "rest",
+      "rds",
+      "rag"
+    ],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-09",
+    "last_seen": "2026-06-09",
+    "open": true
+  },
+  "75abbbc1fbad": {
+    "company": "AECOM",
+    "title": "Signals Engineer",
+    "location": "Philadelphia, PA, United",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000130866829",
+    "description": "Signals Engineer",
+    "posted_at": "2026-06-08T18:36:01.865Z",
+    "source": "smartrecruiters",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 39,
+    "sponsor_cert": 100.0,
+    "match_score": 8,
+    "matched_skills": [],
+    "age_days": 0,
     "fresh": true,
     "first_seen": "2026-06-09",
     "last_seen": "2026-06-09",
