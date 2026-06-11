@@ -124,13 +124,19 @@ _WD_TITLE_HINT = _re.compile(r"engineer|developer|programmer|software|\bsde\b|\b
 # search terms to surface relevant roles in large Workday job boards.
 # Workday search is fuzzy (returns broad relevance-ranked results), so a few
 # angles paginated DEEP beat many overlapping terms paginated shallow.
-_WD_SEARCH_TERMS = ["software engineer", "developer", "data scientist", "machine learning"]
-_WD_PAGES = 4   # balance: deeper than before to reach some junior roles, but
-                # banks are ~95% senior so deep pagination has diminishing returns
+# Dig DEEP into big Workday boards — the whole point is to surface jobs buried on
+# page 10/20/30 that no human scrolls to. GitHub Actions has unlimited minutes, so
+# runtime is fine. Small boards stop early (offset >= total); only big ones go deep.
+_WD_SEARCH_TERMS = ["software engineer", "developer", "data scientist"]
+_WD_PAGES = 15   # up to 300 results per term
+# skip obviously-senior titles BEFORE spending a detail-fetch on them, so the
+# detail budget goes to the junior/early-career roles we actually want
+_WD_SENIOR = _re.compile(r"\b(senior|sr|staff|principal|lead|director|manager|"
+                         r"head|vp|distinguished|architect|fellow)\b")
 
 
 # ---------- Workday ----------
-def scrape_workday(slug, company, fetch_detail=True, max_detail=70):
+def scrape_workday(slug, company, fetch_detail=True, max_detail=120):
     # slug format: "tenant|dc|site"  e.g. "nvidia|wd5|NVIDIAExternalCareerSite"
     tenant, dc, site = slug.split("|")
     base = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
@@ -171,7 +177,8 @@ def scrape_workday(slug, company, fetch_detail=True, max_detail=70):
                     if len(segs) >= 2 and segs[0] == "job":
                         loc = segs[1].replace("---", ", ").replace("--", " ").replace("-", " ").strip()
                 posted = j.get("postedOn", "")
-                relevant = _WD_TITLE_HINT.search(j.get("title", "").lower())
+                tl = j.get("title", "").lower()
+                relevant = _WD_TITLE_HINT.search(tl) and not _WD_SENIOR.search(tl)
                 if fetch_detail and relevant and detail_count < max_detail:
                     info = _workday_detail(cxs + path)
                     if info:

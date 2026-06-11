@@ -9893,5 +9893,10 @@
     "company": "Sutherland",
     "ats": "smartrecruiters",
     "slug": "Sutherland"
+  },
+  {
+    "company": "Nasdaq",
+    "ats": "workday",
+    "slug": "nasdaq|wd1|Global_External_Site"
   }
 ]
