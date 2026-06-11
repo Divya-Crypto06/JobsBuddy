@@ -214,6 +214,40 @@ def _workday_detail(url):
         return None
 
 
+# ---------- The Muse (aggregator: reaches companies NOT on the ATS we scrape) ----------
+def scrape_themuse(max_pages=40):
+    """The Muse aggregates jobs from thousands of employers incl. ones on
+    Taleo/SuccessFactors/custom sites we can't reach directly. Its own category
+    filter is loose, so we pull relevant categories and let OUR filters clean it."""
+    import urllib.parse
+    out = []
+    for cat in ["Software Engineering", "Data and Analytics", "Computer and IT", "Data Science"]:
+        for page in range(1, max_pages + 1):
+            url = "https://www.themuse.com/api/public/jobs?" + urllib.parse.urlencode(
+                {"category": cat, "page": page})
+            try:
+                data = _get_json(url)
+            except Exception:
+                break
+            results = data.get("results", [])
+            if not results:
+                break
+            for j in results:
+                locs = [l.get("name", "") for l in j.get("locations", [])]
+                out.append({
+                    "company": (j.get("company") or {}).get("name", ""),
+                    "title": j.get("name", ""),
+                    "location": "; ".join(locs),
+                    "url": (j.get("refs") or {}).get("landing_page", ""),
+                    "description": _strip_html(j.get("contents", "")),
+                    "posted_at": j.get("publication_date", ""),
+                    "source": "themuse",
+                })
+            if page >= data.get("page_count", 0):
+                break
+    return out
+
+
 # ---------- SmartRecruiters ----------
 def scrape_smartrecruiters(slug, company, max_detail=60):
     base = f"https://api.smartrecruiters.com/v1/companies/{slug}/postings"

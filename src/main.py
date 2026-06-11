@@ -72,6 +72,14 @@ def main():
 
     print("① Scraping ATS feeds...")
     jobs = scrape_all(companies)
+    # aggregator: reaches some companies not on the ATS we scrape directly
+    try:
+        from scrape import scrape_themuse
+        muse = scrape_themuse()
+        jobs.extend(muse)
+        print(f"   + The Muse aggregator: {len(muse)} jobs")
+    except Exception as e:
+        print(f"   The Muse skipped ({type(e).__name__})")
     print(f"   total raw jobs: {len(jobs)}")
 
     print("② Filtering to my profile (role + 0-3 yrs + sponsor-friendly)...")
