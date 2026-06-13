@@ -150,7 +150,9 @@ def main():
         # recompute current posting age (jobs age out of the window over time)
         age = age_in_days(j.get("posted_at"))
         too_old = (max_age is not None and not _fresh_enough(age, max_age, strict))
-        if (too_old
+        # closed jobs with no date can never age out -> pure clutter, drop them
+        closed_undated = (not j.get("open", True)) and age is None
+        if (too_old or closed_undated
                 or not role_ok(j.get("title", ""), profile)
                 or not experience_ok(blob, profile)
                 or needs_clearance(blob, profile)
