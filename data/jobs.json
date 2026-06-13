@@ -23,7 +23,7 @@
     "fresh": false,
     "first_seen": "2026-06-03",
     "last_seen": "2026-06-13",
-    "open": true,
+    "open": false,
     "sponsor_cases": 104,
     "sponsor_cert": 100.0
   },
@@ -251,7 +251,7 @@
   "a09d96ca1c8a": {
     "company": "SpaceX",
     "title": "Security Software Engineer (Starlink)",
-    "location": "El Segundo, CA  +1 more",
+    "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8577408002?gh_jid=8577408002",
     "description": "<div class=\"content-intro\"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div><p><strong>SECURITY SOFTWARE ENGINEER (STARLINK)</strong></p> <p>At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system \u2013 thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We\u2019ve only begun to scratch the surface of Starlink\u2019s potential global impact and are looking for best-in-class engineers to help maximize Starlink\u2019s utility for communities and businesses around the globe.</p> <p>As a Security Software Engineer you will influence the security of software across our product lines. We are looking for people with a track record of shipping reliable software and who have a broad understanding of the security design of today\u2019s Internet, including the cryptographic primitives involved. You see the big picture, prioritize accordingly, and are comfortable with working at different levels of abstraction. Ideally, you have notable skills in one or more of the following:</p> <ul> <li>Software engineering</li> <li>Applied cryptography</li> <li>Network security</li> <li>Operating system security</li> <li>Secure/Authenticated boot</li> <li>Incident response and adversary detection</li> <li>Vulnerability research</li> </ul> <p>Being flexible, communicating clearly, and establishing and maintaining productive working relationships with other engineering teams are paramount to success. If you are passionate about building quality products, love the challenges of outsmarting adversaries, and want to make an impact on an inter-planetary scale, then you will fit right in.</p> <p><strong>RESPONSIBILITIES:</strong></p> <ul> <li>Design and build security infrastructure for Starlink, including cryptographic services and other security-critical services</li> <li>Develop security features for Starlink systems, including our router, dish, gateways, and satellites</li> <li>Design security into factory processes and provide network services in support of this</li> <li>Maintain existing production systems and improve security posture via both direct implementation and recommendations to other teams</li> <li>Build prototypes and help identify, design, and test security improvements</li> <li>Further our mission of providing secure and reliable Internet to underserved communities</li> </ul> <p><strong>BASIC QUALIFICATIONS:</strong></p> <ul> <li>Bachelor's degree in computer science or",
     "posted_at": "2026-06-05T14:10:32-04:00",
@@ -1117,174 +1117,6 @@
     "sponsor_cases": null,
     "sponsor_cert": null
   },
-  "6c20e9931375": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Albuquerque, NM, USA",
-    "location": "Albuquerque, NM, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974185004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:45:24-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "e4a2a73a1c79": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Ann Arbor, MI, USA",
-    "location": "Ann Arbor, MI, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974189004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:45:07-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "54122f237cf4": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Burlington, VT, USA",
-    "location": "Burlington, VT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974206004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:44:21-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "0bec2e803cf2": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Charlotte, NC, USA",
-    "location": "Charlotte, NC, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974233004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:43:18-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "87acdc04d49f": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - College Station, TX, USA",
-    "location": "College Station, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974163004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:46:43-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "20b15be505e1": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Culver City, CA, USA",
-    "location": "Culver City, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974135004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:47:45-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
   "91747d741dd8": {
     "company": "Speechify",
     "title": "Software Engineer, Platform - Dallas, TX, USA",
@@ -1313,286 +1145,6 @@
     "sponsor_cases": null,
     "sponsor_cert": null
   },
-  "429c2f0d194b": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Denver, CO, USA",
-    "location": "Denver, CO, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974172004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:46:11-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "2e57555bc479": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Frisco, TX, USA",
-    "location": "Frisco, TX, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974155004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:46:58-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "299e6624801a": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Greensboro, NC, USA",
-    "location": "Greensboro, NC, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974244004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:43:02-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "cd7c6581e200": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Ithaca, NY, USA",
-    "location": "Ithaca, NY, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974194004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:44:52-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "b53a7d33049e": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Knoxville, TN, USA",
-    "location": "Knoxville, TN, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974255004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:42:30-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "30a0730b6bdb": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Las Vegas, NV, USA",
-    "location": "Las Vegas, NV, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974180004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:45:39-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "e4c66e9f51ef": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Lausanne, Switzerland",
-    "location": "Lausanne, Switzerland",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974286004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with Docker",
-    "posted_at": "2026-06-05T00:40:55-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "88c976dfdbdc": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Los Angeles, CA, USA",
-    "location": "Los Angeles, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974133004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:48:01-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "b3e161ce354d": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Naperville, IL, USA",
-    "location": "Naperville, IL, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974171004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:46:27-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "09deb862bfbe": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - New Haven, CT, USA",
-    "location": "New Haven, CT, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974202004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:44:36-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
   "a27b08339bf3": {
     "company": "Speechify",
     "title": "Software Engineer, Platform - New York, NY, USA",
@@ -1614,202 +1166,6 @@
       "gcp"
     ],
     "age_days": 0,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "16080779e8f5": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Reston, VA, USA",
-    "location": "Reston, VA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974214004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:44:04-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "bb3ecc039d24": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - San Jose, CA, USA",
-    "location": "San Jose, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974120004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:48:33-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "b82b5196643f": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Savannah, GA, USA",
-    "location": "Savannah, GA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974230004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:43:33-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "a5c68e06d5e1": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Scottsdale, AZ, USA",
-    "location": "Scottsdale, AZ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974141004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:47:30-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "9ef2dfbb1a7e": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Silver Spring, MD, USA",
-    "location": "Silver Spring, MD, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974225004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:43:49-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "9d5365eb77d8": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Sunnyvale, CA, USA",
-    "location": "Sunnyvale, CA, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974127004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:48:17-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-06",
-    "last_seen": "2026-06-06",
-    "open": false,
-    "sponsor_cases": null,
-    "sponsor_cert": null
-  },
-  "147966c11ef5": {
-    "company": "Speechify",
-    "title": "Software Engineer, Platform - Tucson, AZ, USA",
-    "location": "Tucson, AZ, USA",
-    "url": "https://job-boards.greenhouse.io/speechify/jobs/5974145004",
-    "description": "<p>The mission of Speechify is to make sure that reading is never a barrier to learning.</p> <p>Over 50 million people use Speechify\u2019s text-to-speech products to turn whatever they\u2019re reading \u2013 PDFs, books, Google Docs, news articles, websites \u2013 into audio, so they can read faster, read more, and remember more. Speechify\u2019s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App.&nbsp;Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.&nbsp;&nbsp;</p> <p>Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting \u2013 Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.</p> <p><strong>Overview</strong></p> <p data-speechify-sentence=\"\">The responsibilities of our Platform team include building and maintaining all backend services, including, but not limited to, payments, analytics, subscriptions, new products, text to speech, and external APIs.</p> <p data-speechify-sentence=\"\">This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, is passionate about making product decisions, and has experience building great user experiences that delight users.</p> <p data-speechify-sentence=\"\">We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.&nbsp;</p> <p data-speechify-sentence=\"\">Our interview process involves several technical interviews and we aim to complete them within 1 week.&nbsp;</p> <p><strong>What Yo</strong><strong>u\u2019</strong><strong>ll Do</strong></p> <ul> <li data-speechify-sentence=\"\">Design, develop, and maintain robust APIs including public TTS API, internal APIs like Payment, Subscription, Auth and Consumption Tracking, ensuring they meet business and scalability requirements</li> <li data-speechify-sentence=\"\">Oversee the full backend API landscape, enhancing and optimizing for performance and maintainability</li> <li data-speechify-sentence=\"\">Collaborate on B2B solutions, focusing on customization and integration needs for enterprise clients</li> <li data-speechify-sentence=\"\">Work closely with cross-functional teams to align backend architecture with overall product strategy and user experience</li> </ul> <p><strong>An Ideal Candidate Should Have</strong></p> <ul> <li>Proven experience in backend development: TS/Node (required)</li> <li>Direct experience with GCP and knowledge of AWS, Azure, or other cloud providers</li> <li>Efficiency in ideation and implementation, prioritizing tasks based on urgency and impact</li> <li>Preferred: Experience with D",
-    "posted_at": "2026-06-05T00:47:14-04:00",
-    "source": "greenhouse",
-    "opt_friendly": true,
-    "sponsor_tier": null,
-    "sponsors_visa": false,
-    "match_score": 76,
-    "matched_skills": [
-      "go",
-      "node",
-      "rest",
-      "api",
-      "aws",
-      "gcp"
-    ],
-    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-06",
@@ -2153,7 +1509,7 @@
       "rag",
       "agent"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
@@ -2244,7 +1600,7 @@
   "8ce5d7a6dd8c": {
     "company": "SpaceX",
     "title": "Embedded Security Engineer (Starlink)",
-    "location": "El Segundo, CA  +1 more",
+    "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8577410002?gh_jid=8577410002",
     "description": "<div class=\"content-intro\"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div><p><strong>EMBEDDED SECURITY ENGINEER (STARLINK)</strong></p> <p>At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system \u2013 thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. We\u2019ve only begun to scratch the surface of Starlink\u2019s potential global impact and are looking for best-in-class engineers to help maximize Starlink\u2019s utility for communities and businesses around the globe.</p> <p>As a Security Software Engineer you will influence the security of software across our product lines. We are looking for people with a track record of shipping reliable software and who have a broad understanding of the security design of today\u2019s Internet, including the cryptographic primitives involved. You see the big picture, prioritize accordingly, and are comfortable with working at different levels of abstraction. Ideally, you have notable skills in one or more of the following:</p> <ul> <li>Software engineering</li> <li>Applied cryptography</li> <li>Network security</li> <li>Operating system security</li> <li>Secure/Authenticated boot</li> <li>Incident response and adversary detection</li> <li>Vulnerability research</li> </ul> <p>Being flexible, communicating clearly, and establishing and maintaining productive working relationships with other engineering teams are paramount to success. If you are passionate about building quality products, love the challenges of outsmarting adversaries, and want to make an impact on an inter-planetary scale, then you will fit right in.</p> <p><strong>RESPONSIBILITIES:</strong></p> <ul> <li>Design and build security infrastructure for Starlink, including cryptographic services and other security-critical services</li> <li>Develop security features for Starlink systems, including our router, dish, gateways, and satellites</li> <li>Design security into factory processes and provide network services in support of this</li> <li>Maintain existing production systems and improve security posture via both direct implementation and recommendations to other teams</li> <li>Build prototypes and help identify, design, and test security improvements</li> <li>Further our mission of providing secure and reliable Internet to underserved communities</li> </ul> <p><strong>BASIC QUALIFICATIONS:</strong></p> <ul> <li>Bachelor's degree in computer science or",
     "posted_at": "2026-06-05T14:10:31-04:00",
@@ -3144,7 +2500,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6be4a6efc852": {
     "company": "Sierra Nevada Coporation",
@@ -3312,7 +2668,7 @@
     "fresh": true,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "51ada50e7af7": {
     "company": "Motorola",
@@ -3366,7 +2722,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "de66281df4ac": {
     "company": "KLA",
@@ -3392,7 +2748,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "445fcfb05495": {
     "company": "University of Southern California",
@@ -3485,7 +2841,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "b3f6d6184639": {
     "company": "Abbott",
@@ -3532,7 +2888,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "fda0f1238f0a": {
     "company": "Capital Group",
@@ -3588,7 +2944,7 @@
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "775ae87b6da7": {
     "company": "Broadcom Limited",
@@ -3908,11 +3264,11 @@
       "go",
       "rest"
     ],
-    "age_days": 0,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-07",
-    "last_seen": "2026-06-10",
-    "open": false
+    "last_seen": "2026-06-13",
+    "open": true
   },
   "81afe3949ec2": {
     "company": "BlackRock",
@@ -4101,7 +3457,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f20f31bb1069": {
     "company": "Adobe",
@@ -4407,7 +3763,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6e0bb7318eb3": {
     "company": "Micron Technology",
@@ -4435,7 +3791,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "dbf04c4a6929": {
     "company": "Micron Technology",
@@ -4982,7 +4338,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "a38bf3e68942": {
     "company": "Stanley Black & Decker",
@@ -5283,7 +4639,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "fb4dbcc601eb": {
     "company": "Elevance Health",
@@ -5311,7 +4667,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "15ac99a20f54": {
     "company": "F5",
@@ -5374,7 +4730,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "109cee050fc2": {
     "company": "Cisco",
@@ -5640,7 +4996,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "0b09bb5ea3f9": {
     "company": "U.S. Bank",
@@ -5689,7 +5045,7 @@
     "fresh": true,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6f822546ea5a": {
     "company": "Caterpillar Inc.",
@@ -5956,7 +5312,7 @@
   "dbed1d1c67c8": {
     "company": "DoorDash",
     "title": "Data Analyst, In-Store",
-    "location": "Flexible / Remote  +1 more",
+    "location": "United States - Remote",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7990832",
     "description": "<div class=\"content-intro\"><p><img style=\"display: none; max-width: 100%;\" src=\"https://click.appcast.io/greenhouse-te8/a31.png?ent=34&amp;e=22630&amp;t=1701374353806\" width=\"1px\"> <img style=\"display: none; max-width: 100%;\" src=\"https://track.jobadx.com/v1/i.gif?utm_pixel=224e990b-8ff4-4287-8d5d-2ff09647f181&amp;utm_ptz=EST&amp;utm_rqt=track\" alt=\"\" width=\"1\"></p></div><h2><strong>About the Team</strong></h2> <p>The SevenRooms Data &amp; Analytics team is the foundational data hub powering go-to-market, product, finance, and operational decisions across the In-Store business. We design and maintain the pipelines, models, and infrastructure that connect SevenRooms' systems with the broader DoorDash data ecosystem \u2014 and we're investing aggressively in making our datasets ready for both human and AI consumption. Within the team, our product-focused analytics work owns the funnels, personas, and feature-adoption insights that inform what products and features get built, how it's launched, and how it performs in the market.&nbsp;</p> <h2><strong>About the</strong> Role</h2> <p>We're hiring a Data Analyst to be the data partner for our Product Management, Product Marketing, and executive teams at SevenRooms. You will own the building of data products, feature launch analytics, and the PLG instrumentation that connects product usage signals back into Salesforce, Gainsight, and our outbound motions.&nbsp;</p> <p>You will report into the Manager, Data &amp; Analytics on our Data &amp; Analytics team in our SevenRooms organization.</p> <h2><strong>You're excited about this opportunity because you will\u2026</strong></h2> <ul> <li>Own product analytics end-to-end \u2014 funnels, adoption, retention, and ROI for every major feature launch on the SevenRooms platform.</li> <li>Build net new data products aimed at improving analytic and reporting capabilities</li> <li>Partner with Product Managers and Product Marketers on pre-launch hypotheses , beta testing results, post-launch measurement, and ongoing optimization.</li> <li>Design and ship PLG automations that translate product behavior into opportunity tagging, expansion signals, and CSM workflows.</li> <li>Apply GenAI and ML techniques \u2014 partnering with our GTM Engineer \u2014 to product analytics use cases like web-sourced feature adoption opportunities, transactions predictive modeling, and Add-On ICP scoring.</li> <li>Communicate closely in support of multiple PM\u2019s with reporting and ad-hoc analysis</li> </ul> <h2><strong>We're excited about you because\u2026</strong></h2> <ul> <li>2+ years of experience analyzing product data and partnering with Product Management teams in a SaaS environment.</li> <li>Expert SQL skills and proficiency with a cloud BI tool such as Looker, Tableau, or Mode.</li> <li>Hands-on experience with product instrumentation and analytics platforms such as Pendo, Amplitude, Mixpanel, or Heap.</li> <li>Demonstrated ability to translate ambiguous product questions into rigorous, scoped analyses that sh",
     "posted_at": "2026-06-09T11:22:00-04:00",
@@ -6225,7 +5581,7 @@
       "rds",
       "agent"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
@@ -6731,7 +6087,7 @@
   "de22f976b77d": {
     "company": "SpaceX",
     "title": "Software Engineer, Test Infrastructure (Application Software)",
-    "location": "El Segundo, CA  +1 more",
+    "location": "Hawthorne, CA",
     "url": "https://boards.greenhouse.io/spacex/jobs/8585072002?gh_jid=8585072002",
     "description": "<div class=\"content-intro\"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div><p><strong>SOFTWARE ENGINEER, TEST INFRASTRUCTURE (APPLICATION SOFTWARE)</strong></p> <p>As a Software Engineer on the test infrastructure team, you will design, develop, and maintain SpaceX\u2019s in-house testing ecosystem that powers software and hardware test and validation across all flight systems. You will build and evolve the core test infrastructure framework and supporting applications used for production testing, integration testing, and high-fidelity simulations. <span data-teams=\"true\">The team is focused on building out SpaceXAI, improving SpaceX\u2019s engineering capacity and capability through AI tooling.</span></p> <p>This is a high-impact role where you will work across engineering groups to create reliable, scalable, and performant testing tools that accelerate vehicle production and flight software. Our testing software is critical to mission success for all vehicle programs at SpaceX. SpaceX is looking for smart, motivated software engineers who enjoy taking on complex challenges, work well in dynamic environments, and care about software best practices.</p> <p>Help us build world-class software that is critical to SpaceX\u2019s mission to Mars.</p> <p><strong>RESPONSIBILITIES:</strong></p> <ul> <li>Develop and maintain the core test infrastructure framework and applications used across SpaceX</li> <li>Improve reliability, performance, and safety of test software and infrastructure</li> <li>Work closely with flight software engineers and users across the company to develop new features and improve user experiences</li> <li>Own all aspects of software engineering and product development for test infrastructure</li> <li>Deep dive into users\u2019 problems to find and create efficient solutions</li> </ul> <p><strong>BASIC QUALIFICATIONS:</strong></p> <ul> <li>Bachelor's degree in computer science, engineering, math, or scientific discipline; OR 2+ years of professional experience building software in lieu of a degree</li> <li>1+ years of experience with C/C++</li> <li>1+ years of experience with Python</li> </ul> <p><strong>PREFERRED SKILLS AND EXPERIENCE:</strong></p> <ul> <li>Experience developing telemetry-based software</li> <li>Expertise in designing software systems</li> <li>Front-end experience in Angular, React, or similar JavaScript framework</li> <li>Deep understanding of testing, continuous integration, build, deployment &amp; monitoring</li> <li><span data-teams=\"true\">Understanding of agentic workflows and utilizing AI to improve developer experience</span></li> <li>Expertise in profiling and improving application performance</li> <li>Experience with build systems (Make and Bazel preferred) and package management to",
     "posted_at": "2026-06-09T20:59:50-04:00",
@@ -8135,7 +7491,7 @@
     "location": "Washington, Bellevue",
     "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Member-of-Technical-Staff--MTS---Software-Engineer--Identity---Access-Management_JR344942",
     "description": "Member of Technical Staff (MTS), Software Engineer, Identity & Access Management",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted 3 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -8151,8 +7507,8 @@
       "golang",
       "rest"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
     "open": true
@@ -8204,7 +7560,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "81a9ba56b92c": {
     "company": "Workday",
@@ -8309,7 +7665,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f5f3e187c6c2": {
     "company": "Microchip Technology",
@@ -8336,7 +7692,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "34de82e49394": {
     "company": "HP",
@@ -8465,7 +7821,7 @@
     "company": "Expedia Group",
     "title": "Software Development Engineer II \u2013 Full Stack Engineering",
     "location": "USA - California - San J",
-    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/search/job/USA---California---San-Jose/Software-Development-Engineer-II---Full-Stack-Engineering_R-106503-2",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/USA---California---San-Jose/Software-Development-Engineer-II---Full-Stack-Engineering_R-106503-1",
     "description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Why Join Us? To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win. We provide a full benefits package, including exciting travel perks, generous time-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We\u2019re building a more open world. Join us. About the Team: Join a newly formed team focused on transforming the car rental experience across Expedia Group brands. This team is building from the ground up, developing new product features and UI enhancements, and leveraging experimentation frameworks to drive innovation. You\u2019ll collaborate with global teams in India and Seattle and help shape the future of mobility in travel. In this role, you will: Collaborate with team members to co-develop solutions and solve problems Lead small, well-defined projects and support complex projects Develop and test software applications using our full-stack technology, including Java, Springboot, Kotlin, GraphQL, and REST APIs Apply software design principles, data structures, object oriented fundamentals and computer science fundamentals to write clean, maintainable, and optimized code Implement schema designs to meet data requirements Coordinate stakeholder input and collaboration efforts when developing solutions Think broadly about policies and processes across the organization Contribute to holistic solutions that link structure, people, process, and technology Report clearly on work status and ask challenging questions when appropriate Actively identify inefficiencies in existing systems and propose improvements Gradually learn and contribute to both frontend and backend development, with a willingness to expand your skillset across the full stack Minimum Qualifications: Bachelor's degree in Computer Science, Software Engineering, or related technical field; or equivalent related professional experience (2+ years for Bachelor's, 0-2 years for Master's) Experience developing software in a team environment of at least 5 engineers, using agile methodologies and version control Proficiency in building and maintaining software projects/products in production environments, particularly in public/hybrid cloud infrastructure Strong knowledge in either frontend or backend technologies, with familiarity in the other - Our core stack includes including Java, Springboot, Kotlin, GraphQL, and REST APIs, data stores, and API access patterns and integration Understanding of associated techno",
     "posted_at": "2026-06-08",
     "source": "workday",
@@ -8483,11 +7839,11 @@
       "rag",
       "agent"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 5,
+    "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-10",
-    "open": false
+    "last_seen": "2026-06-13",
+    "open": true
   },
   "bde2ab1c96fb": {
     "company": "Applied Materials",
@@ -8536,7 +7892,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6ddd3d0016dc": {
     "company": "General Motors",
@@ -8648,7 +8004,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "86b271cdf252": {
     "company": "Red Hat",
@@ -8676,7 +8032,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6f428b7011a2": {
     "company": "Genuine Parts Company",
@@ -8701,7 +8057,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ffaf67c8ca39": {
     "company": "Genuine Parts Company",
@@ -8729,7 +8085,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "5e7374c4aa57": {
     "company": "Truist",
@@ -8757,7 +8113,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "79fafab273e8": {
     "company": "Truist",
@@ -8782,7 +8138,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "a157effecc2c": {
     "company": "KLA",
@@ -8810,7 +8166,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "d642e315e815": {
     "company": "KLA",
@@ -8834,7 +8190,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "a1d1333c799e": {
     "company": "Hewlett Packard (HP)",
@@ -8936,7 +8292,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f58a9b31ceb0": {
     "company": "State Street",
@@ -8964,7 +8320,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "b89e90274161": {
     "company": "Micron Technology",
@@ -8990,7 +8346,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f47415f738bb": {
     "company": "Micron Technology",
@@ -9086,7 +8442,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "884ea2414fd6": {
     "company": "U.S. Bank",
@@ -9107,7 +8463,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "a0b634b2ab6b": {
     "company": "U.S. Bank",
@@ -9158,7 +8514,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "493c87d4fc08": {
     "company": "Thomson Reuters",
@@ -9186,7 +8542,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "67a3cd18184c": {
     "company": "Thomson Reuters",
@@ -9241,7 +8597,7 @@
     "fresh": true,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "5fed62eba650": {
     "company": "Medline",
@@ -9266,7 +8622,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "560a8d90b0ca": {
     "company": "Crowdstrike",
@@ -9294,7 +8650,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "c236b2483b15": {
     "company": "Crowdstrike",
@@ -9464,7 +8820,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "423c5901765f": {
     "company": "The Home Depot",
@@ -9572,7 +8928,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "9bfb5d726e02": {
     "company": "KLA Corporation",
@@ -9697,7 +9053,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "946089dd0c33": {
     "company": "Becton Dickinson",
@@ -9890,7 +9246,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "7c980df43f92": {
     "company": "Cadence Design Systems",
@@ -9918,7 +9274,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ab16b8ac66ce": {
     "company": "Atrium Health",
@@ -9942,7 +9298,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "b609f8330e9c": {
     "company": "Carrier Global",
@@ -9967,7 +9323,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "413c2a617088": {
     "company": "American Electric Power",
@@ -10017,7 +9373,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "5a2da403409f": {
     "company": "Cadence",
@@ -10040,7 +9396,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "74bc879a4b4d": {
     "company": "Cadence",
@@ -10085,7 +9441,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2d674ec92bb2": {
     "company": "KLA",
@@ -10111,7 +9467,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2e87c7b1fc6a": {
     "company": "KLA",
@@ -10135,7 +9491,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "34625a20937b": {
     "company": "KLA",
@@ -10162,7 +9518,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "0f0aa47d2468": {
     "company": "eBay",
@@ -10266,7 +9622,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "25d7e4beb4b0": {
     "company": "Agilent Technologies",
@@ -10313,7 +9669,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "79eb476a86bc": {
     "company": "Aptiv",
@@ -10341,7 +9697,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2f329dc3bce8": {
     "company": "Aptiv",
@@ -10362,7 +9718,7 @@
     "fresh": true,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "fc01f5e49056": {
     "company": "Aptiv",
@@ -10383,7 +9739,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "44d6c8801168": {
     "company": "Becton Dickinson",
@@ -10406,7 +9762,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "e17711b7df23": {
     "company": "Texas Capital Bank",
@@ -10460,7 +9816,7 @@
     "fresh": true,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "cef3c5438dd3": {
     "company": "Equinix",
@@ -10631,7 +9987,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "46ea0dfd3e65": {
     "company": "Cisco",
@@ -10694,7 +10050,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "04af175507f4": {
     "company": "MiTek",
@@ -10718,7 +10074,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "dc68f4b15175": {
     "company": "MiTek",
@@ -10741,7 +10097,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "9cf42e144f51": {
     "company": "Wells Fargo",
@@ -12906,7 +12262,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f01907c70894": {
     "company": "LexisNexis Risk Solutions",
@@ -12933,7 +12289,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "a3e9250d81f4": {
     "company": "Yahoo",
@@ -12961,7 +12317,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "51cfbf9ff005": {
     "company": "RELX",
@@ -12988,7 +12344,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "b39db5498702": {
     "company": "OU Health",
@@ -13012,7 +12368,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "4c29657b3b85": {
     "company": "Johnson & Johnson",
@@ -13039,7 +12395,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "d04a3173ff9b": {
     "company": "Johnson & Johnson",
@@ -13067,7 +12423,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2a6ec310a1a2": {
     "company": "Genuine Parts Company",
@@ -13092,7 +12448,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ff1ca3d035f9": {
     "company": "Medtronic",
@@ -13118,7 +12474,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "29e5e7349012": {
     "company": "Corteva",
@@ -13144,7 +12500,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ddaaacb1f66b": {
     "company": "Applied Materials",
@@ -13172,7 +12528,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "025d3fba3cc7": {
     "company": "Comcast",
@@ -13198,7 +12554,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "5af1aa290340": {
     "company": "Mastercard",
@@ -13226,7 +12582,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "339cd6a924dd": {
     "company": "Micron Technology",
@@ -13254,7 +12610,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "58f212568a60": {
     "company": "Micron Technology",
@@ -13280,7 +12636,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "7a26303d455c": {
     "company": "State Street",
@@ -13308,7 +12664,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6254d0c2cb34": {
     "company": "State Street",
@@ -13336,7 +12692,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "17f69dc0008d": {
     "company": "Medline",
@@ -13357,7 +12713,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f7cc7cf83f24": {
     "company": "M&T Bank",
@@ -13378,7 +12734,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "436e9e68325e": {
     "company": "M&T Bank",
@@ -13399,7 +12755,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "83efe967af92": {
     "company": "Crowdstrike",
@@ -13420,7 +12776,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "76613fa8967c": {
     "company": "Crowdstrike",
@@ -13448,7 +12804,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "7b905294a503": {
     "company": "Crowdstrike",
@@ -13476,7 +12832,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "aedd66cf32f9": {
     "company": "Crowdstrike",
@@ -13497,7 +12853,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6aadd06bc22e": {
     "company": "7-Eleven",
@@ -13525,7 +12881,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "81235edf47c7": {
     "company": "Johnson Controls",
@@ -13549,7 +12905,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "635209a985fb": {
     "company": "Caterpillar Inc.",
@@ -13574,7 +12930,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "cd9ca6986f61": {
     "company": "Caterpillar Inc.",
@@ -13595,7 +12951,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ef082d37c0df": {
     "company": "Samsung",
@@ -13621,7 +12977,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "223741ef497e": {
     "company": "Stanley Black & Decker",
@@ -13645,7 +13001,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "f6fa6022b1ff": {
     "company": "Bank of America",
@@ -13672,7 +13028,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "c1ffe40c6b2d": {
     "company": "Ingram Micro",
@@ -13700,7 +13056,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "087ef5d88bbd": {
     "company": "Nationwide",
@@ -13728,7 +13084,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6b5ee8fd6295": {
     "company": "Northeastern University",
@@ -13751,7 +13107,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ba5cf16e6485": {
     "company": "GlobalFoundries",
@@ -13776,7 +13132,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "588bcd5b844f": {
     "company": "Target",
@@ -13804,7 +13160,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "821e7c02431c": {
     "company": "Dematic",
@@ -13832,7 +13188,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "bc1d273d81e5": {
     "company": "Geico",
@@ -13858,7 +13214,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "075d739572c5": {
     "company": "KLA Corporation",
@@ -13882,7 +13238,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "90294c93dab7": {
     "company": "KLA Corporation",
@@ -13908,7 +13264,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "d460b6bc0605": {
     "company": "KLA Corporation",
@@ -13933,7 +13289,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "045152ea63ec": {
     "company": "Ameriprise Financial",
@@ -13957,7 +13313,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "ec579939f187": {
     "company": "Bank of Montreal",
@@ -13983,7 +13339,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2dd8c1fda5a8": {
     "company": "Abbott",
@@ -14011,7 +13367,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "9ca3af7eca37": {
     "company": "MUFG",
@@ -14039,7 +13395,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "c84a011216f4": {
     "company": "Thermo Fisher Scientific",
@@ -14063,7 +13419,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "316b7cc9306f": {
     "company": "Zoom",
@@ -14091,7 +13447,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "03baa8eff2d1": {
     "company": "Transamerica",
@@ -14119,7 +13475,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "030ac4d8df41": {
     "company": "American Electric Power",
@@ -14146,7 +13502,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "4c9331edcf00": {
     "company": "Kodiak",
@@ -14200,7 +13556,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "d2694c2baba6": {
     "company": "Florida Atlantic University",
@@ -14227,7 +13583,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "3b90c82fa362": {
     "company": "Florida Atlantic University",
@@ -14251,7 +13607,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "3f189d01cb46": {
     "company": "Lowe's",
@@ -14279,7 +13635,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "c1b1d49914c8": {
     "company": "Altera Corporation",
@@ -14302,7 +13658,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "2b0127aff878": {
     "company": "Symbotic",
@@ -14358,7 +13714,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "6fa1f734c8fe": {
     "company": "AbbVie",
@@ -14629,7 +13985,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
-    "open": true
+    "open": false
   },
   "8db582737844": {
     "company": "SOCOTEC Global",
@@ -14669,6 +14025,195 @@
     "matched_skills": [],
     "age_days": 4,
     "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "65a830bd6303": {
+    "company": "Pinterest",
+    "title": "SDET II, tvScientific",
+    "location": "San Francisco, CA, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7782544",
+    "description": "<div class=\"content-intro\"><p><strong>About Pinterest:</strong></p> <p>Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we\u2019re on a mission to bring everyone the inspiration to create a life they love, and that starts with the people behind the product.</p> <p>Discover a career where you ignite innovation for millions, transform passion into growth opportunities, celebrate each other\u2019s unique experiences and embrace the&nbsp;<a href=\"https://www.pinterestcareers.com/our-life/pinflex/\">flexibility</a> to do your best work. Creating a career you love? It\u2019s Possible.</p> <p>At Pinterest, AI isn't just a feature, it's a powerful partner that augments our creativity and amplifies our impact, and we\u2019re looking for candidates who are excited to be a part of that. To get a complete picture of your experience and abilities, we\u2019ll explore your foundational skills and how you collaborate with AI.</p> <p>Through our interview process, what matters most is that you can always explain your approach, showing us not just what you know, but how you think. You can read more about our AI interview philosophy and how we use AI in our recruiting process <a href=\"https://www.pinterestcareers.com/our-philosophy-on-ai-in-hiring/\">here</a>.</p></div><p><strong>About tvScientific</strong></p> <p>tvScientific is the first and only CTV advertising platform purpose-built for performance marketers. We leverage massive data and cutting-edge science to automate and optimize TV advertising to drive business outcomes. Our solution combines media buying, optimization, measurement, and attribution in one, efficient platform. Our platform is built by industry leaders with a long history in programmatic advertising, digital media, and ad verification who have now purpose-built a CTV performance platform advertisers can trust to grow their business.</p> <p>&nbsp;</p> <p>tvScientific is looking for a QA Engineer for its Web Platform with strong expertise in web and API testing. This role requires a balance of manual testing excellence and automation skills, with a focus on validating end-to-end user flows across frontend, backend services, and APIs.</p> <p>You will partner closely with frontend engineers, backend engineers, product managers, and designers to ensure our web platform and APIs are reliable, secure, and performant.</p> <p><strong><br>What you'll do:</strong></p> <ul> <li>Own and drive&nbsp;quality&nbsp;for web platform features, spanning UI, APIs, and backend services</li> <li>Design and execute&nbsp;manual test cases&nbsp;and&nbsp;exploratory testing&nbsp;for complex web and API workflows</li> <li>Conduct thorough regression testing when bugs are resolved.</li> <li>Build and maintain&nbsp;automated test suites&nbsp;for:</li> <li>Validate&nbsp;frontend\u2013backend integration, data consistency, and error handling</li> <li>Perform&nbsp;API contract testing",
+    "posted_at": "2026-06-09T06:07:59-04:00",
+    "source": "greenhouse",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 77,
+    "sponsor_cert": 85.7,
+    "match_score": 80,
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "java",
+      "rest",
+      "api"
+    ],
+    "age_days": 3,
+    "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "7537f2990890": {
+    "company": "Expedia Group",
+    "title": "Software Development Engineer II - Payments",
+    "location": "Washington - Seattle Cam",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineer-II---Payments_R-101784",
+    "description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Why Join Us? To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win. We provide a full benefits package, including exciting travel perks, generous time-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We\u2019re building a more open world. Join us. Introduction to the Team Expedia Technology teams partner with our Product teams to create innovative products, services, and tools that deliver high-quality experiences for travelers, partners, and employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction. The Software Development Engineer II position is part of the Consumer Payments team within Expedia Global Payments, under the Book-to-Trip division. This team builds and maintains critical systems that power backend APIs for consumer and B2B payment processing, administrative tools for payment configuration, and support for a variety of payment methods across the platform. Our services are designed with security, scalability, and availability in mind, supporting credit card processing and payment routing at global scale. As an engineer on this team, you'll apply your passion for backend development, cloud computing, and modern engineering practices to solve real-world challenges that impact millions of travelers and partners worldwide. We are looking for an engineer who demonstrates strong ownership, follows through on commitments, and takes pride in building reliable systems that perform well in production. In this role, you will: Design, build, and maintain scalable backend payment services that support Expedia\u2019s global travel platform Apply software design principles, data structures and/or design patterns and computer science fundamentals to write code that is clean, maintainable, optimized, modular with good naming conventions Implement secure data handling practices to protect payment information and meet compliance standards Recommend and apply architectural patterns or GenAI capabilities to improve system design and innovation Enhance service reliability through observability, automation, and continuous operational improvements Collaborate with cross-functional teams to deliver high-impact features aligned with Expedia\u2019s strategic goals \u200b Minimum Qualifications: Bachelor's degree or Master's in a related technical field, or equivalent r",
+    "posted_at": "2026-06-12",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 96,
+    "sponsor_cert": 100.0,
+    "match_score": 100,
+    "matched_skills": [
+      "java",
+      "sql",
+      "go",
+      "api",
+      "nosql",
+      "aws"
+    ],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "43e3982b560e": {
+    "company": "Expedia Group",
+    "title": "Software Development Engineer III (Agentic AI)",
+    "location": "USA - California - San J",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/USA---California---San-Jose/Software-Development-Engineer-III--Agentic-AI-_R-103578",
+    "description": "Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Why Join Us? To shape the future of travel, people must come first. Guided by our Values and Leadership Agreements, we foster an open culture where everyone belongs, differences are celebrated and know that when one of us wins, we all win. We provide a full benefits package, including exciting travel perks, generous time-off, parental leave, a flexible work model (with some pretty cool offices), and career development resources, all to fuel our employees' passion for travel and ensure a rewarding career journey. We\u2019re building a more open world. Join us. Expedia Group brands power global travel for everyone, everywhere. We design cutting-edge tech to make travel smoother and more memorable, and we create groundbreaking solutions for our partners. Our diverse, vibrant, and welcoming community is essential in driving our success. Introduction to Team: Our Technology Team partners with teams across Expedia Group to create innovative products, services, and tools to deliver high-quality experiences for travelers, partners, and our employees. A singular technology platform powered by data and machine learning provides secure, differentiated, and personalized experiences that drive loyalty and traveler satisfaction. The Inspire and Plan team which sits within our Product & Technology division, owns our homepage, landing, navigation, app growth, and trip\u2011planning experiences, showcasing Expedia Group\u2019s travel offerings. Through brand\u2011differentiated, personalized, and contextual journeys we help travelers plan their perfect trip with confidence while maximizing marketing efficiencies and traffic acquisition performance. In this role, you will: Design, implement, and maintain highly available, performant services and applications leveraging agentic AI capabilities to solve complex traveler and partner problems. Develop clean, testable, and maintainable code across the stack, including robust system design (low-level design), API design, and data modeling aligned with Expedia Group engineering standards. Integrate AI-driven systems, tools, or workflows into production services, including safely integrating and operating AI/ML\u2011enabled solutions that improve outcomes for customers and internal users. Collaborate with product, applied science, and platform teams to translate business and AI/ML requirements into scalable technical solutions, contributing to technical design reviews and architecture discussions. Instrument services with monitoring, logging, and alerting to ensure reliability, observability, and operational excellence, participating in on-call or incident response as needed. Contribute to engineering best practices, code reviews, and knowledge sharing to enable fungibilit",
+    "posted_at": "2026-06-12",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 96,
+    "sponsor_cert": 100.0,
+    "match_score": 100,
+    "matched_skills": [
+      "python",
+      "java",
+      "go",
+      "rest",
+      "api",
+      "rds"
+    ],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "b7fefff007b3": {
+    "company": "North Wind Group",
+    "title": "Junior Biocontainment Safety Engineer 04160 LBYD Federal",
+    "location": "BETHESDA, MD",
+    "url": "https://north-wind-group.breezy.hr/p/ef5ff1e7d37b-junior-biocontainment-safety-engineer-04160-lbyd-federal",
+    "description": "",
+    "posted_at": "2026-06-08T14:59:02.333Z",
+    "source": "breezy",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 4,
+    "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "afd7ad3a1e10": {
+    "company": "North Wind Group",
+    "title": "Software Developer \u2013 Oracle APEX (NWS 00888)",
+    "location": "LIVERMORE, CA",
+    "url": "https://north-wind-group.breezy.hr/p/e10ed085e05b-software-developer-oracle-apex-nws-00888",
+    "description": "",
+    "posted_at": "2026-06-09T17:42:57.885Z",
+    "source": "breezy",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 3,
+    "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "84e275442633": {
+    "company": "JND",
+    "title": "[Mid Level] Data Analyst - Supply Chain Warehouse Reporting & Analytics (17536-1)",
+    "location": "Santa Ana, CA",
+    "url": "https://jnd-inc.breezy.hr/p/553de69e25ff-mid-level-data-analyst-supply-chain-warehouse-reporting-analytics-17536-1",
+    "description": "",
+    "posted_at": "2026-06-05T20:16:21.901Z",
+    "source": "breezy",
+    "opt_friendly": true,
+    "sponsor_tier": null,
+    "sponsors_visa": false,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 12,
+    "matched_skills": [],
+    "age_days": 7,
+    "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "1e49a73f26f6": {
+    "company": "JND",
+    "title": "[Mid Level] Software Test Engineer - 5G 4G Mobile Carrier Certification Testing (12601-1)",
+    "location": "Dallas, TX",
+    "url": "https://jnd-inc.breezy.hr/p/a11f3d96332e-mid-level-software-test-engineer-5g-4g-mobile-carrier-certification-testing-12601-1",
+    "description": "",
+    "posted_at": "2026-06-11T16:00:43.305Z",
+    "source": "breezy",
+    "opt_friendly": true,
+    "sponsor_tier": null,
+    "sponsors_visa": false,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 12,
+    "matched_skills": [],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-13",
+    "open": true
+  },
+  "ae7eb2d6b8c2": {
+    "company": "JND",
+    "title": "[Mid Level] Software Test Engineer - 5G 4G Mobile Carrier Certification Testing (12601-2)",
+    "location": "Seattle, WA",
+    "url": "https://jnd-inc.breezy.hr/p/1b613de40c9e-mid-level-software-test-engineer-5g-4g-mobile-carrier-certification-testing-12601-2",
+    "description": "",
+    "posted_at": "2026-06-12T23:21:12.546Z",
+    "source": "breezy",
+    "opt_friendly": true,
+    "sponsor_tier": null,
+    "sponsors_visa": false,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 12,
+    "matched_skills": [],
+    "age_days": 0,
+    "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-13",
     "open": true
