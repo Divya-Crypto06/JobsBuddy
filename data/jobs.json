@@ -697,7 +697,7 @@
     "location": "USA-IL Lisle Warrenville",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-IL-Lisle-Warrenville-Road/Software-Development-Engineer-in-Test--SDET-_R024872",
     "description": "Software Development Engineer in Test (SDET)",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -706,11 +706,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "315ab2589cb9": {
     "company": "Broadcom Limited",
@@ -2101,15 +2101,15 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "fb4dbcc601eb": {
     "company": "Elevance Health",
     "title": "AI Machine Learning Scientist",
-    "location": "VA-RICHMOND, 2015 STAPLE",
+    "location": "VA RICHMOND 2015 STAPLES",
     "url": "https://elevancehealth.wd1.myworkdayjobs.com/en-US/ANT/job/VA-RICHMOND-2015-STAPLES-MILL-RD/AI-Machine-Learning-Scientist_JR190990",
-    "description": "Anticipated End Date: 2026-06-26 Position Title: AI Machine Learning Scientist Job Description: AI Machine Learning Scientist Location : This role requires associates to be in-office 1\u20132 days per week, fostering collaboration and connectivity while providing flexibility to support productivity and work-life balance. This approach combines structured office engagement with the autonomy of virtual work, promoting a dynamic and adaptable workplace. Ideal candidates will be able to report to one of our Pulse Point locations in Indianapolis, IN, Atlanta, GA, Tampa, FL, or Richmond, VA. Alternate locations may be considered if candidates reside within a commuting distance from an office. Please note that per our policy on hybrid/virtual work, candidates not within a reasonable commuting distance from the posting location(s) will not be considered for employment unless an accommodation is granted as required by law. The AI Machine Learning Scientist plays a critical role in enabling the responsible and scalable adoption of AI across the enterprise. This role is responsible for designing, developing, evaluating, and operationalizing AI and machine learning solutions, including Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and agent-based systems. The successful candidate will help build reusable AI capabilities, evaluation frameworks, and governance processes that ensure AI systems are reliable, measurable, compliant, and aligned with Responsible AI principles. This role will work closely with engineering, product, data science, and business teams to translate complex business challenges into production-ready AI solutions. How you will make an impact: Design, develop, and deploy AI/ML and Generative AI solutions that address business and operational challenges at enterprise scale. Develops and maintains infrastructure systems that connect internal data sets; creates new data collection frameworks for structured and unstructured data. Develop reusable AI capabilities including RAG pipelines, vector search, semantic retrieval, prompt orchestration, and agentic workflows. Implement evaluation frameworks and automated testing strategies to measure model quality, accuracy, bias, safety, and performance. Establish monitoring, observability, and governance processes to ensure AI systems remain reliable and compliant in production. Drive adoption of Responsible AI practices by implementing evaluation standards, audit-ready documentation, and model governance controls. Optimize AI systems for scalability, latency, reliability, and cost efficiency. Minimum Requirements: Requires a Bachelor\u2019s degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent degree and 4 or more years of experience; or any combination of education and experience in configuration management, which would provide an equivalent background. Preferred Skills, Capabilities and E",
-    "posted_at": "2026-06-10",
+    "description": "AI Machine Learning Scientist",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -5955,7 +5955,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "5fed62eba650": {
     "company": "Medline",
@@ -5980,7 +5980,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "560a8d90b0ca": {
     "company": "Crowdstrike",
@@ -6731,7 +6731,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "5a2da403409f": {
     "company": "Cadence",
@@ -6754,7 +6754,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "74bc879a4b4d": {
     "company": "Cadence",
@@ -6782,8 +6782,8 @@
     "title": "Customer Engagement Applications Engineer - SWIFT",
     "location": "Hillsboro, OR",
     "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Hillsboro-OR/Customer-Engagement-Applications-Engineer---SWIFT_2636970",
-    "description": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world\u2019s leading technology providers to accelerate the delivery of tomorrow\u2019s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us. Job Description/Preferred Qualifications With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA\u2019s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The LS-SWIFT Division provides patterned wafer inspection systems for high-volume semiconductor manufacturing. Our mission is to deliver market-leading cost of ownership for a broad range of applications in the production of semiconductors. Customers from foundry, logic, memory, automotive, MEMS, advanced packaging and other market segments rely on our products to generate wafer inspection information at high sampling. LS (Laser Scanning) systems enable cost-effective patterned wafer defect detection for the industry\u2019s most sophisticated process technologies deployed in leading-edge foundry, logic, DRAM, and NAND fabs. SWIFT (Simultaneous Wafer Inspection at Fast Throughput) systems deliver all-wafer-surface (frontside, backside, and edge) macro inspection that is critical for automotive IC, MEMS, and advanced packaging processes as well as foundry/logic and memory fabs. LS-SWIFT operates from a global footprint that includes the US, Singapore, India and Germany, and serves a worldwide customer base across Asia, Europe and North America. Responsibilities Responsible for supporting all SWIFT products Employee will work directly with the customer, and KLA local/product division Teams by coordinating and executing project based activities Responsible for providing technical applications support for the development and implementation of KLA products in customer fabricati",
-    "posted_at": "2026-06-10",
+    "description": "Customer Engagement Applications Engineer - SWIFT",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -6806,8 +6806,8 @@
     "title": "HPC Product Development Engineer",
     "location": "Milpitas, CA",
     "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/HPC-Product-Development-Engineer_2636257-1",
-    "description": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world\u2019s leading technology providers to accelerate the delivery of tomorrow\u2019s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us. Group/Division With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA\u2019s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. The LS-SWIFT Division of KLA\u2019s Global Products Group provides patterned wafer inspection systems for high-volume semiconductor manufacturing. Its mission is to deliver market-leading cost of ownership in defect detection for a broad range of applications in the production of semiconductors. Customers from the foundry, logic, memory, automotive, MEMS, advanced packaging and other markets rely upon high-sample wafer inspection information generated by LS-SWIFT products. LS (Laser Scanning) systems enable cost-effective patterned wafer defect detection for the industry\u2019s most sophisticated process technologies deployed in leading-edge foundry, logic, DRAM, and NAND fabs. SWIFT (Simultaneous Wafer Inspection at Fast Throughput) systems deliver all-wafer-surface (frontside, backside, and edge) macro inspection that is critical for automotive IC, MEMS, and advanced packaging processes as well as foundry/logic and memory fabs. LS-SWIFT operates from a global footprint that includes the US, Singapore, India and Germany, and serves a worldwide customer base across Asia, Europe and North America. Job Description/Preferred Qualifications Assist in the development and maintenance of customized Windows OS images aligned with KLA\u2019s hardware and software requirements. Learn and use PowerShell scripting to help automate system configuration and basic diagnostic tasks. Apply a test-driven or validation-focuse",
-    "posted_at": "2026-06-10",
+    "description": "HPC Product Development Engineer",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -6856,8 +6856,8 @@
     "title": "Software Engineer ( Embedded Software/Firmware Development | Embedded Image Processing )",
     "location": "Ann Arbor, MI",
     "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711",
-    "description": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world\u2019s leading technology providers to accelerate the delivery of tomorrow\u2019s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us. Group/Division The KLA Services team headquartered in Milpitas, CA is our service organization that consists of Service Sales and Marketing, Spares Supply Chain management, Field Operations, Engineering, Product Training, and Technical Support. The KLA Services organization partners with our field teams and customers in all business sectors to maintain the high performance and productivity of our products through a flexible portfolio of services. Our comprehensive services include: proactive management of tools to identify and improve performance; expertise in optics, image processing and motion control with worldwide service engineers, 24/7 technical support teams and knowledge management systems; and an extensive parts network to ensure worldwide availability of parts. Job Description/Preferred Qualifications Knowledge of structure, architecture and coding knowledge of C, C++,C# and java on Unix/Linux/Windows is required A highly motivated individual able to work in a multi-discipline and multi-culture global organization as a driven teammate Excellent verbal and written communication skills Exposure to programming image processing system designs desired Exposure to writing embedded software for mechanical control from communications level to high level application development in C and C++ is desired Knowledge in standards-based messaging protocols, such as ethernet, serial and VMEbus is desired Knowledge of source control tools such as RTC, ClearCase ,GIT and Azure Devops Experience with image processing software is a plus Experience with real-time operating systems (RTOS), e.g., Embedded Linux, Android, VxWorks is a plus Experience with Solaris and other *NIX OS is a plus Experience in using AI coding assistants and agents is a plus Understanding of SEMI Equipment control software architecture is a plus Minimum Qualifications Master's Level Degree and 0 years related work experience; Bachelor's Level Degree and related work experience of",
-    "posted_at": "2026-06-09",
+    "description": "Software Engineer ( Embedded Software/Firmware Development | Embedded Image Processing )",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -6976,11 +6976,11 @@
       "sql",
       "go"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "25d7e4beb4b0": {
     "company": "Agilent Technologies",
@@ -7046,11 +7046,11 @@
     "sponsor_cert": 91.7,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "fc01f5e49056": {
     "company": "Aptiv",
@@ -7058,7 +7058,7 @@
     "location": "USA Remote Worksite",
     "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/USA-Remote-Worksite/Member-of-Technical-Staff---Infrastructure---Engineering--Austin--TX-_J000693627",
     "description": "Member of Technical Staff - Infrastructure & Engineering",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -7067,19 +7067,19 @@
     "sponsor_cert": 91.7,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 3,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "44d6c8801168": {
     "company": "Becton Dickinson",
     "title": "Product Development Engineer II",
     "location": "USA RI - Warwick",
     "url": "https://bdx.wd1.myworkdayjobs.com/en-US/US_EARLY_TALENT_SITE/job/USA-RI---Warwick/Product-Development-Engineer-II_R-545971-1",
-    "description": "Product Development Engineer II",
-    "posted_at": "Posted 3 Days Ago",
+    "description": "&#xa;&#xa; We are the people who give possibilities purpose BD is one of the largest global medical technology companies in the world. Advancing the world of health\u2122 is our Purpose, and it\u2019s no small feat. It takes the imagination and passion of all of us\u2014from design and engineering to the manufacturing and marketing of our billions of MedTech products per year\u2014to look at the impossible and find transformative solutions that turn dreams into possibilities. &#xa;&#xa; Job Description Scope and Impact of Position: Direct project responsibility for design, development of new and improved products. Performance against schedule affects commitments made in the division business plan. Recommends product specifications, drawings, documents and changes as they pertain to any new products or product modifications. Essential Duties and Position Responsibilities: On a project management assignment basis, uses the concurrent engineering process to design and develop new and improved medical devices. Reviews design objectives with marketing and management and assures product design meets objective. Responsible for supporting the creation of project plans and schedules developed with project teams. Coordinates the development of prototypes and lab testing samples and fixtures. Formulates and approves product specifications, materials, assemblies and processes. Works concurrently with Advanced Manufacturing Engineering, Manufacturing and Quality Engineering groups in starting up production of new and improved products. Researches outside market for information on new materials and processes related to the design and the improvement of the Davol product lines. Collaborate with clinicians to determine and validate user needs as well as refine product design. Responsible for reviewing and analyzing costs in order to identify, plan and implement cost improvements. Conducts design review meetings in accordance with procedures. Responsible for communications to supervisor and all levels of management. Performs and/or supervise development testing. Responsible for design control activities, including user needs assessment, product performance specifications, hazards analysis, DFMEA, design verification and validation. Special projects as assigned. Qualifications, Knowledge, and Skills Required: BS degree in Engineering with a minimum of 2 years relevant experience. Complete knowledge of the product development process, engineering principles, concepts, and application. Demonstrated and continuous track record of contributing to the development of new products with exposure to all elements from concept to commercialization. Utilizes technical knowledge to lead the Development and design of products and processes, performs tests, generates technical documents and analyzes problems with limited supervision on projects consisting of moderate technical risk. Provides technical solutions to a wide range of problems of a moderate to high complexity. Makes decisions that requi",
+    "posted_at": "2026-06-10",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -7090,11 +7090,11 @@
     "matched_skills": [
       "rds"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "e17711b7df23": {
     "company": "Texas Capital Bank",
@@ -7148,7 +7148,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "cef3c5438dd3": {
     "company": "Equinix",
@@ -7301,8 +7301,8 @@
     "title": "Digital Verification Engineer I",
     "location": "Austin",
     "url": "https://silabs.wd1.myworkdayjobs.com/en-US/SiliconlabsCareers/job/Austin/Digital-Verification-Engineer-I_20801-1",
-    "description": "Silicon Labs (NASDAQ: SLAB) is the leading innovator in low-power wireless connectivity, building embedded technology that connects devices and improves lives. Merging cutting-edge technology into the world\u2019s most highly integrated SoCs, Silicon Labs provides device makers the solutions, support, and ecosystems needed to create advanced edge connectivity applications. Headquartered in Austin, Texas, Silicon Labs has operations in over 16 countries and is the trusted partner for innovative solutions in the smart home, industrial IoT, and smart cities markets. Learn more at www.silabs.com . Meet the Team You\u2019ll join the Modem Verification (IP Verification) team, which ensures the quality and reliability of Silicon Labs\u2019 ASIC IP used in IoT applications. The team focuses on verifying complex digital designs for modem systems, applying advanced verification techniques to guarantee robust performance across real-world wireless scenarios. This critical work helps deliver low-power, high-performance solutions trusted across a wide range of connected devices. Responsibilities Contribute to the verification of ASIC IP blocks used in wireless modem designs for IoT applications. Develop and maintain verification environments, testbenches, and simulations using Verilog and SystemVerilog . Support automated testing and verification flows through C programming and scripting. Analyze simulation results, identify root causes of failures, and debug design or verification issues in collaboration with cross-functional engineering teams. Participate in verification planning, test development, coverage analysis, and regression execution. Document verification results, communicate technical findings, and contribute ideas to improve methodologies and workflows. Collaborate with design, architecture, and software teams to ensure high-quality IP delivery. Skills You Need Minimum Qualifications Bachelor\u2019s, Master\u2019s, or PhD degree in Electrical Engineering, Computer Engineering, or a related field. Experience with Verilog and SystemVerilog for digital design and verification through professional setting, internships, coursework, research, or project work. Programming and scripting experience in C and scripting languages such as Python, Perl, or similar. Understanding of digital design fundamentals, computer architecture, VLSI concepts, or embedded systems. Hands-on experience with simulation, debugging, or FPGA prototyping through academic or internship projects. Strong analytical, problem-solving, and communication skills. The following qualifications will be considered a plus : Knowledge of UVM (Universal Verification Methodology). Exposure to ASIC or IP verification methodologies and tools. Experience debugging complex digital systems and analyzing simulation failures. Familiarity with digital communication systems or wireless modem architectures. Prior internship or project experience related to verification, RTL development, or semiconductor design. Benefits & Perks Y",
-    "posted_at": "2026-06-08",
+    "description": "Digital Verification Engineer I",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -7732,7 +7732,7 @@
       "dbt",
       "airflow"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -8226,8 +8226,8 @@
     "sponsor_cert": null,
     "match_score": 0,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9860,7 +9860,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "025d3fba3cc7": {
     "company": "Comcast",
@@ -9894,7 +9894,7 @@
     "location": "Arlington, Virginia",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II---Backend-Platform-Agentic-AI_R-279643-1",
     "description": "Software Engineer II - Backend/Platform Agentic AI",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted 3 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -9910,11 +9910,11 @@
       "rest",
       "api"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "339cd6a924dd": {
     "company": "Micron Technology",
@@ -10066,7 +10066,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "436e9e68325e": {
     "company": "M&T Bank",
@@ -10108,7 +10108,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "76613fa8967c": {
     "company": "Crowdstrike",
@@ -10262,7 +10262,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "cd9ca6986f61": {
     "company": "Caterpillar Inc.",
@@ -10545,8 +10545,8 @@
     "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "075d739572c5": {
     "company": "KLA Corporation",
@@ -10644,8 +10644,8 @@
     "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "ec579939f187": {
     "company": "Bank of Montreal",
@@ -10698,8 +10698,8 @@
     "age_days": 3,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "9ca3af7eca37": {
     "company": "MUFG",
@@ -10756,7 +10756,7 @@
   "316b7cc9306f": {
     "company": "Zoom",
     "title": "Software Engineer",
-    "location": "Remote (IND)  +1 more",
+    "location": "Remote (IND)",
     "url": "https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote-IND/Software-Engineer_R18768-1",
     "description": "What You Can Expect You\u2019ll build and scale modern applications that solve real business problems and improve user experience. You\u2019ll work across frontend, backend, APIs, cloud infrastructure, and AI-powered workflows to deliver impactful solutions quickly. You\u2019ll have opportunities to learn fast, take ownership early, and work with modern engineering practices used in high-scale environments. About the Team Our team builds scalable platforms and internal products that support engineering and business operations. We move fast, collaborate closely, and encourage continuous learning and experimentation. We value engineers who are curious, adaptable, and excited to grow in the AI-driven software engineering era. Responsibilities: Designing, developing, and maintaining frontend and backend applications. Building responsive UI components and reliable backend APIs for scalable applications. Collaborating with product managers, designers, and engineers to deliver features quickly and iteratively. Writing clean, maintainable, and testable code following engineering best practices. Debugging production issues, improving application performance, and ensuring service reliability. Working with databases, cloud platforms, and containerized environments. Leveraging AI-powered developer tools and modern workflows to improve productivity and accelerate delivery. Learning new technologies quickly and contributing across different parts of the stack as needed. What We\u2019re Looking For 0\u20133 years of software engineering experience in frontend , backend , or full-stack development. Strong fundamentals in data structures, problem solving, and software engineering concepts. Experience with JavaScript/TypeScript and modern frontend frameworks such as React, Angular, or Vue . js. Experience building backend services or APIs using Node. js , Python, Java, or similar technologies. Understanding of databases such as PostgreSQL, MySQL, MongoDB, or Redis. Familiarity with Git, debugging, testing, and basic CI/CD workflows. Basic understanding of cloud platforms, Docker, and modern deployment environments. Strong learning mindset, curiosity, and ability to adapt quickly in a fast-moving engineering environment. Passion for leveraging AI tools, automation, and modern engineering workflows to improve productivity and software quality. Exposure to Kubernetes, Kafka, distributed systems, or data engineering concepts. \u2022Contributions to personal projects, open-source work, hackathons, internships, or AI-driven applications Ways of Working Our structured hybrid approach is centered around our offices and remote work environments. The work style of each role, Hybrid, Remote, or In-Person is indicated in the job description/posting. Benefits As part of our award-winning workplace culture and commitment to delivering happiness, our benefits program offers a variety of perks, benefits, and options to help employees maintain their physical, mental, emotional, and financial health; support wo",
     "posted_at": "2026-06-11",
@@ -10778,8 +10778,8 @@
     "age_days": 3,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "03baa8eff2d1": {
     "company": "Transamerica",
@@ -10814,8 +10814,8 @@
     "title": "Engineer Associate (Entry-Level) - System Performance Analysis (SPA)",
     "location": "New Albany, OH",
     "url": "https://aep.wd1.myworkdayjobs.com/en-US/AEPCareerSite/job/New-Albany-OH/Engineer-Associate--Entry-Level----System-Performance-Analysis--SPA-_R12764",
-    "description": "Job Posting End Date 06-23-2026 Please note the job posting will close on the day before the posting end date. Job Summary Works within the System Performance Analysis group. The System Performance Analysis group conducts advanced system studies to support capital projects, including but not limited to transient stability, voltage stability, electromagnetic coupling, insulation coordination, geomagnetically induced currents, electromagnetic field, and Power Quality using PSS/E, ASPEN OneLiner, PSCAD, and Alstom electrical engineering technologies. Job Description What you\u2019ll do: More specifically, responsibilities include the following duties: Conduct system performance analysis and provide solutions to support planning, operations, engineering, regulatory and financial needs of the company. Perform electrical engineering studies related to power system stability, reliability, and compliance. Perform transient and voltage stability studies, insulation coordination studies, electromagnetic field studies, and studies of geomagnetically induced currents and geomagnetic disturbance. Perform power-flow analyses in support of system dynamic stability, system restoration, and geomagnetic disturbance analyses. Develop and maintain power system models. Calculate electromagnetic interference for overhead and underground transmission lines. Technical Expertise: Keeps abreast of new products, developments, technologies, procedures and equipment. Understands and analyzes interrelationships between systems and component equipment. Interprets codes and regulations, and develops standards relevant to the area of assignment. Leadership & Guidance: Provides guidance and exercises judgment and discretion in providing guidance and direction to other Engineers. Leads, facilitates and coordinates work activities of others within the work group, team, department, corporate entity, or those external to the company as required to perform all routine engineering work. Ensures all work activities are performed in accordance with the policies, practices, standards and rules of the company and complies with the regulations and procedures required by external agencies. Promotes engineering professionalism and standards. Coordinates and conducts training sessions. Planning & Organization Ability: Participates in the development of plans by establishing measurable goals, objectives and requirements for specific areas of responsibility. Coordinates the development of input necessary to establish projected cost of all projects. Is proficient in use of scheduling techniques (CPM, PERT, flow charts, etc.) for budget and planning activities. Identifies and initiates appropriate corrective action when objectives are not being met. P roblem Solving & Initiative: Identifies, clarifies, resolves, and initiates solutions to routine and/or complex problems that sometimes involve analysis of inadequate or conflicting data. Demonstrates the ability to divide problems into component steps. C",
-    "posted_at": "2026-06-12",
+    "description": "Engineer Associate (Entry-Level) - System Performance Analysis (SPA)",
+    "posted_at": "Posted 2 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -10867,8 +10867,8 @@
     "title": "Data Engineer III",
     "location": "Des Moines- Corporate Of",
     "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Des-Moines--Corporate-Office/Data-Engineer-III_R6425",
-    "description": "Data Engineer III",
-    "posted_at": "Posted 3 Days Ago",
+    "description": "At EMC, we\u2019re all about working together to make an impact. As part of our team, you\u2019ll have the opportunity to grow, contribute, and gain experience that matters. We strive to be caring leaders, close partners, and responsive experts\u2014always supporting each other to do our best work. Join us, and let\u2019s improve lives together. Essential Functions: Develops, tests, and maintains complex prioritized engineering (design/build/test) work as a member of a data analytics product pipeline architecture and infrastructure team: Investigates and analyzes feasibility of data integration prototypes and program requirements Develops specifications and plans the full range of programming actions to produce data integration components Develops and maintains complex automated ETL/ELT pipeline architecture that cleans, transforms, and aggregates data from disparate sources using architecturally approved tools, programming languages, and services to deliver a data mesh approach Develops and maintains complex automated ETL/ELT monitoring and alarming solutions using architecturally approved languages and services Monitors, troubleshoots, and optimizes data pipelines for quality, performance, and reliability creating a single source of truth providing business customers with highly reliable and quality data Builds complex unit tests to enable test driven development and automation to drive code reliability Develops, maintains, tests, and deploys code with architecturally approved toolsets using Dev Ops practices, ETL/ELT pipelines, data catalogs and data queries Maintains data solutions in a divest state to ensure business functionality until replaced with new technology Balances and designs data analytics product solutions based on cost and performance to meet data needs and business requirements Guides business customers to develop, troubleshoot, and optimize complex SQL and ETL/ELT solutions to solve reporting, metrics, and analytics problems Data analysis: Collaborates with cross-functional teams to understand data requirements for data analytics products and translate them into scalable and efficient data solutions: Leads moderately complex projects or supports larger initiatives as part of a team Partners with users and stakeholders to understand data needs and business requirements Leads the team on conceptualizing and developing new data solutions to meet the business data needs and requirements Researches, performs analysis, and proposes effective solutions related to system developments and enhancements through collaboration with Data Architecture Analyzes and reviews potential adjustments or modifications for impacts on other programs Leverages data governance, data security, and privacy principles to support data lineage and reference data needs Collaborates with cross-functional teams to understand business and downstream application (BI reporting, Data Science, Data Governance, other System integrations) and consumer requirements to deliver data-driven ",
+    "posted_at": "2026-06-11",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -10915,7 +10915,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "3b90c82fa362": {
     "company": "Florida Atlantic University",
@@ -10939,7 +10939,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "3f189d01cb46": {
     "company": "Lowe's",
@@ -10974,8 +10974,8 @@
     "title": "Design Automation Engineer",
     "location": "San Jose, California, Un",
     "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/San-Jose-California-United-States/Static-Timing-Analysis-Methodology-Engineer-Lead_R02459",
-    "description": "Design Automation Engineer",
-    "posted_at": "Posted Yesterday",
+    "description": "Job Details: Job Description: About Altera: Accelerating Innovators \u2014 Altera provides leadership programmable solutions that are easy to use and deploy, across the cloud to the edge, enabling limitless possibilities for AI. Our broad portfolio includes FPGAs, SoCs, CPLDs, IP, development tools, system-on-modules, SmartNICs and IPUs, offering the flexibility to accelerate innovation. Our innovation in programmable logic began in 1983. Since then we\u2019ve delivered the tools and technologies that empower customers to innovate, differentiate, and succeed in their markets. Join us on our journey to becoming the world\u2019s #1 FPGA company! About the Role: We are seeking for DA Engineer to join our static timing analysis (STA) team and contribute to flow development and STA tool across advanced digital design projects. The ideal candidate will have hands-on experience with Synopsys PrimeTime and Cadence Tempus and strong scripting skills (Python, Tcl, Shell, Perl). You will be responsible for developing, maintaining, and enhancing STA methodologies, collaborating with design and CAD teams to ensure timing closure and flow robustness. Key Responsibilities: Help develop and support STA flows Collaborate on timing modeling and methodology improvements Interface with CAD/DA teams for flow integration Help with designs, develops, tests, and debugs software tools, flows, and methodologies used in design automation and by teams in the design of hardware products, process design, or manufacturing. Responsibilities include capturing user stories/requirements, writing both functional and test code, automating build and deployment, and/or performing unit, integration, and end-to-end testing of the software tools. Salary Range The pay range below is for Bay Area California only. Actual salary may vary based on a number of factors including job location, job-related knowledge, skills, experiences, trainings, etc. We also offer incentive opportunities that reward employees based on individual and company performance. $95,000 - $110,000 USD *We use artificial intelligence to screen, assess, or select applicants for the position. Applicants must be eligible for any required U.S. export authorizations.* #LI-MD1 Qualifications: Minimum Qualifications: Bachelor's or Master's degree in Electrical Engineering, Computer Engineering, or related field with 1+ years of experience in the following skills: 1+ years of experience in Static Timing Analysis 1+ years of experience in Liberty (.lib) model format 1+ years of experience in methodology and flow development experience 1+ years of experience Scripting experience (Python, Perl, TCL, shell) Preferred Qualifications: Experience with Liberty model characterization and STA-tool-based Liberty model extraction Familiarity with Fusion Compiler, Innovus, Cadence Pegasus, and other EDA tools Solid understanding of digital circuit design and simulation Job Type: Regular Shift: Shift 1 (United States of America) Primary Location: San Jose,",
+    "posted_at": "2026-06-12",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -10986,11 +10986,11 @@
     "matched_skills": [
       "python"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "2b0127aff878": {
     "company": "Symbotic",
@@ -11383,7 +11383,7 @@
       "rest",
       "api"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11678,7 +11678,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "ac880bc6716c": {
     "company": "Caterpillar Inc.",
@@ -11699,7 +11699,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "b9066821b295": {
     "company": "Caterpillar Inc.",
@@ -11720,7 +11720,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "38929995cf3a": {
     "company": "Carnegie Mellon University",
@@ -11952,7 +11952,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "5e5c34722ac8": {
     "company": "Novanta",
@@ -12023,7 +12023,7 @@
     "location": "University of Wisconsin ",
     "url": "https://wisconsin.wd1.myworkdayjobs.com/en-US/UW_Comprehensives/job/Madison-WI/Technical-Integration-Engineer-II_JR10011997",
     "description": "Technical Integration Engineer II",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -12032,11 +12032,11 @@
     "sponsor_cert": 38.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "fbcc2de607db": {
     "company": "University of Wisconsin System",
@@ -12086,27 +12086,6 @@
     "location": "USA-CA - Promontory B",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer_R024961",
     "description": "Software Engineer",
-    "posted_at": "Posted Yesterday",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "medium",
-    "sponsors_visa": true,
-    "sponsor_cases": 22,
-    "sponsor_cert": 100.0,
-    "match_score": 20,
-    "matched_skills": [],
-    "age_days": 1,
-    "fresh": true,
-    "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
-  },
-  "83476d550b60": {
-    "company": "Broadcom Limited",
-    "title": "Mainframe Software Engineer",
-    "location": "USA-TX Plano Legacy Driv",
-    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Software-Engineer_R026231",
-    "description": "Mainframe Software Engineer",
     "posted_at": "Posted 2 Days Ago",
     "source": "workday",
     "opt_friendly": true,
@@ -12119,8 +12098,29 @@
     "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "83476d550b60": {
+    "company": "Broadcom Limited",
+    "title": "Mainframe Software Engineer",
+    "location": "USA-TX Plano Legacy Driv",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Software-Engineer_R026231",
+    "description": "Mainframe Software Engineer",
+    "posted_at": "Posted 3 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 22,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 3,
+    "fresh": false,
+    "first_seen": "2026-06-13",
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "ad5010831763": {
     "company": "Broadcom Limited",
@@ -12128,7 +12128,7 @@
     "location": "USA CA Irvine Alton Park",
     "url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/PHY-Application-Engineer_R025363",
     "description": "HSIP Application Engineer",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -12137,11 +12137,11 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "c291efce4fcc": {
     "company": "Broadcom Limited",
@@ -12254,7 +12254,7 @@
     "location": "Pittsburgh, PA",
     "url": "https://cmu.wd5.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Cyber-Infrastructure-Engineer---Mellon-College-of-Science---Pittsburgh-Supercomputing-Center_2023351",
     "description": "Cyber Infrastructure Engineer - Mellon College of Science - High Performance Computing - Pittsburgh Supercomputing Center",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -12263,11 +12263,11 @@
     "sponsor_cert": 73.5,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "749de2abe6fb": {
     "company": "McAfee",
@@ -12330,7 +12330,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "0eda860c16dd": {
     "company": "Carrier Global",
@@ -12351,7 +12351,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "0342661e9bbc": {
     "company": "Carrier Global",
@@ -12550,7 +12550,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "dc49d392ebee": {
     "company": "Caterpillar Inc.",
@@ -12623,7 +12623,7 @@
     "location": "Jersey City NJ United St",
     "url": "https://archgroup.wd1.myworkdayjobs.com/en-US/careers/job/Jersey-City-NJ-United-States-of-America/AVP--Software-Engineering---Enterprise-Reporting-and-Data--Hybrid---Hartford-Jersey-City-Raleigh-_R26_544",
     "description": "AVP, Software Engineering - Enterprise Reporting and Data (Hybrid - Hartford/Jersey City/Raleigh)",
-    "posted_at": "Posted 4 Days Ago",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -12632,11 +12632,11 @@
     "sponsor_cert": null,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "aa0771d26e60": {
     "company": "Bank of America",
@@ -12689,7 +12689,7 @@
     "location": "Boston",
     "url": "https://baincapital.wd1.myworkdayjobs.com/en-US/External_Public/job/Boston/AI-Engineer--GSS_REQ_108241-1",
     "description": "AI Engineer, GSS",
-    "posted_at": "Posted 5 Days Ago",
+    "posted_at": "Posted 6 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": null,
@@ -12698,11 +12698,11 @@
     "sponsor_cert": null,
     "match_score": 12,
     "matched_skills": [],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "5912497a649d": {
     "company": "Hewlett Packard Enterprise",
@@ -12731,7 +12731,7 @@
     "location": "Greenwood Village, CO, U",
     "url": "https://mii.wd5.myworkdayjobs.com/en-US/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer-III_R06376",
     "description": "Software Engineer III",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -12740,11 +12740,11 @@
     "sponsor_cert": 89.5,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "89cc54f158f0": {
     "company": "Hewlett Packard (HP)",
@@ -12765,7 +12765,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "7e8832f7cce5": {
     "company": "Rockwell Automation",
@@ -12786,7 +12786,7 @@
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "148f17ed2c49": {
     "company": "Cadence",
@@ -12807,28 +12807,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
-  },
-  "7aebac20056c": {
-    "company": "Embry-Riddle Aeronautical University",
-    "title": "Assistant/Associate Professor of Computer Engineering (NTT), Prescott Campus",
-    "location": "Prescott, AZ",
-    "url": "https://embryriddle.wd1.myworkdayjobs.com/en-US/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer-Engineering--NTT---Prescott-Campus_R311259",
-    "description": "Assistant/Associate Professor of Computer Engineering (NTT), Prescott Campus",
-    "posted_at": "",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "medium",
-    "sponsors_visa": true,
-    "sponsor_cases": 29,
-    "sponsor_cert": 65.5,
-    "match_score": 8,
-    "matched_skills": [],
-    "age_days": null,
-    "fresh": false,
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "362518807869": {
     "company": "Cisco",
@@ -12849,7 +12828,7 @@
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "57afdbc91e11": {
     "company": "Cisco",
@@ -12867,6 +12846,118 @@
     "match_score": 20,
     "matched_skills": [],
     "age_days": 6,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": false
+  },
+  "b854f5c61dcf": {
+    "company": "General Motors",
+    "title": "Controls Development Engineer - Rapid Prototype",
+    "location": "Milford, Michigan, Unite",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Controls-Development-Engineer---Rapid-Prototype_JR-202609827",
+    "description": "Controls Development Engineer - Rapid Prototype",
+    "posted_at": "Posted 3 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 189,
+    "sponsor_cert": 98.4,
+    "match_score": 16,
+    "matched_skills": [
+      "api"
+    ],
+    "age_days": 3,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "b8445c517735": {
+    "company": "Equifax",
+    "title": "Data Scientist - Career",
+    "location": "USA - Atlanta - One Atla",
+    "url": "https://equifax.wd5.myworkdayjobs.com/en-US/external/job/USA---Atlanta---One-Atlantic-Center/Data-Scientist---Career_J00177523",
+    "description": "Data Scientist - Career",
+    "posted_at": "Posted 6 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 40,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 6,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "1bd505b74607": {
+    "company": "Johnson & Johnson",
+    "title": "Systems Test Engineer",
+    "location": "Palm Beach Gardens, Flor",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/NonCompetetiveHiring/job/Palm-Beach-Gardens-Florida-United-States-of-America/Systems-Test-Engineer_R-080709",
+    "description": "At Johnson & Johnson, we believe health is everything. Our strength in healthcare innovation empowers us to build a world where complex diseases are prevented, treated, and cured, where treatments are smarter and less invasive, and solutions are personal. Through our expertise in Innovative Medicine and MedTech, we are uniquely positioned to innovate across the full spectrum of healthcare solutions today to deliver the breakthroughs of tomorrow, and profoundly impact health for humanity. Learn more at jnj.com As guided by Our Credo, Johnson & Johnson is responsible to our employees who work with us throughout the world. We provide an inclusive work environment where each person is considered as an individual. At Johnson & Johnson, we respect the diversity and dignity of our employees and recognize their merit. Job Function: R&D Operations Job Sub Function: Product Development Testing Job Category: Professional All Job Posting Locations: Palm Beach Gardens, Florida, United States of America, Raynham, Massachusetts, United States of America Job Description: About MedTech Fueled by innovation at the intersection of biology and technology, we\u2019re developing the next generation of smarter, less invasive, more personalized treatments. Your unique talents will help patients on their journey to wellness. Learn more at https://www.jnj.com/medtech The Systems Test Engineer contributes with limited guidance to the research, design characterization, verification and risk assessment of medical implants and instrumentations for mechanical and electro-mechanical applications. The engineer will work closely with R&D engineering and Quality engineering to develop and ensure the testability of requirements, while developing test methods that will holistically verify the safety and efficacy of the medical devices (implants and instrumentations). This is a hands-on engineering role which touches on various engineering fields required for formal testing of complex medical devices and systems. Additionally, the individual will have the opportunity to propose improvements to our existing processes to improve the team\u2019s quality and efficiency.. You will be responsible for: Under limited supervision and in accordance with all applicable federal, state and local laws/regulations and Corporate Johnson & Johnson, procedures and guidelines, this position: Perform verification tests to support regulatory submissions, investigational tests to support new product development and quality investigations, and research to improve product designs Develop test methods that meet complex requirement intent (including but not limited to: test plans, protocol development, fixture development, test method validation, data analysis, test report and summary document generations) Clearly and professionally communicate test findings, technical challenges and proposed resolutions to teams Works with development engineers, manufacturing, regulatory affairs, product directors, equipment and mater",
+    "posted_at": "2026-06-08",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 14,
+    "sponsor_cert": 100.0,
+    "match_score": 40,
+    "matched_skills": [
+      "python",
+      "go",
+      "api",
+      "aws"
+    ],
+    "age_days": 6,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "3dbea5ce3f80": {
+    "company": "SS&C",
+    "title": "Software Engineer, Black Diamond",
+    "location": "Jacksonville, FL",
+    "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Jacksonville-FL/Software-Engineer--Black-Diamond_R43355",
+    "description": "Software Engineer, Black Diamond",
+    "posted_at": "Posted Yesterday",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 15,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 1,
+    "fresh": true,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "4e716c07429f": {
+    "company": "University of Wisconsin System",
+    "title": "Data Warehouse Developer",
+    "location": "University of Wisconsin ",
+    "url": "https://wisconsin.wd1.myworkdayjobs.com/en-US/UW_Comprehensives/job/Platteville-WI/Data-Warehouse-Developer_JR10011913",
+    "description": "Data Warehouse Developer",
+    "posted_at": "Posted 5 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 108,
+    "sponsor_cert": 38.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
