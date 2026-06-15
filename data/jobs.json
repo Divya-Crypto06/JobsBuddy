@@ -16,7 +16,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -28,9 +28,9 @@
     "company": "SpaceX",
     "title": "Software Engineer, High Performance Computing (Starlink)   ",
     "location": "Palo Alto, CA  +1 more",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8578909002?gh_jid=8578909002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578931002?gh_jid=8578931002",
     "description": "<div class=\"content-intro\"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div><p><strong>SOFTWARE ENGINEER, HIGH PERFORMANCE COMPUTING (STARLINK)</strong></p> <p>At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system \u2013 thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. All Starlink satellites have laser terminals to connect with other Starlink satellites, creating a large laser mesh network in orbit. We\u2019ve only begun to scratch the surface of Starlink\u2019s potential global impact and are looking for the world\u2019s best engineers to help maximize Starlink\u2019s utility for communities and businesses around the globe.</p> <p>As a Beam Planning Software and Network Software Engineer on the Starlink program, you will be solving challenges that improve our ability to fully utilize the hardware we have deployed. Our goal is to provide customers with the best possible satellite internet experience, often providing under-served communities with affordable, life-changing broadband internet access.</p> <p>Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support. We expect our engineers to close the feedback loop between software design and real-world performance. In this role, your software will have a meaningful and measurable impact on the world.</p> <p><strong>R</strong><strong>ESPONSIBILITIES:</strong></p> <ul> <li><span data-teams=\"true\">Develop highly reliable, real-time software that determines which beams (user, laser, gateway, etc) should be formed in order to provide the best possible user experience for our low-latency, high-bandwidth satellite-based global network.</span></li> <li>Participate in and lead architecture, design, and code reviews.</li> <li>Develop prototypes and manage experiments to prove out key design concepts.</li> <li>Develop tools for software development and deployment, data analysis and visualization, and test execution across multiple environments, including virtualized hardware environments, real hardware-in-the-loop simulations, and on-orbit testing.</li> </ul> <p><strong>BASIC QUALIFICATIONS:</strong></p> <ul> <li>Bachelor\u2019s degree in computer science, engineering, math, or science discipline; OR 2+ years of professional experience in software development in lieu of a degree (internship experience is applicable).</li> <li>Development e",
-    "posted_at": "2026-06-09T17:04:26-04:00",
+    "posted_at": "2026-06-09T17:04:27-04:00",
     "source": "greenhouse",
     "opt_friendly": false,
     "sponsor_tier": "medium",
@@ -41,7 +41,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -53,9 +53,9 @@
     "company": "SpaceX",
     "title": "Software Engineer, Low Latency Computing (Starlink)   ",
     "location": "Palo Alto, CA  +1 more",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8578910002?gh_jid=8578910002",
+    "url": "https://boards.greenhouse.io/spacex/jobs/8578923002?gh_jid=8578923002",
     "description": "<div class=\"content-intro\"><p>SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on Mars.</p></div><p><strong>SOFTWARE ENGINEER, LOW LATENCY COMPUTING (STARLINK)</strong></p> <p>At SpaceX we\u2019re leveraging our experience in building rockets and spacecraft to deploy Starlink, the world\u2019s most advanced broadband internet system. Starlink is the world\u2019s largest satellite constellation and is providing fast, reliable internet to millions of users worldwide. We design, build, test, and operate all parts of the system \u2013 thousands of satellites, consumer receivers that allow users to connect within minutes of unboxing, and the software that brings it all together. All Starlink satellites have laser terminals to connect with other Starlink satellites, creating a large laser mesh network in orbit. We\u2019ve only begun to scratch the surface of Starlink\u2019s potential global impact and are looking for the world\u2019s best engineers to help maximize Starlink\u2019s utility for communities and businesses around the globe.</p> <p>As a Beam Planning Software and Network Software Engineer on the Starlink program, you will be solving challenges that improve our ability to fully utilize the hardware we have deployed. Our goal is to provide customers with the best possible satellite internet experience, often providing under-served communities with affordable, life-changing broadband internet access.</p> <p>Our software engineers are responsible for the complete lifecycle of the software they create, including development, testing, and support. We expect our engineers to close the feedback loop between software design and real-world performance. In this role, your software will have a meaningful and measurable impact on the world.</p> <p><strong>RESPONSIBILITIES:</strong></p> <ul> <li><span data-teams=\"true\">Develop highly reliable, real-time software that determines which beams (user, laser, gateway, etc) should be formed in order to provide the best possible user experience for our low-latency, high-bandwidth satellite-based global network.</span></li> <li>Participate in and lead architecture, design, and code reviews.</li> <li>Develop prototypes and manage experiments to prove out key design concepts.</li> <li>Develop tools for software development and deployment, data analysis and visualization, and test execution across multiple environments, including virtualized hardware environments, real hardware-in-the-loop simulations, and on-orbit testing.</li> </ul> <p><strong>BASIC QUALIFICATIONS:</strong></p> <ul> <li>Bachelor\u2019s degree in computer science, engineering, math, or science discipline; OR 2+ years of professional experience in software development in lieu of a degree (internship experience is applicable).</li> <li>Development experience in assembly,",
-    "posted_at": "2026-06-09T17:04:28-04:00",
+    "posted_at": "2026-06-09T17:04:29-04:00",
     "source": "greenhouse",
     "opt_friendly": false,
     "sponsor_tier": "medium",
@@ -66,7 +66,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -94,8 +94,8 @@
       "api",
       "aws"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
     "open": true,
@@ -150,7 +150,7 @@
       "terraform",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -178,7 +178,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -262,7 +262,7 @@
       "rest",
       "api"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -474,8 +474,8 @@
     "title": "HPC Systems Engineer",
     "location": "Ann Arbor, MI",
     "url": "https://kla.wd1.myworkdayjobs.com/en-US/AnnArbor/job/Ann-Arbor-MI/HPC-Systems-Engineer_2635350",
-    "description": "HPC Systems Engineer",
-    "posted_at": "Posted 4 Days Ago",
+    "description": "Company Overview KLA is a global leader in diversified electronics for the semiconductor manufacturing ecosystem. Virtually every electronic device in the world is produced using our technologies. No laptop, smartphone, wearable device, voice-controlled gadget, flexible screen, VR device or smart car would have made it into your hands without us. KLA invents systems and solutions for the manufacturing of wafers and reticles, integrated circuits, packaging, printed circuit boards and flat panel displays. The innovative ideas and devices that are advancing humanity all begin with inspiration, research and development. KLA focuses more than average on innovation and we invest 15% of sales back into R&D. Our expert teams of physicists, engineers, data scientists and problem-solvers work together with the world\u2019s leading technology providers to accelerate the delivery of tomorrow\u2019s electronic devices. Life here is exciting and our teams thrive on tackling really hard problems. There is never a dull moment with us. Group/Division With over 40 years of semiconductor process control experience, chipmakers around the globe rely on KLA to ensure that their fabs ramp next-generation devices to volume production quickly and cost-effectively. Enabling the movement towards advanced chip design, KLA's Global Products Group (GPG), which is responsible for creating all of KLA\u2019s metrology and inspection products, is looking for the best and the brightest research scientist, software engineers, application development engineers, and senior product technology process engineers. Central Engineering is KLA's largest engineering organization comprised of 9 Centers-of-Excellence (CoE) in various disciplines applied across all product groups in the company. These CoE include Handling & Automation, Precision Motion Control, Sensors & Image Acquisition, Platform Design, and Packaging Engineering, among others. Talent includes over 500 engineers across global centers in Israel, China, India, and the US. Each CoE contributes not just talent and deliverables per discipline toward product programs, but also subject matter expertise, best practices, roadmaps, specialized facilities, apparatus, models, and analytics. These differentiate KLA not only in WHAT we do, but also in HOW we do it. Job Description/Preferred Qualifications We\u2019re looking for a HPC Systems Engineer to help power the compute infrastructure behind our R&D innovation! In this role, you\u2019ll support and evolve a high\u2011performance Linux cluster used for physics modeling, simulation, algorithm development, and machine\u2011learning workloads\u2014enabling hundreds of engineers to do their best work every day. You\u2019ll play a key role in driving the reliability, performance, and scalability of a shared, mission\u2011critical HPC environment, partnering closely with infrastructure, DevOps, and application teams to keep the platform fast, resilient, and ready for the most demanding computational challenges! Key Responsibilities: HPC Pl",
+    "posted_at": "2026-06-10",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -489,7 +489,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-06",
     "last_seen": "2026-06-14",
@@ -881,39 +881,11 @@
       "go",
       "rest"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
     "open": true
-  },
-  "81afe3949ec2": {
-    "company": "BlackRock",
-    "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team",
-    "location": "San Francisco, CA",
-    "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Applied-AI-Engineer---Fundamental-Equity-Tech-Investing-Team_R263834",
-    "description": "About this role BlackRock is one of the world\u2019s preeminent asset management firms and a premier provider of global investment management, risk management and advisory services to institutional, intermediary, and individual investors around the world. BlackRock\u2019s mission is to create a better financial future for our clients. We have a responsibility to be the voice of the investor, and we represent each client fairly and equally. Constant communication with a diverse team of partners strengthens us and delivers better results for our clients. Continuous innovation helps us bring the best of BlackRock to our clients. BlackRock offers a range of solutions \u2014 from rigorous fundamental and quantitative active management approaches aimed at maximizing outperformance to highly efficient indexing strategies designed to gain broad exposure to the world\u2019s capital markets. Our clients can access our investment solutions through a variety of product structures, including individual and institutional separate accounts, mutual funds and other pooled investment vehicles, and the industry-leading iShares\u00ae ETFs. Key Responsibilities: Architect AI systems for investors Contribute to Asimov, our in-house investment research platform, built to streamline manual workflows like idea sourcing, thesis monitoring, analytics, and beyond Asimov\u2019s comprised of 3 parts: a central data layer, 100+ bespoke agents, and a suite of custom apps The platform is relied on by 150+ investors, strategists, and CIOs Full-Stack Technologist & AI Vanguard: Design front-end apps using AI coding tools Manage back-end code, databases, and overall data infrastructure Continuously learn & demo cutting-edge tools, data vendors, and AI products. Demonstrate a commitment to being in the top 1% of technologists Entrepreneurial Mindset: Proactively source and implement value-add ideas with fast turnaround Maintain a \u201cyes and\u201d mindset, innovating & adapting to change Exhibit an eye for design, openness to critical feedback, and humility in all interactions Perks: Impact & Pride: Contribute to an analytics platform that underpins over $40B in AUM and supports meetings with global CEOs and investment clients Growth & Education : Receive coaching from a team that engages with 1000+ of the largest tech and AI companies globally, keeping you at the forefront of technological advancements Qualifications: 2+ years of relevant professional experience Experience & enthusiasm in AI development Strong proficiency in front-end coding (React, Python), databases (Snowflake, Databricks, Google BigQuery or Azure), and agentic coding tools (Claude Code, Codex, etc.) Demonstrated ability to collaborate across teams and functions Experience in a fast-paced, startup-like environment is valued, but not required A keen eye for design principles, focusing on form alongside function Can incorporate feedback from multiple stakeholders and iterate quickly Deep passion for technology and a relentless drive to be at the cuttin",
-    "posted_at": "2026-06-07",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "medium",
-    "sponsors_visa": true,
-    "sponsor_cases": 14,
-    "sponsor_cert": 78.6,
-    "match_score": 100,
-    "matched_skills": [
-      "python",
-      "react",
-      "go",
-      "rest",
-      "api",
-      "rds"
-    ],
-    "age_days": 3,
-    "fresh": false,
-    "first_seen": "2026-06-07",
-    "last_seen": "2026-06-10",
-    "open": false
   },
   "07350576d975": {
     "company": "Salesforce",
@@ -965,7 +937,7 @@
       "api",
       "aws"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
@@ -1247,8 +1219,8 @@
     "sponsor_cert": 97.5,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
     "open": true
@@ -1275,7 +1247,7 @@
       "aws",
       "rds"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
@@ -2101,7 +2073,7 @@
     "fresh": false,
     "first_seen": "2026-06-07",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "fb4dbcc601eb": {
     "company": "Elevance Health",
@@ -2681,7 +2653,7 @@
       "rag",
       "generative ai"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -2765,7 +2737,7 @@
       "api",
       "aws"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -2821,7 +2793,7 @@
       "api",
       "aws"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -2988,7 +2960,7 @@
       "rds",
       "claude"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3016,7 +2988,7 @@
       "postgres",
       "mysql"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3071,7 +3043,7 @@
       "rds",
       "llm"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3151,7 +3123,7 @@
       "api",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3258,7 +3230,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3310,7 +3282,7 @@
       "go",
       "rest"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3386,7 +3358,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3411,7 +3383,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3489,7 +3461,7 @@
       "sql",
       "go"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3517,7 +3489,7 @@
       "sql",
       "go"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3568,7 +3540,7 @@
       "generative ai",
       "agent"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3691,7 +3663,7 @@
       "sql",
       "rds"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3719,7 +3691,7 @@
       "bigquery",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3803,7 +3775,7 @@
       "go",
       "rest"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -3881,7 +3853,7 @@
       "api",
       "agent"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4115,7 +4087,7 @@
       "gcp",
       "kubernetes"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4170,7 +4142,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4221,7 +4193,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4248,7 +4220,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4276,7 +4248,7 @@
       "api",
       "agent"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4328,7 +4300,7 @@
       "go",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4356,7 +4328,7 @@
       "numpy",
       "streamlit"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4439,7 +4411,7 @@
       "api",
       "aws"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4495,7 +4467,7 @@
       "java",
       "go"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4539,7 +4511,7 @@
     "sponsor_cert": null,
     "match_score": 0,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4560,7 +4532,7 @@
     "sponsor_cert": null,
     "match_score": 0,
     "matched_skills": [],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4613,7 +4585,7 @@
       "api",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4639,7 +4611,7 @@
       "api",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4774,7 +4746,7 @@
       "gcp",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -4892,34 +4864,6 @@
     "last_seen": "2026-06-10",
     "open": false
   },
-  "1fb3775cc807": {
-    "company": "Workday",
-    "title": "Machine Learning Engineer - Document Intelligence",
-    "location": "USA, CA, Pleasanton",
-    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Document-Intelligence_JR-0107515",
-    "description": "Your work days are brighter here. We\u2019re obsessed with making hard work pay off, for our people, our customers, and the world around us. As a Fortune 500 company and a leading AI platform for managing people, money, and agents, we\u2019re shaping the future of work so teams can reach their potential and focus on what matters most. The minute you join, you\u2019ll feel it. Not just in the products we build, but in how we show up for each other. Our culture is rooted in integrity, empathy, and shared enthusiasm. We\u2019re in this together, tackling big challenges with bold ideas and genuine care. We look for curious minds and courageous collaborators who bring sun-drenched optimism and drive. Whether you're building smarter solutions, supporting customers, or creating a space where everyone belongs, you\u2019ll do meaningful work with Workmates who\u2019ve got your back. In return, we\u2019ll give you the trust to take risks, the tools to grow, the skills to develop and the support of a company invested in you for the long haul. So, if you want to inspire a brighter work day for everyone, including yourself, you\u2019ve found a match in Workday, and we hope to be a match for you too. About the Team This is a very exciting opening in the AI Platform team in our Document Intelligence team. We believe if you do what you love, you\u2019ll love what you do. There\u2019s a lot to love at Workday. We are part of a global, high-growth technology company and our team has the opportunity to develop the next generation of Workday\u2019s groundbreaking collaborative products supporting a customer base of more than 31 million strong. Over 65% of the Fortune 500 are Workday customers. The Document Intelligence team builds AI/ML-powered solutions to extract actionable insights from unstructured documents. We design scalable document processing pipelines that can ingest and interpret large volumes of data with minimal manual intervention. Our work includes advanced document parsing using NLP, computer vision, and large language models (LLMs), along with in-house model training for entity resolution. We integrate seamlessly with business workflows for areas like financials, spend management, and more. By continuously evolving our models to handle new document types and edge cases, we help automate and accelerate critical business processes across the organization. Workday\u2019s AI Platform organization is bringing \u201cAI first\u201d products to life at every step of the Workday product offering. We\u2019re looking for highly creative, results-focused, and deeply skilled Machine Learning Engineers/scientists to work with us on a range of these challenges. About the Role We are looking for a Machine Learning Engineer to join the ML - Document Intelligence team to drive the design and development of our core Document Intelligence Platform as a Service . In this role, you will work on building and optimizing critical features like generic document entity extraction, entity resolution, and document classification, leveraging cutting-ed",
-    "posted_at": "2026-06-07",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "high",
-    "sponsors_visa": true,
-    "sponsor_cases": 53,
-    "sponsor_cert": 100.0,
-    "match_score": 88,
-    "matched_skills": [
-      "python",
-      "sql",
-      "go",
-      "rest",
-      "api",
-      "aws"
-    ],
-    "age_days": 7,
-    "fresh": false,
-    "first_seen": "2026-06-10",
-    "last_seen": "2026-06-14",
-    "open": true
-  },
   "81a9ba56b92c": {
     "company": "Workday",
     "title": "Machine Learning Engineer III",
@@ -5019,7 +4963,7 @@
       "rag",
       "dbt"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5046,7 +4990,7 @@
       "rds",
       "system design"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5169,7 +5113,7 @@
       "go",
       "api"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5197,7 +5141,7 @@
       "rag",
       "agent"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5246,7 +5190,7 @@
       "sql",
       "go"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5358,7 +5302,7 @@
       "gcp",
       "kubernetes"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5386,7 +5330,7 @@
       "kubernetes",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5411,7 +5355,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5467,7 +5411,7 @@
       "api",
       "aws"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5492,7 +5436,7 @@
       "rest",
       "etl"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5520,7 +5464,7 @@
       "rds",
       "ci/cd"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5646,7 +5590,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5700,7 +5644,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -5856,8 +5800,8 @@
     "title": "Adobe Analytics/Launch Developer",
     "location": "Remote, Massachusetts, U",
     "url": "https://thermofisher.wd5.myworkdayjobs.com/en-US/ThermoFisherCareers/job/Remote-Massachusetts-USA/Adobe-Analytics-Launch-Developer_R-01356708",
-    "description": "Work Schedule Standard (Mon-Fri) Environmental Conditions Office Job Description COMPANY: Thermo Fisher Scientific Inc. LOCATION: 168 Third Avenue, Waltham, MA 02451 TITLE: Adobe Analytics/Launch Developer HOURS: Monday to Friday, 8:00 am to 5:00 pm DUTIES: Devise intricate analytics solutions to answer the business questions. Implement the solution ensuring data integrity, accounting for potential errors and false positives, via Adobe Launch. Debugging high priority breakdowns in production. Documenting the approach, conditions, validations and warnings for posterity. Maintain and support Adobe DTM/Launch platform. Implementation and testing procedures, modules and related code using best practices. Translate business requirements to technical specifications, work with stakeholders to refine and clarify requirements. Design solutions based on requirements and oversee implementation by working with the team to execute that solution. Analyze impact of code to overall ecosystem within the global web site. Ensure code is robust and safe and will not degrade site performance. Design, build and deploy tagging solutions in Adobe Launch. Conduct code reviews of other developers. Evaluate and improve existing Adobe ecosystems. Collaborate with other teams to integrate code into Adobe Launch. Other duties as assigned. Can work remotely or telecommute. REQUIREMENTS: MINIMUM Education Requirement: Bachelor\u2019s degree in Computer Science, Engineering, or related field of study. MINIMUM Experience Requirement: 4 years of Digital Tag Management, or related experience. Required knowledge or experience with: Understanding of how analytics systems integrate with the site to collect data and influence business decisions; 3 years of Adobe Analytics reporting and debugging experience; Adobe Launch development and production release experience; 1 year of Communication on Teams messenger and video conferencing; 2 years of JIRA and JIRA Align experience; 1 year of Workfront management experience; 2 years of experience with Browser debugging tools like Adobe Experience Platform Debugger, Omnibug and DDV. Salary: $154606 to $186000 per year Compensation and Benefits The salary pay range estimated for this position Systems Analyst III based in Massachusetts is $154,606.00\u2013$186,000.00. This position may also be eligible to receive a variable annual bonus based on company, team, and/or individual performance results in accordance with company policy. We offer a comprehensive Total Rewards package that our U.S. colleagues and their families can count on, which includes: A choice of national medical and dental plans, and a national vision plan, including health incentive programs Employee assistance and family support programs, including commuter benefits and tuition reimbursement At least 120 hours paid time off (PTO), 10 paid holidays annually, paid parental leave (3 weeks for bonding and 8 weeks for caregiver leave), accident and life insurance, and short- and long-term disa",
-    "posted_at": "2026-06-10",
+    "description": "Adobe Analytics/Launch Developer",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -5868,19 +5812,19 @@
     "matched_skills": [
       "rds"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "493c87d4fc08": {
     "company": "Thomson Reuters",
     "title": "Software Engineer - AI \u2013 CoCounsel Forward Deployed Engineering",
     "location": "United States of America",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-Frisco-Texas/Software-Engineer---AI--Legal----CoCounsel-Forward-Deployed-Engineering_JREQ200166-1",
-    "description": "Software Engineer - AI \u2013 CoCounsel Forward Deployed Engineering Are you excited about building AI solutions that help legal professionals work faster, smarter, and with greater confidence? Do you enjoy operating at the intersection of engineering, legal workflows, and real-world client problems? Join Thomson Reuters' CoCounsel Forward Deployed Engineering team \u2014 a high-impact group focused on delivering practical legal AI solutions to law firms and corporate legal departments. With one million professionals relying on CoCounsel across 107 countries, the work you do here will have meaningful impact. What You'll Be Part Of Over 20,000 law firms and corporate legal departments, along with the majority of top US courts and Am Law 100 firms, already trust CoCounsel. The Forward Deployed Engineering team works directly on high-value, real-world legal AI problems \u2014 partnering closely with clients and internal teams to shape how AI is adopted in legal practice. If you want to help build AI systems that legal professionals can trust in important moments of their work, this is the team. About the Role As a Software Engineer - AI, You will partner with AI Solution Engineers, Architects, and senior technical teammates to design, build, and deploy AI-powered solutions for legal customers. You will help translate legal workflows and business needs into reliable technical solutions that combine foundation models, proprietary AI capabilities, and legal-domain understanding. This role is ideal for someone who enjoys hands-on engineering, client-facing problem solving, and applied AI development. You will contribute to technical discovery, solution delivery, prototyping, integrations, and evaluation of AI outputs for legal use cases. You will play an important role in ensuring the systems we deploy are practical, accurate, secure, and aligned with the high standards required in legal environments. Support client engagements by participating in technical discovery sessions, gathering requirements, and helping scope legal AI use cases. Work with legal and technical stakeholders to understand workflows, pain points, and desired outcomes. Assist with demonstrations, proofs of concept, and early-stage prototypes that inform solution design. Develop working knowledge of legal terminology, legal processes, and operational constraints in law firms and corporate legal departments. Design, develop, and implement AI-powered solutions for legal workflows such as contract review, litigation support, discovery automation, and regulatory analysis. Build and support retrieval-augmented generation (RAG) pipelines, agentic workflows, and other multi-component AI systems. Configure and integrate solutions using CoCounsel, Westlaw, Practical Law, and other enterprise platforms where applicable. Develop automation scripts, APIs, and integration components tailored to customer environments and use cases. Collaborate with senior engineers and architects to ensure solutions are scalable,",
-    "posted_at": "2026-06-09",
+    "description": "Software Engineer - AI \u2013 CoCounsel Forward Deployed Engineering",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -5896,11 +5840,11 @@
       "rds",
       "gcp"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "67a3cd18184c": {
     "company": "Thomson Reuters",
@@ -6581,7 +6525,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "8da8757ca2cb": {
     "company": "Cadence Design Systems",
@@ -6611,8 +6555,8 @@
     "title": "Software Engineer II, AI Platform",
     "location": "SAN JOSE",
     "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030",
-    "description": "At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology. If you are an individual who enjoys an exciting, fast-moving environment and daily technical challenges as much as we do, this role will be a great fit for you. We are currently looking for an LLM/ML engineer who will be a key contributor in building scalable and resilient Agentic AI solutions. Key Qualifications Advanced experience working with core EDA, LLM/ML or data analytics, such as Langchain, Spark, Pytorch, Tensorflow etc. Able to translate requirements into both high-level and detailed architectures Understanding of AI/ML fundamentals In-depth understanding of data structures, algorithms, and distributed systems Development experience in Python, C++ or similar programming languages Enthusiastic, highly motivated, and able to work collaboratively In-depth understanding of various technologies and frameworks with ability to combine into practical solutions Hands-on experience of building agentic AI solutions is a plus Education & Experience BS degree in Computer Science, Electrical Engineering or related fields, 3+ years of industry experience MS degree in Computer Science, Electrical Engineering or related fields The annual salary range for California is $101,500 to $188,500. You may also be eligible to receive incentive compensation: bonus, equity, and benefits. Sales positions generally offer a competitive On Target Earnings (OTE) incentive compensation structure. Please note that the salary range is a guideline and compensation may vary based on factors such as qualifications, skill level, competencies and work location. Our benefits programs include: paid vacation and paid holidays, 401(k) plan with employer match, employee stock purchase plan, a variety of medical, dental and vision plan options, and more. We\u2019re doing work that matters. Help us solve what others can\u2019t.",
-    "posted_at": "2026-06-09",
+    "description": "Software Engineer II, AI Platform",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -6656,7 +6600,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "b609f8330e9c": {
     "company": "Carrier Global",
@@ -6681,7 +6625,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "413c2a617088": {
     "company": "American Electric Power",
@@ -6754,7 +6698,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "74bc879a4b4d": {
     "company": "Cadence",
@@ -6799,7 +6743,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "2d674ec92bb2": {
     "company": "KLA",
@@ -6825,7 +6769,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "2e87c7b1fc6a": {
     "company": "KLA",
@@ -6849,7 +6793,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "34625a20937b": {
     "company": "KLA",
@@ -6876,7 +6820,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "0f0aa47d2468": {
     "company": "eBay",
@@ -6927,7 +6871,7 @@
       "agentic",
       "microservices"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -6980,7 +6924,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "25d7e4beb4b0": {
     "company": "Agilent Technologies",
@@ -7118,7 +7062,7 @@
       "rds",
       "llm"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7148,7 +7092,7 @@
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "cef3c5438dd3": {
     "company": "Equinix",
@@ -7235,7 +7179,7 @@
       "rag",
       "agent"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7262,7 +7206,7 @@
       "rest",
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7290,7 +7234,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7315,7 +7259,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7425,11 +7369,11 @@
     "matched_skills": [
       "sql"
     ],
-    "age_days": 3,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "9cf42e144f51": {
     "company": "Wells Fargo",
@@ -7650,7 +7594,7 @@
       "rag",
       "agent"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7704,7 +7648,7 @@
       "go",
       "spring boot"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-10",
     "last_seen": "2026-06-14",
@@ -7760,7 +7704,7 @@
       "kubernetes",
       "ci/cd"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -7788,7 +7732,7 @@
       "rds",
       "claude"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -7816,8 +7760,8 @@
       "rest",
       "api"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -7844,7 +7788,7 @@
       "api",
       "aws"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -7872,8 +7816,8 @@
       "aws",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -7900,8 +7844,8 @@
       "postgres",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -7983,7 +7927,7 @@
       "rds",
       "openai"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8039,8 +7983,8 @@
       "rds",
       "openai"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8067,8 +8011,8 @@
       "aws",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8095,8 +8039,8 @@
       "aws",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8151,7 +8095,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8179,7 +8123,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8205,7 +8149,7 @@
       "rds",
       "llm"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8359,7 +8303,7 @@
       "node",
       "rest"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8384,7 +8328,7 @@
       "rds",
       "html"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8486,7 +8430,7 @@
     "matched_skills": [
       "rest"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8514,7 +8458,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8542,7 +8486,7 @@
       "api",
       "aws"
     ],
-    "age_days": 5,
+    "age_days": 6,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8567,8 +8511,8 @@
       "api",
       "system design"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8623,8 +8567,8 @@
       "ci/cd",
       "claude"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8679,7 +8623,7 @@
       "mysql",
       "mongodb"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8707,7 +8651,7 @@
       "api",
       "rag"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8754,8 +8698,8 @@
     "sponsor_cert": null,
     "match_score": 0,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -8863,7 +8807,7 @@
       "aws",
       "rag"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8970,7 +8914,7 @@
       "s3",
       "rds"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -8995,7 +8939,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9050,7 +8994,7 @@
       "docker",
       "kubernetes"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9078,7 +9022,7 @@
       "api",
       "html"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9159,8 +9103,8 @@
       "mongodb",
       "redis"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9184,7 +9128,7 @@
       "api",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9209,8 +9153,8 @@
       "api",
       "rag"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9320,7 +9264,7 @@
       "s3",
       "ci/cd"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9348,7 +9292,7 @@
       "llm",
       "agent"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9372,7 +9316,7 @@
       "api",
       "aws"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9398,8 +9342,8 @@
       "agent",
       "system design"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9424,7 +9368,7 @@
       "api",
       "rds"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9534,7 +9478,7 @@
       "rds",
       "kubernetes"
     ],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9562,7 +9506,7 @@
       "api",
       "agent"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9617,8 +9561,8 @@
       "rag",
       "html"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9645,7 +9589,7 @@
       "go",
       "node"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9672,7 +9616,7 @@
       "scikit-learn",
       "data pipeline"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9723,8 +9667,8 @@
       "api",
       "system design"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9751,7 +9695,7 @@
       "sql",
       "go"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9776,7 +9720,7 @@
       "rest",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -9802,8 +9746,8 @@
       "rds",
       "rag"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9860,7 +9804,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "025d3fba3cc7": {
     "company": "Comcast",
@@ -9882,8 +9826,8 @@
       "go",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9893,8 +9837,8 @@
     "title": "Software Engineer II - Backend/Platform Agentic AI",
     "location": "Arlington, Virginia",
     "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II---Backend-Platform-Agentic-AI_R-279643-1",
-    "description": "Software Engineer II - Backend/Platform Agentic AI",
-    "posted_at": "Posted 3 Days Ago",
+    "description": "Our Purpose Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we\u2019re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential. Title and Summary Software Engineer II - Backend/Platform Agentic AI Who is Mastercard? Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all. Overview: The Portfolio Intelligence (PI) program within Mastercard's Business & Market Insights (B&MI) division delivers analytics products that help financial institutions understand and grow their card portfolios. We're building a first-party AI platform that brings agentic, conversational, and generative AI capabilities directly into our products; powering features like natural-language analytics, automated report summaries, and personalized dashboard experiences for thousands of customers worldwide. This is a builder role. You will write code daily, own components end-to-end, and ship production-grade AI-enabled services within a multi-tenant, customer-facing platform. You'll work alongside senior engineers, architects, and product partners to implement agentic workflows, integrate LLM-powered capabilities into our existing Java/Spring Boot stack, and help operate AI systems in production. About the Role: \u2022 Build and operate services delivering AI-powered features to customers, ensuring correctness, performance, and reliability in a multi-tenant distributed environment \u2022 Implement agentic workflows and LLM integrations from design specifications, including tool calling, retrieval patterns, prompt management, and streaming responses \u2022 Own delivery end-to-end: design, development, testing, deployment, documentation, and production support \u2022 Contribute to CI/CD pipelines, automated testing, and release processes to ensure consistent, reliable delivery \u2022 Monitor, debug, and improve AI systems\u2014resolving production issues, optimizing latency, and maintaining service health \u2022 Collaborate with senior engineers and platform teams to integrate PI-specific capabilities into shared AI infrastructure \u2022 Follow a",
+    "posted_at": "2026-06-11",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -9910,11 +9854,11 @@
       "rest",
       "api"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "339cd6a924dd": {
     "company": "Micron Technology",
@@ -9938,8 +9882,8 @@
       "rds",
       "rag"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -9964,7 +9908,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -10262,7 +10206,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "cd9ca6986f61": {
     "company": "Caterpillar Inc.",
@@ -10305,7 +10249,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -10360,7 +10304,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "c1ffe40c6b2d": {
     "company": "Ingram Micro",
@@ -10488,11 +10432,11 @@
       "aws",
       "gcp"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "821e7c02431c": {
     "company": "Dematic",
@@ -10516,8 +10460,8 @@
       "rds",
       "gcp"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -10645,7 +10589,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "ec579939f187": {
     "company": "Bank of Montreal",
@@ -10667,8 +10611,8 @@
       "api",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -10677,9 +10621,9 @@
     "company": "Abbott",
     "title": "R&D Product Development Engineer",
     "location": "United States > Atlanta ",
-    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States--Atlanta--387-Technology-Circle-NW-Suite-500/R-D-Product-Development-Engineer_31149936-1",
-    "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 115,000 colleagues serve people in more than 160 countries. JOB DESCRIPTION: Working at Abbott At Abbott, you can do work that matters, grow, and learn, care for yourself and your family, be your true self, and live a full life. You\u2019ll also have access to: Career development with an international company where you can grow the career you dream of. Employees can qualify for free medical coverage in our Health Investment Plan (HIP) PPO medical plan in the next calendar year. An excellent retirement savings plan with a high employer contribution. Tuition reimbursement, the Freedom 2 Save student debt program, and FreeU education benefit - an affordable and convenient path to getting a bachelor\u2019s degree. A company recognized as a great place to work in dozens of countries worldwide and named one of the most admired companies in the world by Fortune. A company that is recognized as one of the best big companies to work for as well as the best place to work for diversity, working mothers, female executives, and scientists. The Opportunity We are recruiting for an R&D Product Development Engineer to join our Heart Failure R&D team in Atlanta, GA. This role will contribute to the development, characterization, and verification of next-generation implantable MEMS sensor technology. The ideal candidate is a high-performing, hands-on engineer who can work across disciplines, learn quickly, solve ambiguous technical problems, and convert experimental results into robust product decisions. This position is intentionally broad. Strong candidates may come from electrical engineering, computer engineering, MEMS, microelectronics packaging, mechanical engineering, biomedical engineering, automation, applied physics, or related technical backgrounds. The role requires engineering judgment, practical lab capability, strong analytical skills, and the ability to collaborate across design, process, test, quality, manufacturing, and external partners. Primary Responsibilities Support the design, development, and evaluation of implantable MEMS-based sensor systems, components, assemblies, processes, fixtures, and test methods. Develop and execute engineering studies to characterize sensor performance, reliability, manufacturability, and design robustness. Build, modify, and troubleshoot laboratory setups, prototypes, fixtures, and measurement systems used for product development. Analyze experimental data, identify trends and failure modes, and communicate conclusions through clear reports, presentations, and design-review materials. Draft and execute test protocols, verification plans, engineering reports, and design documentation in accordance with internal quality-system requirement",
-    "posted_at": "2026-06-11",
+    "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States--Atlanta--387-Technology-Circle-NW-Suite-500/R-D-Product-Development-Engineer_31149936",
+    "description": "R&D Product Development Engineer",
+    "posted_at": "Posted 3 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -10699,15 +10643,15 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "9ca3af7eca37": {
     "company": "MUFG",
     "title": "Global Red Team AI Engineer, Analyst",
     "location": "Jersey City, NJ",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/Jersey-City-NJ/Global-Red-Team-AI-Engineer--Analyst_10076229-WD",
-    "description": "Do you want your voice heard and your actions to count? Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), one of the world\u2019s leading financial groups. Across the globe, we\u2019re 150,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, building long-term relationships, serving society, and fostering shared and sustainable growth for a better world. With a vision to be the world\u2019s most trusted financial group, it\u2019s part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. This means investing in talent, technologies, and tools that empower you to own your career. Join MUFG, where being inspired is expected and making a meaningful impact is rewarded. The selected colleague will work at an MUFG office or client sites four days per week and work remotely one day. A member of our recruitment team will provide more details. Job Summary: The Red Team Analyst supports MUFG Red Team operations by executing adversary\u2011emulation activities focused on AI\u2011enabled technologies. This role is designed for early\u2011career professionals with a computer science background and practical coding experience, enabling them to develop offensive security skills while contributing to risk reduction across the enterprise. Under the direction of senior operators, the analyst participates in threat\u2011led assessments, AI security testing, and purple team exercises, helping identify how real\u2011world adversaries could exploit application logic, automation pipelines, and AI\u2011assisted capabilities. Primary Responsibilities: Adversary Emulation & Testing Support Participate in Red Team missions designed to simulate real\u2011world attacker behavior against MUFG applications and platforms. Execute assigned activities during: adversary simulation and emulation (ASE) assumed\u2011breach scenarios purple team and control\u2011validation exercises Safely conduct testing activities aligned to approved scopes, deconfliction requirements, and operational guardrails. AI & Automation Workflow Testing Support adversarial testing of AI\u2011enabled capabilities, including: prompt injection and misuse scenarios unintended data access or disclosure via AI tools bypass of AI guardrails and safety controls Assist in assessing AI\u2011assisted developer tools, copilots, and automation platforms. Help evaluate how AI interacts with identity, permissions, APIs, and data sources. Tooling & Research Research emerging attacker techniques targeting: modern application stacks CI/CD and developer tooling AI/LLM systems Contribute to Red Team playbooks, test cases, and repeatable workflows. Support senior operators in engagement reporting and evidence collection. Participate in post\u2011engagement discussions with defensive and engineering teams. Develop and operationalize custom ML/LLM models for cybersecurity use cases Advance preventative, detective, and responsive security con",
-    "posted_at": "2026-06-12",
+    "description": "Global Red Team AI Engineer, Analyst",
+    "posted_at": "Posted 2 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -10803,8 +10747,8 @@
       "aws",
       "ci/cd"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -10856,7 +10800,7 @@
       "rag",
       "etl"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -10915,7 +10859,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "3b90c82fa362": {
     "company": "Florida Atlantic University",
@@ -10939,7 +10883,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "3f189d01cb46": {
     "company": "Lowe's",
@@ -10967,7 +10911,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "c1b1d49914c8": {
     "company": "Altera Corporation",
@@ -11014,7 +10958,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 6,
+    "age_days": 7,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11025,8 +10969,8 @@
     "title": "Software Engineer",
     "location": "Remote - Nationwide",
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineer-Software_R041565",
-    "description": "Thank you for considering a career at Ensemble! Ensemble is a leading provider of technology-enabled revenue cycle management solutions for health systems, including hospitals and affiliated physician groups. They offer end-to-end revenue cycle solutions as well as a comprehensive suite of point solutions to clients across the country. Ensemble keeps communities healthy by keeping hospitals healthy. We recognize that healthcare requires a human touch, and we believe that every touch should be meaningful. This is why our people are the most important part of who we are. By empowering them to challenge the status quo, we know they will be the difference! O.N.E Purpose: Customer Obsession: Consistently provide exceptional experiences for our clients, patients, and colleagues by understanding their needs and exceeding their expectations. Embracing New Ideas: Continuously innovate by embracing emerging technology and fostering a culture of creativity and experimentation. Striving for Excellence: Execute at a high level by demonstrating our \u201cBest in KLAS\u201d Ensemble Difference Principles and consistently delivering outstanding results. The Opportunity: As a Software Engineer , you will play a key role in designing, building, and scaling data-driven applications and backend systems. You will architect and develop scalable, resilient backend services, APIs, and reusable components that support the ingestion, transformation, and presentation of critical data. You will work closely with product, architecture, and engineering leadership to translate business and operational objectives into actionable technical solutions that improve transparency, performance, and usability for end users. Through hands-on design sessions, technical prototyping, and code reviews, you will help establish high standards for quality, security, and maintainability while influencing engineering best practices across teams. Essential Job Functions Design, develop, test, deploy, monitor, and continuously improve backend services and APIs supporting data-driven applications Build and maintain scalable data pipelines and services that enable ingestion, transformation, and delivery of structured data for user consumption Develop reusable components, frameworks, and tooling that support consistent and scalable data processing and decisioning workflows Collaborate with product, analytics, and design teams to translate business requirements into technical solutions that improve visibility and usability of data Partner with architecture and data teams to ensure accurate, reliable, and high-quality data integration between systems Participate in and lead technical design sessions, architecture reviews, and exploratory investigations to align with long-term platform strategy Implement and advocate for engineering best practices related to performance, scalability, security, observability, and maintainability Support development of user-facing data capabilities, including visualization, filteri",
-    "posted_at": "2026-06-12",
+    "description": "Software Engineer",
+    "posted_at": "Posted 2 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -11088,8 +11032,8 @@
     "sponsor_cert": 96.2,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -11157,7 +11101,7 @@
       "python",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11185,8 +11129,8 @@
       "mysql",
       "mongodb"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -11210,7 +11154,7 @@
       "rds",
       "llm"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11238,7 +11182,7 @@
       "llm",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11266,7 +11210,7 @@
       "api",
       "aws"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11289,7 +11233,7 @@
     "matched_skills": [
       "rag"
     ],
-    "age_days": 4,
+    "age_days": 5,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11411,8 +11355,8 @@
       "nosql",
       "aws"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -11439,8 +11383,8 @@
       "api",
       "rds"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -11523,7 +11467,7 @@
     "sponsor_cert": null,
     "match_score": 12,
     "matched_skills": [],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11634,7 +11578,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "15540288e92d": {
     "company": "Rockwell Automation",
@@ -11657,7 +11601,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "3eaf1b125ed1": {
     "company": "Crowdstrike",
@@ -11699,7 +11643,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "b9066821b295": {
     "company": "Caterpillar Inc.",
@@ -11720,7 +11664,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "38929995cf3a": {
     "company": "Carnegie Mellon University",
@@ -11770,7 +11714,7 @@
     "location": "Orlando, FL (Main Campus",
     "url": "https://ucf.wd1.myworkdayjobs.com/en-US/careers/job/Orlando-FL-Main-Campus/Systems-Engineer-III_R113503-2",
     "description": "Systems Engineer III",
-    "posted_at": "Posted Yesterday",
+    "posted_at": "Posted 2 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -11779,11 +11723,11 @@
     "sponsor_cert": 81.2,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 1,
+    "age_days": 2,
     "fresh": true,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "6d2a38ddfd0b": {
     "company": "ABB",
@@ -11804,8 +11748,8 @@
       "rds",
       "rag"
     ],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
     "open": true
@@ -11829,7 +11773,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11854,7 +11798,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11879,7 +11823,7 @@
       "rds",
       "rag"
     ],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -11890,8 +11834,8 @@
     "title": "R&D Associate Engineer",
     "location": "Vittuone, Milano, Italy",
     "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Vittuone-Milano-Italy/R-D-Engineer_JR00035978-1",
-    "description": "At ABB , we help industries run leaner and cleaner\u2014and every person here makes that happen. You\u2019ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This position reports to: R&D Team Lead __ Your Role and Responsibilities You will be part of the R&D center IT, responsible for several electronic low voltage measurement devices (meters, network analyzer) and for low voltage protection devices and components (RCCB, RCBO, MCB, AFDD, motor reclosing). You will be part of Product Care unit, managing the maintenance and the improvement/optimization of products in production (mainly in our factory in Santa Palomba - Rome, but not only), inside a global and international environment. Work model: #LI-Hybrid. In this role, you\u2019ll help run what runs the world by taking on meaningful work that drives real impact, as you will be accountable for: Participate as R&D member into cross-functional improvement team focused on specific electric/electronic products, managing different maintenance topic (e.g. maintain product robustness, component shortage, cost reduction). Propose and discuss product change activities, working in cross-functional teams with mechanical, electrical, electronic (hardware and firmware) designers, with special focus on prototyping and validation of the solution, together with Laboratory and Quality. Evaluate requests from Production, Quality and Engineering departments and propose product modifications accordingly. Prepare technical reports supported by design calculations, simulations and test lab, using standard and non-standard tools. Coordinate prototypes construction to ensure alignment with project/task timeline; plan and analyze experimental tests to verify technical solutions. Work within the project team, opting for time and cost-effective solutions. Maintain Bills of Materials of products (SAP/Windchill). Coordinate tasks assigned to external suppliers, ensuring clear specifications and timeline. Qualifications for the Role Master\u2019s Degree in Electronic or Electrical Engineering Previous experience (2-3 years at least) in design and maintenance of electronic devices is a plus. Good level of Italian and English, both written and spoken. Result orientation and personal ownership of tasks, good communication skills to handle different perspectives and achieve buy-in. Knowledge of task management tools such as DevOps and/or Jira. Ability to work in SAP and/or Windchill environment for what related to BOM. Good level of technical competencies in laboratory environment. Knowledge of Altium, knowledge of statistical analysis tool (such as Minitab), Knowledge of communication protocol such as: Wi-Fi, Modbus, Mbus wired and wireless. Experience in lean sigma approach. Availability to travel for about 20% of the time in Italy or abroad (mainly European territory). Compensation Package As part of our commitment to transparency, we want to share the compensation de",
-    "posted_at": "2026-06-09",
+    "description": "R&D Associate Engineer",
+    "posted_at": "Posted 5 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -11952,7 +11896,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "5e5c34722ac8": {
     "company": "Novanta",
@@ -11973,7 +11917,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "72b06304eead": {
     "company": "T-Mobile",
@@ -11994,7 +11938,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "643e6523f572": {
     "company": "American Century Investments",
@@ -12036,7 +11980,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "fbcc2de607db": {
     "company": "University of Wisconsin System",
@@ -12057,7 +12001,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "4173110504c0": {
     "company": "Ensemble Health Partners",
@@ -12078,7 +12022,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "4f801f04e0fe": {
     "company": "Broadcom Limited",
@@ -12099,7 +12043,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "83476d550b60": {
     "company": "Broadcom Limited",
@@ -12120,7 +12064,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "ad5010831763": {
     "company": "Broadcom Limited",
@@ -12141,7 +12085,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "c291efce4fcc": {
     "company": "Broadcom Limited",
@@ -12162,7 +12106,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "42e61eb6e80d": {
     "company": "Thomson Reuters",
@@ -12191,7 +12135,7 @@
     "location": "United States of America",
     "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-McLean-Virginia/Network-Engineer_JREQ201365",
     "description": "Network Engineer",
-    "posted_at": "Posted 2 Days Ago",
+    "posted_at": "Posted 3 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "medium",
@@ -12200,11 +12144,11 @@
     "sponsor_cert": 100.0,
     "match_score": 8,
     "matched_skills": [],
-    "age_days": 2,
-    "fresh": true,
+    "age_days": 3,
+    "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "7657a40736dc": {
     "company": "Thomson Reuters",
@@ -12246,7 +12190,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "074cc78492a7": {
     "company": "Carnegie Mellon University",
@@ -12393,7 +12337,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "f87589bb9be2": {
     "company": "American Family Insurance Group",
@@ -12435,7 +12379,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "2011e07f35b2": {
     "company": "McKesson",
@@ -12501,7 +12445,7 @@
       "postgres",
       "aws"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -12525,7 +12469,7 @@
       "go",
       "agent"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
@@ -12636,7 +12580,7 @@
     "fresh": false,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "aa0771d26e60": {
     "company": "Bank of America",
@@ -12660,7 +12604,7 @@
     "fresh": true,
     "first_seen": "2026-06-13",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "8bdc8194cb1d": {
     "company": "Elevance Health",
@@ -12710,7 +12654,7 @@
     "location": "Sunnyvale, California, U",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Sunnyvale-California-United-States-of-America/System-Software-Engineer_1203998",
     "description": "System Software Engineer",
-    "posted_at": "Posted 3 Days Ago",
+    "posted_at": "Posted 4 Days Ago",
     "source": "workday",
     "opt_friendly": true,
     "sponsor_tier": "high",
@@ -12719,11 +12663,11 @@
     "sponsor_cert": 100.0,
     "match_score": 20,
     "matched_skills": [],
-    "age_days": 3,
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-13",
-    "last_seen": "2026-06-13",
-    "open": false
+    "last_seen": "2026-06-14",
+    "open": true
   },
   "ff60b47e8be3": {
     "company": "MiTek",
@@ -12786,7 +12730,7 @@
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": false
+    "open": true
   },
   "148f17ed2c49": {
     "company": "Cadence",
@@ -12893,7 +12837,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "1bd505b74607": {
     "company": "Johnson & Johnson",
@@ -12940,7 +12884,7 @@
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "4e716c07429f": {
     "company": "University of Wisconsin System",
@@ -12961,7 +12905,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "583416f48fa0": {
     "company": "Salesforce",
@@ -12985,7 +12929,7 @@
       "api",
       "mongodb"
     ],
-    "age_days": 0,
+    "age_days": 1,
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
@@ -13010,28 +12954,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
-  },
-  "23f5c26adba1": {
-    "company": "Worldpay",
-    "title": "Automation Engineer (Linux) - Puppet/Ansible",
-    "location": "VIRTUAL MASSACHUSETTS",
-    "url": "https://worldpay.wd5.myworkdayjobs.com/en-US/Worldpay_External_Careers_Site/job/VIRTUAL-MASSACHUSETTS/Automation-Engineer--Linux----Puppet-Ansible_JR0609993-1",
-    "description": "Automation Engineer (Linux) - Puppet/Ansible",
-    "posted_at": "",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "medium",
-    "sponsors_visa": true,
-    "sponsor_cases": 36,
-    "sponsor_cert": 91.7,
-    "match_score": 8,
-    "matched_skills": [],
-    "age_days": null,
-    "fresh": false,
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "54ef1d79fcc0": {
     "company": "Merck",
@@ -13052,7 +12975,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "d70e864ab80b": {
     "company": "Ameriprise Financial",
@@ -13073,7 +12996,7 @@
     "fresh": true,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "5b5e4ce73cea": {
     "company": "University of Central Florida",
@@ -13115,28 +13038,7 @@
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
-    "open": true
-  },
-  "7aebac20056c": {
-    "company": "Embry-Riddle Aeronautical University",
-    "title": "Assistant/Associate Professor of Computer Engineering (NTT), Prescott Campus",
-    "location": "Prescott, AZ",
-    "url": "https://embryriddle.wd1.myworkdayjobs.com/en-US/External/job/Prescott-AZ/Assistant-Associate-Professor-of-Computer-Engineering--NTT---Prescott-Campus_R311259",
-    "description": "Assistant/Associate Professor of Computer Engineering (NTT), Prescott Campus",
-    "posted_at": "",
-    "source": "workday",
-    "opt_friendly": true,
-    "sponsor_tier": "medium",
-    "sponsors_visa": true,
-    "sponsor_cases": 29,
-    "sponsor_cert": 65.5,
-    "match_score": 8,
-    "matched_skills": [],
-    "age_days": null,
-    "fresh": false,
-    "first_seen": "2026-06-14",
-    "last_seen": "2026-06-14",
-    "open": true
+    "open": false
   },
   "74f77f6dd523": {
     "company": "CoorsTek",
@@ -13154,6 +13056,181 @@
     "match_score": 20,
     "matched_skills": [],
     "age_days": 6,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": false
+  },
+  "b2d71c35f7ef": {
+    "company": "Exa Labs",
+    "title": "Software Engineer, Knowledge Systems",
+    "location": "San Francisco, Californi",
+    "url": "https://jobs.ashbyhq.com/exa/1f90ebb9-0f74-4a52-822a-d0ea6acdef4f",
+    "description": "Exa is an applied AI lab building a search engine unlike the world has ever seen. We build massive-scale infra to crawl the entire web, train state-of-the-art embedding models to process it, and design super high performant vector databases to retrieve over it. We now power search for Cursor, Cognition, HubSpot, and over 400,000 developers and have raised $350m from Lightspeed, Benchmark, and a16z. Our ultimate goal is to build perfect search over all the world's information, far beyond Google. If you want to build massive-scale ML systems that will define the way the new AI world consumes information, this is the place for you. As a Software Engineer on Knowledge Systems, you\u2019ll help build systems that understand what is true about the world. You\u2019ll work on extracting, connecting, retrieving, and reasoning over knowledge from the web and beyond so AI agents can answer questions with unprecedented precision and completeness. Desired Experience - You have experience building and maintaining complex distributed backend systems - You can build data pipelines that process petabytes of documents, metadata, and unstructured data - You\u2019re comfortable optimizing systems for correctness, reliability, and scale - You care deeply about data quality and finding high-quality information Plus: experience building systems involving graph traversal, entity resolution, data quality, or truth discovery Example Projects - Build a system that can answer every factual question about every person in the world - Design a new query language for searching, traversing, and reasoning over billions of facts",
+    "posted_at": "2026-06-14T22:39:58.050+00:00",
+    "source": "ashby",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": null,
+    "sponsor_cert": null,
+    "match_score": 44,
+    "matched_skills": [
+      "go",
+      "agent",
+      "data pipeline"
+    ],
+    "age_days": 0,
+    "fresh": true,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "348c9a454ad3": {
+    "company": "PNC Financial Services",
+    "title": "Fraud Data Scientist (Card Transactions)",
+    "location": "Birmingham - Brock (AL11",
+    "url": "https://pnc.wd5.myworkdayjobs.com/en-US/External/job/Birmingham---Brock-AL112/Portfolio-Analytics---Strategy-Specialist_R203038",
+    "description": "Fraud Data Scientist (Card Transactions)",
+    "posted_at": "Posted 6 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 31,
+    "sponsor_cert": 96.8,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 6,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "21f191730ef2": {
+    "company": "Thomson Reuters",
+    "title": "Data Scientist",
+    "location": "United States of America",
+    "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-McLean-Virginia/Data-Scientist_JREQ198978",
+    "description": "Data Scientist",
+    "posted_at": "Posted 4 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "medium",
+    "sponsors_visa": true,
+    "sponsor_cases": 10,
+    "sponsor_cert": 100.0,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 4,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "7968eae59e6b": {
+    "company": "University of Southern California",
+    "title": "Research Data Scientist",
+    "location": "Los Angeles, CA - Univer",
+    "url": "https://usc.wd5.myworkdayjobs.com/en-US/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Research-Data-Scientist_REQ20176309",
+    "description": "Research Data Scientist",
+    "posted_at": "Posted 5 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 88,
+    "sponsor_cert": 89.8,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 5,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "f869d4f6f352": {
+    "company": "Fiserv",
+    "title": "Machine Learning Software Engineer (AI)",
+    "location": "Alpharetta, Georgia",
+    "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Alpharetta-Georgia/Software-Development-Engineer--AI---ML-_R-10373747",
+    "description": "Machine Learning Software Engineer (AI)",
+    "posted_at": "Posted Today",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 95,
+    "sponsor_cert": 98.9,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 0,
+    "fresh": true,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "59da52aaed9a": {
+    "company": "Fiserv",
+    "title": "Associate Android Systems Engineer (Entry-Level)",
+    "location": "Sunnyvale, California",
+    "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Sunnyvale-California/Android-Systems-Engineer---Core-Payments_R-10370875-1",
+    "description": "Associate Android Systems Engineer (Entry-Level)",
+    "posted_at": "Posted 2 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 95,
+    "sponsor_cert": 98.9,
+    "match_score": 8,
+    "matched_skills": [],
+    "age_days": 2,
+    "fresh": true,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "95603766ddd7": {
+    "company": "Fiserv",
+    "title": "Software Development Engineer for Implementations",
+    "location": "Berkeley Heights, New Je",
+    "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Berkeley-Heights-New-Jersey/Software-Development-Engineer-for-Implementations_R-10391719",
+    "description": "Software Development Engineer for Implementations",
+    "posted_at": "Posted 3 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 95,
+    "sponsor_cert": 98.9,
+    "match_score": 20,
+    "matched_skills": [],
+    "age_days": 3,
+    "fresh": false,
+    "first_seen": "2026-06-14",
+    "last_seen": "2026-06-14",
+    "open": true
+  },
+  "53514d23f209": {
+    "company": "The Home Depot",
+    "title": "Software Engineer II - Golang (Remote)",
+    "location": "GEORGIA - VIRTUAL - GA01",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer-II--Remote-_Req182582-1",
+    "description": "Software Engineer II - Golang (Remote)",
+    "posted_at": "Posted 4 Days Ago",
+    "source": "workday",
+    "opt_friendly": true,
+    "sponsor_tier": "high",
+    "sponsors_visa": true,
+    "sponsor_cases": 70,
+    "sponsor_cert": 100.0,
+    "match_score": 36,
+    "matched_skills": [
+      "go",
+      "golang"
+    ],
+    "age_days": 4,
     "fresh": false,
     "first_seen": "2026-06-14",
     "last_seen": "2026-06-14",
