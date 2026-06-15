@@ -155,7 +155,8 @@ _WD_TITLE_HINT = _re.compile(r"engineer|developer|programmer|software|\bsde\b|\b
 # page 10/20/30 that no human scrolls to. GitHub Actions has unlimited minutes, so
 # runtime is fine. Small boards stop early (offset >= total); only big ones go deep.
 _WD_SEARCH_TERMS = ["software engineer", "developer", "data scientist"]
-_WD_PAGES = 15   # up to 300 results per term
+_WD_PAGES = 6    # up to 120 results/term — deep enough for junior roles without
+                 # the 40-min runtime that 15 pages caused
 # skip obviously-senior titles BEFORE spending a detail-fetch on them, so the
 # detail budget goes to the junior/early-career roles we actually want
 _WD_SENIOR = _re.compile(r"\b(senior|sr|staff|principal|lead|director|manager|"
@@ -163,7 +164,7 @@ _WD_SENIOR = _re.compile(r"\b(senior|sr|staff|principal|lead|director|manager|"
 
 
 # ---------- Workday ----------
-def scrape_workday(slug, company, fetch_detail=True, max_detail=120):
+def scrape_workday(slug, company, fetch_detail=True, max_detail=60):
     # slug format: "tenant|dc|site"  e.g. "nvidia|wd5|NVIDIAExternalCareerSite"
     tenant, dc, site = slug.split("|")
     base = f"https://{tenant}.{dc}.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs"
