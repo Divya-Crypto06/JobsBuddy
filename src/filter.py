@@ -123,8 +123,13 @@ def company_blocked(company, profile):
             or _has_word(c, profile.get("defense_exclude", [])))
 
 
-STRONG_US = ["united states", "usa", "u.s.", ", us", "- us", "remote us",
-             "remote - us", "us-remote", "remote, us"]
+# word-boundary US signal — bare substring "usa" wrongly matched "loUSAdo" (Portugal!)
+_STRONG_US_RE = re.compile(
+    r"\bunited states\b|\busa\b|\bu\.s\.|[,\-]\s*us\b|\bus[\s-]remote\b|\bremote[\s,\-]+us\b")
+
+
+def _strong_us(text):
+    return bool(_STRONG_US_RE.search(text))
 
 # foreign ISO country codes safe to block as a trailing location token —
 # EXCLUDES codes that collide with US state abbreviations
@@ -179,7 +184,7 @@ def location_ok(location, profile):
     full = (location or "").lower()          # may be "location url"
     loc_text = full.split("http")[0].strip()  # location portion only (drop URL)
 
-    strong_us = _has_any(full, STRONG_US)
+    strong_us = _strong_us(full)
 
     # 1) explicit foreign signal (known country/city, anywhere incl. URL path) -> drop
     if _has_word(full, profile.get("us_location_block", [])) and not strong_us:
