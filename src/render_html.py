@@ -77,7 +77,9 @@ def render_html(jobs, profile, today):
             f'<tr class="daysep"><td colspan="6">{label}'
             f'<span class="daycount">{len(group)} roles</span></td></tr>')
         for j in group:
-            is_new = rank <= 1
+            # NEW = we just DISCOVERED this job in today's scrape (matches the
+            # legend). NOT "posted recently" — the section header already says that.
+            is_new = j.get("first_seen") == today
             new_badge = '<span class="tag tag-new">NEW</span>' if is_new else ""
             tier = j.get("sponsor_tier")
             if j.get("sponsors_visa"):

@@ -135,7 +135,7 @@ def render_readme(jobs, profile, today):
     L.append(f"<sub>🔄 Last updated: **{now}** • Total roles tracked: **{total}** • "
              f"Open now: **{open_now}** • 🆕 Added today: **{new_today}**</sub>")
     L.append("")
-    L.append("**Legend:** 🔥 NEW = added in the latest update (older jobs lose this automatically) • "
+    L.append("**Legend:** 🔥 = newly discovered today (jobs we first found in today's scrape) • "
              "✅ Sponsors = recent H1B filing history • Posted = how long ago the company "
              "posted it • Match % = how strong a fit the role is. (Only open, currently-listed jobs shown.)")
     L.append("")
@@ -149,7 +149,9 @@ def render_readme(jobs, profile, today):
         L.append("| | Company | Role | Location | Visa | Match | Posted | Apply |")
         L.append("|--|--|--|--|--|--|--|--|")
         for j in group:
-            flags = "🔥" if rank <= 1 else ""   # fire on Today/Yesterday postings
+            # 🔥 = we just DISCOVERED this job in today's scrape (matches the
+            # legend). NOT "posted recently" — the section header shows posting age.
+            flags = "🔥" if j.get("first_seen") == today else ""
             title = (j.get("title", "")).replace("|", "/")
             loc = (j.get("location") or "—").replace("|", "/")[:28]
             L.append(f"| {flags} | {j.get('company','')} | {title} | {loc} | "
