@@ -23,7 +23,64 @@ from render import render_readme
 from render_html import render_html
 
 HERE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# ── TITLE ALLOW: only keep jobs whose title matches one of these ──────────────
+TITLE_ALLOW = [
+    # Software / SDE
+    "software engineer", "software developer", "sde", "swe",
+    # Full-stack
+    "full stack", "fullstack", "full-stack",
+    # Backend
+    "backend", "back end", "back-end",
+    "server side", "api engineer", "api developer",
+    # Java
+    "java developer", "java engineer", "spring boot", "j2ee",
+    # Related SDE roles
+    "application developer", "application engineer",
+    "web developer", "web engineer",
+    "platform engineer",   # infra-adjacent but SDE-heavy
+    "devops engineer",     # often SDE-background required
+    "site reliability", "sre",
+    "mobile engineer", "android engineer", "ios engineer",
+    "cloud engineer", "cloud developer",
+]
 
+# ── TITLE BLOCK: reject even if ALLOW matched ────────────────────────────────
+TITLE_BLOCK = [
+    # non-software engineering
+    "mechanical", "electrical", "civil", "chemical", "structural",
+    "manufacturing", "hardware", "firmware", "embedded",
+    "rf engineer", "antenna", "photonic", "optical",
+    "test engineer",       # ambiguous but mostly non-SDE in your board
+    "qa engineer", "quality engineer",
+    "systems engineer",    # too broad — catches aerospace, defense
+    "field engineer", "field application",
+    "sales engineer", "solutions engineer",
+    "broadcast engineer", "audio engineer",
+    "water", "wastewater", "environmental",
+    "commissioning", "validation engineer",
+    "equipment engineer", "process engineer",
+    "production engineer", "automation engineer",
+    "design engineer", "r&d engineer",
+    "data scientist",      # keep if you want it, remove if not
+    "data analyst",
+    "machine learning",    # keep if you want ML roles
+    "research engineer",
+    "legal engineer",
+    "safety engineer",
+    "metrology", "gnc engineer",
+    "power generation", "semiconductor",
+    "tire engineer", "material",
+]
+
+def is_target_role(title: str) -> bool:
+    t = title.lower()
+    # Must match at least one allow keyword
+    if not any(kw in t for kw in TITLE_ALLOW):
+        return False
+    # Must NOT match any block keyword
+    if any(kw in t for kw in TITLE_BLOCK):
+        return False
+    return True
 
 def _load(name, default):
     p = os.path.join(HERE, name)
@@ -38,7 +95,9 @@ def job_key(j):
     raw = f"{j['company']}|{j['title']}".lower().strip()
     return hashlib.md5(raw.encode()).hexdigest()[:12]
 
-
+# wherever you currently filter jobs, add this check:
+if not is_target_role(job["title"]):
+    continue
 def _fresh_enough(age, max_age, strict):
     if age is None:
         return not strict          # strict mode drops jobs we can't date
