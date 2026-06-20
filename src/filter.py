@@ -32,11 +32,11 @@ def _has_any(text, needles):
 # NOTE: dropped "coder" — it matched "Nurse Coder" / "Medical Coder" (non-software)
 _ROLE_CORE = re.compile(r"\b(engineer|engineering|developer|programmer|"
                         r"sde|swe|sre|sdet|dba)\b")
-_ROLE_CORE_PHRASES = ["data scientist", "applied scientist", "machine learning",
-                      "data science", "site reliability", "data analyst",
-                      "database administrator", "analytics engineer"]
+_ROLE_CORE_PHRASES = ["java developer", "backend developer", "machine learning",
+                      "full stack developer", "react developer", "front end developer",
+                      "react", "javascript" , "typescript" , "springboot" , "microservices" ]
 # seniority — drop these
-_SENIOR = re.compile(r"\b(senior|sr|staff|principal|lead|leads|manager|director|"
+_SENIOR = re.compile(r"\b(sr|staff|principal|lead|leads|manager|director|"
                      r"head|vp|vice president|president|distinguished|architect|"
                      r"intern|internship|apprentice|trainee|co op|fellow|phd)\b")
 
