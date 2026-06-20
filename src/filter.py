@@ -1,13 +1,13 @@
 """
 Station 2: FILTER
-Keeps only jobs that match Siddartha's resume profile:
-  - role is SWE / AI / Data / Full-stack (roles_include) and not senior (roles_exclude)
-  - experience 0-3 years (drops postings that require 4+ years)
+Keeps only jobs that match Divya Sri's resume profile:
+  - role is SWE Full-stack (roles_include) and not senior (roles_exclude)
+  - experience 3-6 years
   - flags jobs that look citizen-only / no-sponsorship
 """
 import re
 
-MAX_YEARS = 3   # keep roles requiring up to this many years; drop 4+
+MAX_YEARS = 6   # keep roles requiring up to this many years; drop 4+
 
 # Patterns that capture the REQUIRED years number, in many real-world phrasings:
 #   "4+ years", "4+ working", "4+ yoe", "4 - 6 years", "minimum of 4 years",
