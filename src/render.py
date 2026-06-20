@@ -72,7 +72,7 @@ def render_readme(jobs, profile, today):
     L.append("# 🌍 JobsBuddy — Visa-Sponsoring Tech Jobs for International Students")
     L.append("")
     L.append("<p align=\"center\">")
-    L.append("<a href=\"https://github.com/SIDDARTHAREDDY8/JobsBuddy/stargazers\">"
+    L.append("<a href=\"https://github.com/Divya-Crypto06/JobsBuddy/stargazers\">"
              "<img src=\"https://img.shields.io/github/stars/SIDDARTHAREDDY8/JobsBuddy?"
              "style=for-the-badge&logo=github&color=gold\" alt=\"Stars\"></a>")
     L.append("<img src=\"https://img.shields.io/badge/updated-every%206%20hours-brightgreen?"
