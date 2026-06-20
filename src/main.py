@@ -77,7 +77,7 @@ def main():
     # actually-outdated jobs. Incompatible with a freshness-first board.
     print(f"   total raw jobs: {len(jobs)}")
 
-    print("② Filtering to my profile (role + 0-3 yrs + sponsor-friendly)...")
+    print("② Filtering to my profile (role + 3 yrs + sponsor-friendly)...")
     jobs = filter_jobs(jobs, profile)
     print(f"   kept: {len(jobs)}")
 
@@ -179,7 +179,7 @@ def main():
         f.write(render_html(snapshot, profile, today))
 
     # SEO: sitemap + robots so search engines crawl the site
-    site = "https://siddarthareddy8.github.io/JobsBuddy/"
+    site = "https://Divya-Crypto06.github.io/JobsBuddy/"
     with open(os.path.join(HERE, "sitemap.xml"), "w") as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n'
                 '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
