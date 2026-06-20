@@ -37,7 +37,7 @@ def _abs_date_from_relative(text):
         return text
     return (datetime.now(timezone.utc) - timedelta(days=days)).strftime("%Y-%m-%d")
 
-UA = "opt-friendly-jobs/1.0 (+https://github.com/SIDDARTHAREDDY8)"
+UA = "opt-friendly-jobs/1.0 (+https://github.com/Divya-Crypto06)"
 TIMEOUT = 20
 
 # ISO-3166 country codes -> full name, so the location filter (which matches
