@@ -11,7 +11,7 @@ import html
 import json
 
 ET = ZoneInfo("America/New_York")
-SITE_URL = "https://siddarthareddy8.github.io/JobsBuddy/"
+SITE_URL = "https://Divya-Crypto06.github.io/JobsBuddy/"
 
 
 def _coverage():
@@ -258,8 +258,8 @@ footer a{{font-weight:600}}
   <div class="nav-in">
     <div class="brand"><span class="mark">JB</span> JobsBuddy</div>
     <div class="nav-links">
-      <a class="btn btn-ghost" href="https://github.com/SIDDARTHAREDDY8/JobsBuddy/subscription" target="_blank" rel="noopener">Watch</a>
-      <a class="btn btn-solid" href="https://github.com/SIDDARTHAREDDY8/JobsBuddy" target="_blank" rel="noopener">★ Star on GitHub</a>
+      <a class="btn btn-ghost" href="https://github.com/Divya-Crypto06/JobsBuddy/subscription" target="_blank" rel="noopener">Watch</a>
+      <a class="btn btn-solid" href="https://github.com/Divya-Crypto06/JobsBuddy" target="_blank" rel="noopener">★ Star on GitHub</a>
     </div>
   </div>
 </header>
