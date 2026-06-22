@@ -2,7 +2,7 @@
 Station 2: FILTER
 Keeps only jobs that match Divya Sri's resume profile:
   - role is SWE Full-stack (roles_include) and not senior (roles_exclude)
-  - experience 3-6 years
+  - experience 4-6 years
   - flags jobs that look citizen-only / no-sponsorship
 """
 import re
@@ -197,7 +197,7 @@ def location_ok(location, profile):
     last = seg.split()[0] if seg.split() else ""
     if (last in FOREIGN_CC or last in FOREIGN_CC3) and not strong_us:
         return False
-
+      
     # 3) US-REQUIRED: must have a positive US signal to pass
     if not loc_text:
         return True            # truly no location given -> keep (rare, don't over-drop)
